@@ -6,8 +6,10 @@ TODO:
  - CDhit proteins / scffold split molecules
 """
 
+import os
 import numpy as np
 import pandas as pd
+import pickle as pkl
 from tqdm import tqdm
 
 import esm
@@ -26,11 +28,15 @@ def generate_embeddings(dataset, mol_emb_type):
     # protein embeddings
 
     # check if saved
+    parent_dir = os.path.dirname(dataset)
+    save_path = os.path.join(parent_dir, 'featurized_proteins', 'prots.pkl')
+    if os.path.isfile(save_path):
+        return pkl.load(open(save_path, 'rb'))
 
     # get all proteins
     prots = []
     for i, row in pd.read_csv(dataset).iterrows():
-        prots.append((row['Protein'], row['Protein sequence']))
+        prots.append((row['Protein sequence'][:5], row['Protein sequence']))
 
     prots = list(set(prots))
 
@@ -40,7 +46,7 @@ def generate_embeddings(dataset, mol_emb_type):
     model.eval()
 
     # generated protein embeddings
-    batch_labels, batch_strs, batch_tokens = batch_converter(prots)
+    _, _, batch_tokens = batch_converter(prots)
     batch_lens = (batch_tokens != alphabet.padding_idx).sum(1)
 
     # Extract per-residue representations
@@ -54,6 +60,15 @@ def generate_embeddings(dataset, mol_emb_type):
         sequence_representations.append(
             token_representations[i, 1:tokens_len - 1].mean(0)
         )
+
+    # putting representations into a dict and saving
+    feat_dict = {}
+    for p, rep in zip(prots, sequence_representations):
+        feat_dict[p[1]] = rep
+
+    pkl.dump(feat_dict, open(save_path, "wb"))
+
+    return feat_dict
 
 
 def main(dataset):
@@ -72,3 +87,4 @@ if __name__ == '__main__':
         # 'data/Davis/davis.csv'
     ]
     main(datasets)
+    print('done')
