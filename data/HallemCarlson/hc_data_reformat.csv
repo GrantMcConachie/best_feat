@@ -1,0 +1,2641 @@
+,Protein,odorant,SMILES,output
+0,2a,ammonium hydroxide,[NH4+].[OH-],-5
+1,7a,ammonium hydroxide,[NH4+].[OH-],-38
+2,9a,ammonium hydroxide,[NH4+].[OH-],29
+3,10a,ammonium hydroxide,[NH4+].[OH-],-4
+4,19a,ammonium hydroxide,[NH4+].[OH-],-28
+5,22a,ammonium hydroxide,[NH4+].[OH-],9
+6,23a,ammonium hydroxide,[NH4+].[OH-],-11
+7,33b,ammonium hydroxide,[NH4+].[OH-],-34
+8,35a,ammonium hydroxide,[NH4+].[OH-],-13
+9,43a,ammonium hydroxide,[NH4+].[OH-],-22
+10,43b,ammonium hydroxide,[NH4+].[OH-],1
+11,47a,ammonium hydroxide,[NH4+].[OH-],15
+12,47b,ammonium hydroxide,[NH4+].[OH-],-55
+13,49b,ammonium hydroxide,[NH4+].[OH-],-4
+14,59b,ammonium hydroxide,[NH4+].[OH-],3
+15,65a,ammonium hydroxide,[NH4+].[OH-],-15
+16,67a,ammonium hydroxide,[NH4+].[OH-],5
+17,67c,ammonium hydroxide,[NH4+].[OH-],4
+18,82a,ammonium hydroxide,[NH4+].[OH-],-14
+19,85a,ammonium hydroxide,[NH4+].[OH-],-20
+20,85b,ammonium hydroxide,[NH4+].[OH-],2
+21,85f,ammonium hydroxide,[NH4+].[OH-],10
+22,88a,ammonium hydroxide,[NH4+].[OH-],-26
+23,98a,ammonium hydroxide,[NH4+].[OH-],12
+24,2a,putrescine,NCCCCN,-2
+25,7a,putrescine,NCCCCN,-53
+26,9a,putrescine,NCCCCN,23
+27,10a,putrescine,NCCCCN,-40
+28,19a,putrescine,NCCCCN,-38
+29,22a,putrescine,NCCCCN,8
+30,23a,putrescine,NCCCCN,-11
+31,33b,putrescine,NCCCCN,-29
+32,35a,putrescine,NCCCCN,-17
+33,43a,putrescine,NCCCCN,-38
+34,43b,putrescine,NCCCCN,-1
+35,47a,putrescine,NCCCCN,-10
+36,47b,putrescine,NCCCCN,-72
+37,49b,putrescine,NCCCCN,-15
+38,59b,putrescine,NCCCCN,0
+39,65a,putrescine,NCCCCN,-20
+40,67a,putrescine,NCCCCN,-15
+41,67c,putrescine,NCCCCN,0
+42,82a,putrescine,NCCCCN,-20
+43,85a,putrescine,NCCCCN,-27
+44,85b,putrescine,NCCCCN,11
+45,85f,putrescine,NCCCCN,1
+46,88a,putrescine,NCCCCN,-32
+47,98a,putrescine,NCCCCN,5
+48,2a,cadaverine,NCCCCCN,-7
+49,7a,cadaverine,NCCCCCN,-58
+50,9a,cadaverine,NCCCCCN,18
+51,10a,cadaverine,NCCCCCN,-31
+52,19a,cadaverine,NCCCCCN,-34
+53,22a,cadaverine,NCCCCCN,9
+54,23a,cadaverine,NCCCCCN,-16
+55,33b,cadaverine,NCCCCCN,-32
+56,35a,cadaverine,NCCCCCN,-5
+57,43a,cadaverine,NCCCCCN,-31
+58,43b,cadaverine,NCCCCCN,10
+59,47a,cadaverine,NCCCCCN,-9
+60,47b,cadaverine,NCCCCCN,-63
+61,49b,cadaverine,NCCCCCN,-10
+62,59b,cadaverine,NCCCCCN,5
+63,65a,cadaverine,NCCCCCN,-19
+64,67a,cadaverine,NCCCCCN,-19
+65,67c,cadaverine,NCCCCCN,8
+66,82a,cadaverine,NCCCCCN,-18
+67,85a,cadaverine,NCCCCCN,-25
+68,85b,cadaverine,NCCCCCN,16
+69,85f,cadaverine,NCCCCCN,9
+70,88a,cadaverine,NCCCCCN,-26
+71,98a,cadaverine,NCCCCCN,9
+72,2a,g-butyrolactone,O=C1CCCO1,1
+73,7a,g-butyrolactone,O=C1CCCO1,17
+74,9a,g-butyrolactone,O=C1CCCO1,50
+75,10a,g-butyrolactone,O=C1CCCO1,-20
+76,19a,g-butyrolactone,O=C1CCCO1,-36
+77,22a,g-butyrolactone,O=C1CCCO1,39
+78,23a,g-butyrolactone,O=C1CCCO1,-5
+79,33b,g-butyrolactone,O=C1CCCO1,-18
+80,35a,g-butyrolactone,O=C1CCCO1,64
+81,43a,g-butyrolactone,O=C1CCCO1,-33
+82,43b,g-butyrolactone,O=C1CCCO1,17
+83,47a,g-butyrolactone,O=C1CCCO1,5
+84,47b,g-butyrolactone,O=C1CCCO1,-38
+85,49b,g-butyrolactone,O=C1CCCO1,-9
+86,59b,g-butyrolactone,O=C1CCCO1,14
+87,65a,g-butyrolactone,O=C1CCCO1,-12
+88,67a,g-butyrolactone,O=C1CCCO1,114
+89,67c,g-butyrolactone,O=C1CCCO1,14
+90,82a,g-butyrolactone,O=C1CCCO1,-23
+91,85a,g-butyrolactone,O=C1CCCO1,-22
+92,85b,g-butyrolactone,O=C1CCCO1,34
+93,85f,g-butyrolactone,O=C1CCCO1,16
+94,88a,g-butyrolactone,O=C1CCCO1,-24
+95,98a,g-butyrolactone,O=C1CCCO1,17
+96,2a,g-hexalactone,CCC1CCC(=O)O1,7
+97,7a,g-hexalactone,CCC1CCC(=O)O1,-56
+98,9a,g-hexalactone,CCC1CCC(=O)O1,115
+99,10a,g-hexalactone,CCC1CCC(=O)O1,4
+100,19a,g-hexalactone,CCC1CCC(=O)O1,-31
+101,22a,g-hexalactone,CCC1CCC(=O)O1,136
+102,23a,g-hexalactone,CCC1CCC(=O)O1,3
+103,33b,g-hexalactone,CCC1CCC(=O)O1,0
+104,35a,g-hexalactone,CCC1CCC(=O)O1,154
+105,43a,g-hexalactone,CCC1CCC(=O)O1,-13
+106,43b,g-hexalactone,CCC1CCC(=O)O1,28
+107,47a,g-hexalactone,CCC1CCC(=O)O1,23
+108,47b,g-hexalactone,CCC1CCC(=O)O1,-83
+109,49b,g-hexalactone,CCC1CCC(=O)O1,-9
+110,59b,g-hexalactone,CCC1CCC(=O)O1,16
+111,65a,g-hexalactone,CCC1CCC(=O)O1,0
+112,67a,g-hexalactone,CCC1CCC(=O)O1,36
+113,67c,g-hexalactone,CCC1CCC(=O)O1,34
+114,82a,g-hexalactone,CCC1CCC(=O)O1,-11
+115,85a,g-hexalactone,CCC1CCC(=O)O1,-17
+116,85b,g-hexalactone,CCC1CCC(=O)O1,40
+117,85f,g-hexalactone,CCC1CCC(=O)O1,47
+118,88a,g-hexalactone,CCC1CCC(=O)O1,-23
+119,98a,g-hexalactone,CCC1CCC(=O)O1,12
+120,2a,g-octalactone,CCCCC1CCC(=O)O1,-1
+121,7a,g-octalactone,CCCCC1CCC(=O)O1,-39
+122,9a,g-octalactone,CCCCC1CCC(=O)O1,23
+123,10a,g-octalactone,CCCCC1CCC(=O)O1,4
+124,19a,g-octalactone,CCCCC1CCC(=O)O1,-27
+125,22a,g-octalactone,CCCCC1CCC(=O)O1,37
+126,23a,g-octalactone,CCCCC1CCC(=O)O1,-6
+127,33b,g-octalactone,CCCCC1CCC(=O)O1,-15
+128,35a,g-octalactone,CCCCC1CCC(=O)O1,19
+129,43a,g-octalactone,CCCCC1CCC(=O)O1,-26
+130,43b,g-octalactone,CCCCC1CCC(=O)O1,25
+131,47a,g-octalactone,CCCCC1CCC(=O)O1,16
+132,47b,g-octalactone,CCCCC1CCC(=O)O1,-66
+133,49b,g-octalactone,CCCCC1CCC(=O)O1,-11
+134,59b,g-octalactone,CCCCC1CCC(=O)O1,-2
+135,65a,g-octalactone,CCCCC1CCC(=O)O1,2
+136,67a,g-octalactone,CCCCC1CCC(=O)O1,14
+137,67c,g-octalactone,CCCCC1CCC(=O)O1,10
+138,82a,g-octalactone,CCCCC1CCC(=O)O1,4
+139,85a,g-octalactone,CCCCC1CCC(=O)O1,-27
+140,85b,g-octalactone,CCCCC1CCC(=O)O1,161
+141,85f,g-octalactone,CCCCC1CCC(=O)O1,24
+142,88a,g-octalactone,CCCCC1CCC(=O)O1,-42
+143,98a,g-octalactone,CCCCC1CCC(=O)O1,89
+144,2a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-9
+145,7a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-29
+146,9a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-4
+147,10a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-16
+148,19a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-51
+149,22a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,12
+150,23a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-12
+151,33b,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-8
+152,35a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-20
+153,43a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-39
+154,43b,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,0
+155,47a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-4
+156,47b,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-50
+157,49b,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-8
+158,59b,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-6
+159,65a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-20
+160,67a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-4
+161,67c,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-5
+162,82a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-24
+163,85a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-25
+164,85b,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,0
+165,85f,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-12
+166,88a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-19
+167,98a,g-decalactone,CCCCCCC1CC(C(=O)O)C(=O)O1,-3
+168,2a,d-decalactone,CCCCCC1CCCC(=O)O1,-8
+169,7a,d-decalactone,CCCCCC1CCCC(=O)O1,-32
+170,9a,d-decalactone,CCCCCC1CCCC(=O)O1,-5
+171,10a,d-decalactone,CCCCCC1CCCC(=O)O1,-25
+172,19a,d-decalactone,CCCCCC1CCCC(=O)O1,-52
+173,22a,d-decalactone,CCCCCC1CCCC(=O)O1,7
+174,23a,d-decalactone,CCCCCC1CCCC(=O)O1,-11
+175,33b,d-decalactone,CCCCCC1CCCC(=O)O1,-10
+176,35a,d-decalactone,CCCCCC1CCCC(=O)O1,-27
+177,43a,d-decalactone,CCCCCC1CCCC(=O)O1,-37
+178,43b,d-decalactone,CCCCCC1CCCC(=O)O1,0
+179,47a,d-decalactone,CCCCCC1CCCC(=O)O1,-1
+180,47b,d-decalactone,CCCCCC1CCCC(=O)O1,-51
+181,49b,d-decalactone,CCCCCC1CCCC(=O)O1,-12
+182,59b,d-decalactone,CCCCCC1CCCC(=O)O1,0
+183,65a,d-decalactone,CCCCCC1CCCC(=O)O1,-23
+184,67a,d-decalactone,CCCCCC1CCCC(=O)O1,-9
+185,67c,d-decalactone,CCCCCC1CCCC(=O)O1,-6
+186,82a,d-decalactone,CCCCCC1CCCC(=O)O1,-21
+187,85a,d-decalactone,CCCCCC1CCCC(=O)O1,-13
+188,85b,d-decalactone,CCCCCC1CCCC(=O)O1,11
+189,85f,d-decalactone,CCCCCC1CCCC(=O)O1,-8
+190,88a,d-decalactone,CCCCCC1CCCC(=O)O1,-27
+191,98a,d-decalactone,CCCCCC1CCCC(=O)O1,-4
+192,2a,methanoic acid,O=CO,-10
+193,7a,methanoic acid,O=CO,-31
+194,9a,methanoic acid,O=CO,11
+195,10a,methanoic acid,O=CO,17
+196,19a,methanoic acid,O=CO,-29
+197,22a,methanoic acid,O=CO,29
+198,23a,methanoic acid,O=CO,-17
+199,33b,methanoic acid,O=CO,-31
+200,35a,methanoic acid,O=CO,-12
+201,43a,methanoic acid,O=CO,-30
+202,43b,methanoic acid,O=CO,6
+203,47a,methanoic acid,O=CO,-2
+204,47b,methanoic acid,O=CO,-67
+205,49b,methanoic acid,O=CO,-5
+206,59b,methanoic acid,O=CO,23
+207,65a,methanoic acid,O=CO,-16
+208,67a,methanoic acid,O=CO,-6
+209,67c,methanoic acid,O=CO,6
+210,82a,methanoic acid,O=CO,-24
+211,85a,methanoic acid,O=CO,-23
+212,85b,methanoic acid,O=CO,1
+213,85f,methanoic acid,O=CO,0
+214,88a,methanoic acid,O=CO,-26
+215,98a,methanoic acid,O=CO,-8
+216,2a,acetic acid,CC(=O)O,-3
+217,7a,acetic acid,CC(=O)O,-28
+218,9a,acetic acid,CC(=O)O,6
+219,10a,acetic acid,CC(=O)O,4
+220,19a,acetic acid,CC(=O)O,-26
+221,22a,acetic acid,CC(=O)O,28
+222,23a,acetic acid,CC(=O)O,-10
+223,33b,acetic acid,CC(=O)O,-27
+224,35a,acetic acid,CC(=O)O,-18
+225,43a,acetic acid,CC(=O)O,-21
+226,43b,acetic acid,CC(=O)O,8
+227,47a,acetic acid,CC(=O)O,1
+228,47b,acetic acid,CC(=O)O,-68
+229,49b,acetic acid,CC(=O)O,-3
+230,59b,acetic acid,CC(=O)O,22
+231,65a,acetic acid,CC(=O)O,-14
+232,67a,acetic acid,CC(=O)O,-16
+233,67c,acetic acid,CC(=O)O,0
+234,82a,acetic acid,CC(=O)O,-6
+235,85a,acetic acid,CC(=O)O,-13
+236,85b,acetic acid,CC(=O)O,14
+237,85f,acetic acid,CC(=O)O,4
+238,88a,acetic acid,CC(=O)O,-31
+239,98a,acetic acid,CC(=O)O,7
+240,2a,propionic acid,CCC(=O)O,-7
+241,7a,propionic acid,CCC(=O)O,-12
+242,9a,propionic acid,CCC(=O)O,17
+243,10a,propionic acid,CCC(=O)O,22
+244,19a,propionic acid,CCC(=O)O,-24
+245,22a,propionic acid,CCC(=O)O,33
+246,23a,propionic acid,CCC(=O)O,-12
+247,33b,propionic acid,CCC(=O)O,-34
+248,35a,propionic acid,CCC(=O)O,-15
+249,43a,propionic acid,CCC(=O)O,-26
+250,43b,propionic acid,CCC(=O)O,5
+251,47a,propionic acid,CCC(=O)O,6
+252,47b,propionic acid,CCC(=O)O,-69
+253,49b,propionic acid,CCC(=O)O,1
+254,59b,propionic acid,CCC(=O)O,22
+255,65a,propionic acid,CCC(=O)O,-10
+256,67a,propionic acid,CCC(=O)O,38
+257,67c,propionic acid,CCC(=O)O,12
+258,82a,propionic acid,CCC(=O)O,-9
+259,85a,propionic acid,CCC(=O)O,-20
+260,85b,propionic acid,CCC(=O)O,28
+261,85f,propionic acid,CCC(=O)O,8
+262,88a,propionic acid,CCC(=O)O,-33
+263,98a,propionic acid,CCC(=O)O,-1
+264,2a,butyric acid,CCCC(=O)O,3
+265,7a,butyric acid,CCCC(=O)O,25
+266,9a,butyric acid,CCCC(=O)O,135
+267,10a,butyric acid,CCCC(=O)O,19
+268,19a,butyric acid,CCCC(=O)O,-19
+269,22a,butyric acid,CCCC(=O)O,113
+270,23a,butyric acid,CCCC(=O)O,-12
+271,33b,butyric acid,CCCC(=O)O,-36
+272,35a,butyric acid,CCCC(=O)O,-5
+273,43a,butyric acid,CCCC(=O)O,-28
+274,43b,butyric acid,CCCC(=O)O,18
+275,47a,butyric acid,CCCC(=O)O,16
+276,47b,butyric acid,CCCC(=O)O,-74
+277,49b,butyric acid,CCCC(=O)O,0
+278,59b,butyric acid,CCCC(=O)O,32
+279,65a,butyric acid,CCCC(=O)O,-9
+280,67a,butyric acid,CCCC(=O)O,121
+281,67c,butyric acid,CCCC(=O)O,10
+282,82a,butyric acid,CCCC(=O)O,-9
+283,85a,butyric acid,CCCC(=O)O,-24
+284,85b,butyric acid,CCCC(=O)O,26
+285,85f,butyric acid,CCCC(=O)O,14
+286,88a,butyric acid,CCCC(=O)O,-28
+287,98a,butyric acid,CCCC(=O)O,-1
+288,2a,pentanoic acid,CCCCC(=O)O,-1
+289,7a,pentanoic acid,CCCCC(=O)O,5
+290,9a,pentanoic acid,CCCCC(=O)O,16
+291,10a,pentanoic acid,CCCCC(=O)O,8
+292,19a,pentanoic acid,CCCCC(=O)O,1
+293,22a,pentanoic acid,CCCCC(=O)O,41
+294,23a,pentanoic acid,CCCCC(=O)O,-7
+295,33b,pentanoic acid,CCCCC(=O)O,-36
+296,35a,pentanoic acid,CCCCC(=O)O,19
+297,43a,pentanoic acid,CCCCC(=O)O,-26
+298,43b,pentanoic acid,CCCCC(=O)O,5
+299,47a,pentanoic acid,CCCCC(=O)O,13
+300,47b,pentanoic acid,CCCCC(=O)O,-69
+301,49b,pentanoic acid,CCCCC(=O)O,-6
+302,59b,pentanoic acid,CCCCC(=O)O,22
+303,65a,pentanoic acid,CCCCC(=O)O,-16
+304,67a,pentanoic acid,CCCCC(=O)O,196
+305,67c,pentanoic acid,CCCCC(=O)O,5
+306,82a,pentanoic acid,CCCCC(=O)O,9
+307,85a,pentanoic acid,CCCCC(=O)O,-17
+308,85b,pentanoic acid,CCCCC(=O)O,17
+309,85f,pentanoic acid,CCCCC(=O)O,4
+310,88a,pentanoic acid,CCCCC(=O)O,-33
+311,98a,pentanoic acid,CCCCC(=O)O,-21
+312,2a,hexanoic acid,CCCCCC(=O)O,0
+313,7a,hexanoic acid,CCCCCC(=O)O,-14
+314,9a,hexanoic acid,CCCCCC(=O)O,19
+315,10a,hexanoic acid,CCCCCC(=O)O,5
+316,19a,hexanoic acid,CCCCCC(=O)O,1
+317,22a,hexanoic acid,CCCCCC(=O)O,113
+318,23a,hexanoic acid,CCCCCC(=O)O,-6
+319,33b,hexanoic acid,CCCCCC(=O)O,-3
+320,35a,hexanoic acid,CCCCCC(=O)O,-10
+321,43a,hexanoic acid,CCCCCC(=O)O,-16
+322,43b,hexanoic acid,CCCCCC(=O)O,5
+323,47a,hexanoic acid,CCCCCC(=O)O,8
+324,47b,hexanoic acid,CCCCCC(=O)O,-71
+325,49b,hexanoic acid,CCCCCC(=O)O,-1
+326,59b,hexanoic acid,CCCCCC(=O)O,27
+327,65a,hexanoic acid,CCCCCC(=O)O,-11
+328,67a,hexanoic acid,CCCCCC(=O)O,9
+329,67c,hexanoic acid,CCCCCC(=O)O,6
+330,82a,hexanoic acid,CCCCCC(=O)O,3
+331,85a,hexanoic acid,CCCCCC(=O)O,-25
+332,85b,hexanoic acid,CCCCCC(=O)O,27
+333,85f,hexanoic acid,CCCCCC(=O)O,14
+334,88a,hexanoic acid,CCCCCC(=O)O,-31
+335,98a,hexanoic acid,CCCCCC(=O)O,1
+336,2a,heptanoic acid,CCCCCCC(=O)O,-5
+337,7a,heptanoic acid,CCCCCCC(=O)O,-23
+338,9a,heptanoic acid,CCCCCCC(=O)O,0
+339,10a,heptanoic acid,CCCCCCC(=O)O,-15
+340,19a,heptanoic acid,CCCCCCC(=O)O,-48
+341,22a,heptanoic acid,CCCCCCC(=O)O,8
+342,23a,heptanoic acid,CCCCCCC(=O)O,-11
+343,33b,heptanoic acid,CCCCCCC(=O)O,-29
+344,35a,heptanoic acid,CCCCCCC(=O)O,-6
+345,43a,heptanoic acid,CCCCCCC(=O)O,-32
+346,43b,heptanoic acid,CCCCCCC(=O)O,18
+347,47a,heptanoic acid,CCCCCCC(=O)O,0
+348,47b,heptanoic acid,CCCCCCC(=O)O,-54
+349,49b,heptanoic acid,CCCCCCC(=O)O,-12
+350,59b,heptanoic acid,CCCCCCC(=O)O,14
+351,65a,heptanoic acid,CCCCCCC(=O)O,-19
+352,67a,heptanoic acid,CCCCCCC(=O)O,-10
+353,67c,heptanoic acid,CCCCCCC(=O)O,-9
+354,82a,heptanoic acid,CCCCCCC(=O)O,-21
+355,85a,heptanoic acid,CCCCCCC(=O)O,-13
+356,85b,heptanoic acid,CCCCCCC(=O)O,24
+357,85f,heptanoic acid,CCCCCCC(=O)O,-2
+358,88a,heptanoic acid,CCCCCCC(=O)O,-29
+359,98a,heptanoic acid,CCCCCCC(=O)O,-14
+360,2a,octanoic acid,CCCCCCCC(=O)O,-10
+361,7a,octanoic acid,CCCCCCCC(=O)O,-24
+362,9a,octanoic acid,CCCCCCCC(=O)O,-5
+363,10a,octanoic acid,CCCCCCCC(=O)O,-15
+364,19a,octanoic acid,CCCCCCCC(=O)O,-55
+365,22a,octanoic acid,CCCCCCCC(=O)O,-4
+366,23a,octanoic acid,CCCCCCCC(=O)O,-7
+367,33b,octanoic acid,CCCCCCCC(=O)O,-38
+368,35a,octanoic acid,CCCCCCCC(=O)O,-21
+369,43a,octanoic acid,CCCCCCCC(=O)O,-26
+370,43b,octanoic acid,CCCCCCCC(=O)O,8
+371,47a,octanoic acid,CCCCCCCC(=O)O,4
+372,47b,octanoic acid,CCCCCCCC(=O)O,-58
+373,49b,octanoic acid,CCCCCCCC(=O)O,-9
+374,59b,octanoic acid,CCCCCCCC(=O)O,3
+375,65a,octanoic acid,CCCCCCCC(=O)O,-19
+376,67a,octanoic acid,CCCCCCCC(=O)O,-20
+377,67c,octanoic acid,CCCCCCCC(=O)O,-4
+378,82a,octanoic acid,CCCCCCCC(=O)O,-23
+379,85a,octanoic acid,CCCCCCCC(=O)O,-19
+380,85b,octanoic acid,CCCCCCCC(=O)O,55
+381,85f,octanoic acid,CCCCCCCC(=O)O,0
+382,88a,octanoic acid,CCCCCCCC(=O)O,-25
+383,98a,octanoic acid,CCCCCCCC(=O)O,-17
+384,2a,nonanoic acid,CCCCCCCCC(=O)O,-10
+385,7a,nonanoic acid,CCCCCCCCC(=O)O,-27
+386,9a,nonanoic acid,CCCCCCCCC(=O)O,-9
+387,10a,nonanoic acid,CCCCCCCCC(=O)O,-12
+388,19a,nonanoic acid,CCCCCCCCC(=O)O,-48
+389,22a,nonanoic acid,CCCCCCCCC(=O)O,3
+390,23a,nonanoic acid,CCCCCCCCC(=O)O,-13
+391,33b,nonanoic acid,CCCCCCCCC(=O)O,-27
+392,35a,nonanoic acid,CCCCCCCCC(=O)O,-25
+393,43a,nonanoic acid,CCCCCCCCC(=O)O,-36
+394,43b,nonanoic acid,CCCCCCCCC(=O)O,4
+395,47a,nonanoic acid,CCCCCCCCC(=O)O,-5
+396,47b,nonanoic acid,CCCCCCCCC(=O)O,-51
+397,49b,nonanoic acid,CCCCCCCCC(=O)O,-8
+398,59b,nonanoic acid,CCCCCCCCC(=O)O,5
+399,65a,nonanoic acid,CCCCCCCCC(=O)O,-24
+400,67a,nonanoic acid,CCCCCCCCC(=O)O,-15
+401,67c,nonanoic acid,CCCCCCCCC(=O)O,-1
+402,82a,nonanoic acid,CCCCCCCCC(=O)O,-23
+403,85a,nonanoic acid,CCCCCCCCC(=O)O,-13
+404,85b,nonanoic acid,CCCCCCCCC(=O)O,30
+405,85f,nonanoic acid,CCCCCCCCC(=O)O,-2
+406,88a,nonanoic acid,CCCCCCCCC(=O)O,-29
+407,98a,nonanoic acid,CCCCCCCCC(=O)O,-20
+408,2a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-15
+409,7a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,119
+410,9a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,0
+411,10a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-10
+412,19a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-59
+413,22a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-1
+414,23a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-4
+415,33b,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-36
+416,35a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,21
+417,43a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-35
+418,43b,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,32
+419,47a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,21
+420,47b,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-67
+421,49b,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-9
+422,59b,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,7
+423,65a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-10
+424,67a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-12
+425,67c,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-10
+426,82a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-23
+427,85a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-12
+428,85b,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,45
+429,85f,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,0
+430,88a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-35
+431,98a,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,-17
+432,2a,isobutyric acid,CC(C)C(=O)O,-10
+433,7a,isobutyric acid,CC(C)C(=O)O,-9
+434,9a,isobutyric acid,CC(C)C(=O)O,16
+435,10a,isobutyric acid,CC(C)C(=O)O,15
+436,19a,isobutyric acid,CC(C)C(=O)O,-22
+437,22a,isobutyric acid,CC(C)C(=O)O,30
+438,23a,isobutyric acid,CC(C)C(=O)O,-12
+439,33b,isobutyric acid,CC(C)C(=O)O,-34
+440,35a,isobutyric acid,CC(C)C(=O)O,-16
+441,43a,isobutyric acid,CC(C)C(=O)O,-26
+442,43b,isobutyric acid,CC(C)C(=O)O,8
+443,47a,isobutyric acid,CC(C)C(=O)O,13
+444,47b,isobutyric acid,CC(C)C(=O)O,-66
+445,49b,isobutyric acid,CC(C)C(=O)O,-4
+446,59b,isobutyric acid,CC(C)C(=O)O,28
+447,65a,isobutyric acid,CC(C)C(=O)O,-16
+448,67a,isobutyric acid,CC(C)C(=O)O,-12
+449,67c,isobutyric acid,CC(C)C(=O)O,7
+450,82a,isobutyric acid,CC(C)C(=O)O,-5
+451,85a,isobutyric acid,CC(C)C(=O)O,-21
+452,85b,isobutyric acid,CC(C)C(=O)O,22
+453,85f,isobutyric acid,CC(C)C(=O)O,7
+454,88a,isobutyric acid,CC(C)C(=O)O,-30
+455,98a,isobutyric acid,CC(C)C(=O)O,-2
+456,2a,isopentanoic acid,CC(C)CC(=O)O,-4
+457,7a,isopentanoic acid,CC(C)CC(=O)O,-21
+458,9a,isopentanoic acid,CC(C)CC(=O)O,20
+459,10a,isopentanoic acid,CC(C)CC(=O)O,10
+460,19a,isopentanoic acid,CC(C)CC(=O)O,-8
+461,22a,isopentanoic acid,CC(C)CC(=O)O,37
+462,23a,isopentanoic acid,CC(C)CC(=O)O,-13
+463,33b,isopentanoic acid,CC(C)CC(=O)O,-35
+464,35a,isopentanoic acid,CC(C)CC(=O)O,-12
+465,43a,isopentanoic acid,CC(C)CC(=O)O,-33
+466,43b,isopentanoic acid,CC(C)CC(=O)O,7
+467,47a,isopentanoic acid,CC(C)CC(=O)O,10
+468,47b,isopentanoic acid,CC(C)CC(=O)O,-62
+469,49b,isopentanoic acid,CC(C)CC(=O)O,-2
+470,59b,isopentanoic acid,CC(C)CC(=O)O,26
+471,65a,isopentanoic acid,CC(C)CC(=O)O,-15
+472,67a,isopentanoic acid,CC(C)CC(=O)O,35
+473,67c,isopentanoic acid,CC(C)CC(=O)O,9
+474,82a,isopentanoic acid,CC(C)CC(=O)O,8
+475,85a,isopentanoic acid,CC(C)CC(=O)O,-13
+476,85b,isopentanoic acid,CC(C)CC(=O)O,7
+477,85f,isopentanoic acid,CC(C)CC(=O)O,7
+478,88a,isopentanoic acid,CC(C)CC(=O)O,-29
+479,98a,isopentanoic acid,CC(C)CC(=O)O,-7
+480,2a,pyruvic acid,CC(=O)C(=O)O,-5
+481,7a,pyruvic acid,CC(=O)C(=O)O,38
+482,9a,pyruvic acid,CC(=O)C(=O)O,19
+483,10a,pyruvic acid,CC(=O)C(=O)O,9
+484,19a,pyruvic acid,CC(=O)C(=O)O,-30
+485,22a,pyruvic acid,CC(=O)C(=O)O,31
+486,23a,pyruvic acid,CC(=O)C(=O)O,-10
+487,33b,pyruvic acid,CC(=O)C(=O)O,-37
+488,35a,pyruvic acid,CC(=O)C(=O)O,-12
+489,43a,pyruvic acid,CC(=O)C(=O)O,-22
+490,43b,pyruvic acid,CC(=O)C(=O)O,7
+491,47a,pyruvic acid,CC(=O)C(=O)O,15
+492,47b,pyruvic acid,CC(=O)C(=O)O,-67
+493,49b,pyruvic acid,CC(=O)C(=O)O,-7
+494,59b,pyruvic acid,CC(=O)C(=O)O,18
+495,65a,pyruvic acid,CC(=O)C(=O)O,-10
+496,67a,pyruvic acid,CC(=O)C(=O)O,-6
+497,67c,pyruvic acid,CC(=O)C(=O)O,5
+498,82a,pyruvic acid,CC(=O)C(=O)O,-24
+499,85a,pyruvic acid,CC(=O)C(=O)O,-23
+500,85b,pyruvic acid,CC(=O)C(=O)O,10
+501,85f,pyruvic acid,CC(=O)C(=O)O,3
+502,88a,pyruvic acid,CC(=O)C(=O)O,-23
+503,98a,pyruvic acid,CC(=O)C(=O)O,-11
+504,2a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-5
+505,7a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-16
+506,9a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,1
+507,10a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-9
+508,19a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-51
+509,22a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,15
+510,23a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-11
+511,33b,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-40
+512,35a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-25
+513,43a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-46
+514,43b,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,43
+515,47a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,20
+516,47b,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-63
+517,49b,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-9
+518,59b,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,19
+519,65a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-15
+520,67a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-15
+521,67c,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,2
+522,82a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-22
+523,85a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-15
+524,85b,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,86
+525,85f,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,9
+526,88a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-38
+527,98a,2-ethylhexanoic acid,CCCCC(CC)C(=O)O,-8
+528,2a,lactic acid,CC(O)C(=O)O,-6
+529,7a,lactic acid,CC(O)C(=O)O,-19
+530,9a,lactic acid,CC(O)C(=O)O,3
+531,10a,lactic acid,CC(O)C(=O)O,20
+532,19a,lactic acid,CC(O)C(=O)O,-33
+533,22a,lactic acid,CC(O)C(=O)O,32
+534,23a,lactic acid,CC(O)C(=O)O,-12
+535,33b,lactic acid,CC(O)C(=O)O,-28
+536,35a,lactic acid,CC(O)C(=O)O,-8
+537,43a,lactic acid,CC(O)C(=O)O,-20
+538,43b,lactic acid,CC(O)C(=O)O,4
+539,47a,lactic acid,CC(O)C(=O)O,13
+540,47b,lactic acid,CC(O)C(=O)O,-68
+541,49b,lactic acid,CC(O)C(=O)O,-4
+542,59b,lactic acid,CC(O)C(=O)O,14
+543,65a,lactic acid,CC(O)C(=O)O,-16
+544,67a,lactic acid,CC(O)C(=O)O,-8
+545,67c,lactic acid,CC(O)C(=O)O,15
+546,82a,lactic acid,CC(O)C(=O)O,-21
+547,85a,lactic acid,CC(O)C(=O)O,-25
+548,85b,lactic acid,CC(O)C(=O)O,2
+549,85f,lactic acid,CC(O)C(=O)O,3
+550,88a,lactic acid,CC(O)C(=O)O,-29
+551,98a,lactic acid,CC(O)C(=O)O,1
+552,2a,3-methylthio-1-propanol,CSCCCO,0
+553,7a,3-methylthio-1-propanol,CSCCCO,12
+554,9a,3-methylthio-1-propanol,CSCCCO,93
+555,10a,3-methylthio-1-propanol,CSCCCO,-9
+556,19a,3-methylthio-1-propanol,CSCCCO,-38
+557,22a,3-methylthio-1-propanol,CSCCCO,34
+558,23a,3-methylthio-1-propanol,CSCCCO,-11
+559,33b,3-methylthio-1-propanol,CSCCCO,-32
+560,35a,3-methylthio-1-propanol,CSCCCO,171
+561,43a,3-methylthio-1-propanol,CSCCCO,-17
+562,43b,3-methylthio-1-propanol,CSCCCO,35
+563,47a,3-methylthio-1-propanol,CSCCCO,199
+564,47b,3-methylthio-1-propanol,CSCCCO,-73
+565,49b,3-methylthio-1-propanol,CSCCCO,-9
+566,59b,3-methylthio-1-propanol,CSCCCO,29
+567,65a,3-methylthio-1-propanol,CSCCCO,-20
+568,67a,3-methylthio-1-propanol,CSCCCO,40
+569,67c,3-methylthio-1-propanol,CSCCCO,40
+570,82a,3-methylthio-1-propanol,CSCCCO,14
+571,85a,3-methylthio-1-propanol,CSCCCO,11
+572,85b,3-methylthio-1-propanol,CSCCCO,33
+573,85f,3-methylthio-1-propanol,CSCCCO,35
+574,88a,3-methylthio-1-propanol,CSCCCO,-24
+575,98a,3-methylthio-1-propanol,CSCCCO,16
+576,2a,dimethyl sulfide,CSC,-8
+577,7a,dimethyl sulfide,CSC,-25
+578,9a,dimethyl sulfide,CSC,16
+579,10a,dimethyl sulfide,CSC,-30
+580,19a,dimethyl sulfide,CSC,-56
+581,22a,dimethyl sulfide,CSC,9
+582,23a,dimethyl sulfide,CSC,-13
+583,33b,dimethyl sulfide,CSC,-31
+584,35a,dimethyl sulfide,CSC,-19
+585,43a,dimethyl sulfide,CSC,-40
+586,43b,dimethyl sulfide,CSC,9
+587,47a,dimethyl sulfide,CSC,-3
+588,47b,dimethyl sulfide,CSC,-55
+589,49b,dimethyl sulfide,CSC,-18
+590,59b,dimethyl sulfide,CSC,62
+591,65a,dimethyl sulfide,CSC,-24
+592,67a,dimethyl sulfide,CSC,-10
+593,67c,dimethyl sulfide,CSC,-4
+594,82a,dimethyl sulfide,CSC,-14
+595,85a,dimethyl sulfide,CSC,-22
+596,85b,dimethyl sulfide,CSC,19
+597,85f,dimethyl sulfide,CSC,14
+598,88a,dimethyl sulfide,CSC,-32
+599,98a,dimethyl sulfide,CSC,-23
+600,2a,terpinolene,CC1=CCC(=C(C)C)CC1,-14
+601,7a,terpinolene,CC1=CCC(=C(C)C)CC1,-11
+602,9a,terpinolene,CC1=CCC(=C(C)C)CC1,-4
+603,10a,terpinolene,CC1=CCC(=C(C)C)CC1,-21
+604,19a,terpinolene,CC1=CCC(=C(C)C)CC1,22
+605,22a,terpinolene,CC1=CCC(=C(C)C)CC1,15
+606,23a,terpinolene,CC1=CCC(=C(C)C)CC1,-12
+607,33b,terpinolene,CC1=CCC(=C(C)C)CC1,-15
+608,35a,terpinolene,CC1=CCC(=C(C)C)CC1,-10
+609,43a,terpinolene,CC1=CCC(=C(C)C)CC1,-27
+610,43b,terpinolene,CC1=CCC(=C(C)C)CC1,10
+611,47a,terpinolene,CC1=CCC(=C(C)C)CC1,7
+612,47b,terpinolene,CC1=CCC(=C(C)C)CC1,-53
+613,49b,terpinolene,CC1=CCC(=C(C)C)CC1,-6
+614,59b,terpinolene,CC1=CCC(=C(C)C)CC1,10
+615,65a,terpinolene,CC1=CCC(=C(C)C)CC1,-22
+616,67a,terpinolene,CC1=CCC(=C(C)C)CC1,23
+617,67c,terpinolene,CC1=CCC(=C(C)C)CC1,9
+618,82a,terpinolene,CC1=CCC(=C(C)C)CC1,-21
+619,85a,terpinolene,CC1=CCC(=C(C)C)CC1,-20
+620,85b,terpinolene,CC1=CCC(=C(C)C)CC1,23
+621,85f,terpinolene,CC1=CCC(=C(C)C)CC1,-2
+622,88a,terpinolene,CC1=CCC(=C(C)C)CC1,-20
+623,98a,terpinolene,CC1=CCC(=C(C)C)CC1,69
+624,2a,a -pinene,CC1=CCC2CC1C2(C)C,-10
+625,7a,a -pinene,CC1=CCC2CC1C2(C)C,3
+626,9a,a -pinene,CC1=CCC2CC1C2(C)C,-4
+627,10a,a -pinene,CC1=CCC2CC1C2(C)C,-16
+628,19a,a -pinene,CC1=CCC2CC1C2(C)C,-8
+629,22a,a -pinene,CC1=CCC2CC1C2(C)C,29
+630,23a,a -pinene,CC1=CCC2CC1C2(C)C,-12
+631,33b,a -pinene,CC1=CCC2CC1C2(C)C,-12
+632,35a,a -pinene,CC1=CCC2CC1C2(C)C,11
+633,43a,a -pinene,CC1=CCC2CC1C2(C)C,-15
+634,43b,a -pinene,CC1=CCC2CC1C2(C)C,2
+635,47a,a -pinene,CC1=CCC2CC1C2(C)C,17
+636,47b,a -pinene,CC1=CCC2CC1C2(C)C,-55
+637,49b,a -pinene,CC1=CCC2CC1C2(C)C,-12
+638,59b,a -pinene,CC1=CCC2CC1C2(C)C,-2
+639,65a,a -pinene,CC1=CCC2CC1C2(C)C,-17
+640,67a,a -pinene,CC1=CCC2CC1C2(C)C,-4
+641,67c,a -pinene,CC1=CCC2CC1C2(C)C,8
+642,82a,a -pinene,CC1=CCC2CC1C2(C)C,-19
+643,85a,a -pinene,CC1=CCC2CC1C2(C)C,-15
+644,85b,a -pinene,CC1=CCC2CC1C2(C)C,35
+645,85f,a -pinene,CC1=CCC2CC1C2(C)C,11
+646,88a,a -pinene,CC1=CCC2CC1C2(C)C,-24
+647,98a,a -pinene,CC1=CCC2CC1C2(C)C,18
+648,2a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-5
+649,7a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-28
+650,9a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-9
+651,10a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-26
+652,19a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,11
+653,22a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,6
+654,23a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-13
+655,33b,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-15
+656,35a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-14
+657,43a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-11
+658,43b,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,7
+659,47a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-5
+660,47b,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-45
+661,49b,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-7
+662,59b,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-6
+663,65a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-24
+664,67a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-17
+665,67c,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,0
+666,82a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-18
+667,85a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-11
+668,85b,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,21
+669,85f,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-6
+670,88a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-24
+671,98a,b -pinene,C=C1CC[C@H]2C[C@@H]1C2(C)C,-15
+672,2a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-9
+673,7a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-13
+674,9a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-2
+675,10a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-26
+676,19a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,94
+677,22a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,7
+678,23a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-14
+679,33b,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-20
+680,35a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-21
+681,43a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-12
+682,43b,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,5
+683,47a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,4
+684,47b,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-49
+685,49b,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-14
+686,59b,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-6
+687,65a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-21
+688,67a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-9
+689,67c,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,5
+690,82a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-21
+691,85a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-6
+692,85b,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,3
+693,85f,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-3
+694,88a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-22
+695,98a,(1S)-(+)-3-carene,CC1=CC[C@@H]2[C@H](C1)C2(C)C,-19
+696,2a,limonene,C=C(C)C1CC=C(C)CC1,-5
+697,7a,limonene,C=C(C)C1CC=C(C)CC1,-13
+698,9a,limonene,C=C(C)C1CC=C(C)CC1,0
+699,10a,limonene,C=C(C)C1CC=C(C)CC1,-19
+700,19a,limonene,C=C(C)C1CC=C(C)CC1,63
+701,22a,limonene,C=C(C)C1CC=C(C)CC1,30
+702,23a,limonene,C=C(C)C1CC=C(C)CC1,-13
+703,33b,limonene,C=C(C)C1CC=C(C)CC1,-17
+704,35a,limonene,C=C(C)C1CC=C(C)CC1,34
+705,43a,limonene,C=C(C)C1CC=C(C)CC1,-27
+706,43b,limonene,C=C(C)C1CC=C(C)CC1,4
+707,47a,limonene,C=C(C)C1CC=C(C)CC1,24
+708,47b,limonene,C=C(C)C1CC=C(C)CC1,-52
+709,49b,limonene,C=C(C)C1CC=C(C)CC1,-3
+710,59b,limonene,C=C(C)C1CC=C(C)CC1,-7
+711,65a,limonene,C=C(C)C1CC=C(C)CC1,-21
+712,67a,limonene,C=C(C)C1CC=C(C)CC1,-9
+713,67c,limonene,C=C(C)C1CC=C(C)CC1,5
+714,82a,limonene,C=C(C)C1CC=C(C)CC1,-14
+715,85a,limonene,C=C(C)C1CC=C(C)CC1,-11
+716,85b,limonene,C=C(C)C1CC=C(C)CC1,34
+717,85f,limonene,C=C(C)C1CC=C(C)CC1,-6
+718,88a,limonene,C=C(C)C1CC=C(C)CC1,-24
+719,98a,limonene,C=C(C)C1CC=C(C)CC1,18
+720,2a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-9
+721,7a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-7
+722,9a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-5
+723,10a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-23
+724,19a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-36
+725,22a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,5
+726,23a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-12
+727,33b,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-26
+728,35a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-14
+729,43a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-32
+730,43b,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,3
+731,47a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,5
+732,47b,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-47
+733,49b,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-2
+734,59b,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-3
+735,65a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-20
+736,67a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-10
+737,67c,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,4
+738,82a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-24
+739,85a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-18
+740,85b,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,6
+741,85f,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-11
+742,88a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-20
+743,98a,a-humulene,C/C1=C\CC/C(C)=C/CC(C)(C)/C=C/C1,-14
+744,2a,b-myrcene,C=CC(=C)CCC=C(C)C,-6
+745,7a,b-myrcene,C=CC(=C)CCC=C(C)C,-8
+746,9a,b-myrcene,C=CC(=C)CCC=C(C)C,-4
+747,10a,b-myrcene,C=CC(=C)CCC=C(C)C,-23
+748,19a,b-myrcene,C=CC(=C)CCC=C(C)C,-8
+749,22a,b-myrcene,C=CC(=C)CCC=C(C)C,15
+750,23a,b-myrcene,C=CC(=C)CCC=C(C)C,-13
+751,33b,b-myrcene,C=CC(=C)CCC=C(C)C,-21
+752,35a,b-myrcene,C=CC(=C)CCC=C(C)C,-17
+753,43a,b-myrcene,C=CC(=C)CCC=C(C)C,-26
+754,43b,b-myrcene,C=CC(=C)CCC=C(C)C,5
+755,47a,b-myrcene,C=CC(=C)CCC=C(C)C,-3
+756,47b,b-myrcene,C=CC(=C)CCC=C(C)C,-48
+757,49b,b-myrcene,C=CC(=C)CCC=C(C)C,-11
+758,59b,b-myrcene,C=CC(=C)CCC=C(C)C,-7
+759,65a,b-myrcene,C=CC(=C)CCC=C(C)C,-19
+760,67a,b-myrcene,C=CC(=C)CCC=C(C)C,26
+761,67c,b-myrcene,C=CC(=C)CCC=C(C)C,6
+762,82a,b-myrcene,C=CC(=C)CCC=C(C)C,-23
+763,85a,b-myrcene,C=CC(=C)CCC=C(C)C,-11
+764,85b,b-myrcene,C=CC(=C)CCC=C(C)C,8
+765,85f,b-myrcene,C=CC(=C)CCC=C(C)C,-5
+766,88a,b-myrcene,C=CC(=C)CCC=C(C)C,-19
+767,98a,b-myrcene,C=CC(=C)CCC=C(C)C,8
+768,2a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-6
+769,7a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-13
+770,9a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,0
+771,10a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-20
+772,19a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-8
+773,22a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,4
+774,23a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-14
+775,33b,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-11
+776,35a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-3
+777,43a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-46
+778,43b,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,6
+779,47a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,4
+780,47b,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-53
+781,49b,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-15
+782,59b,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,10
+783,65a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-19
+784,67a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-17
+785,67c,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,2
+786,82a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-17
+787,85a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-13
+788,85b,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,21
+789,85f,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-2
+790,88a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-26
+791,98a,(-)-trans-caryophyllene,C=C1CC/C=C(\C)CC[C@@H]2[C@@H]1CC2(C)C,-16
+792,2a,p-cymene,Cc1ccc(C(C)C)cc1,-10
+793,7a,p-cymene,Cc1ccc(C(C)C)cc1,-18
+794,9a,p-cymene,Cc1ccc(C(C)C)cc1,-5
+795,10a,p-cymene,Cc1ccc(C(C)C)cc1,-22
+796,19a,p-cymene,Cc1ccc(C(C)C)cc1,-9
+797,22a,p-cymene,Cc1ccc(C(C)C)cc1,14
+798,23a,p-cymene,Cc1ccc(C(C)C)cc1,-15
+799,33b,p-cymene,Cc1ccc(C(C)C)cc1,-22
+800,35a,p-cymene,Cc1ccc(C(C)C)cc1,-8
+801,43a,p-cymene,Cc1ccc(C(C)C)cc1,-29
+802,43b,p-cymene,Cc1ccc(C(C)C)cc1,0
+803,47a,p-cymene,Cc1ccc(C(C)C)cc1,11
+804,47b,p-cymene,Cc1ccc(C(C)C)cc1,-49
+805,49b,p-cymene,Cc1ccc(C(C)C)cc1,-5
+806,59b,p-cymene,Cc1ccc(C(C)C)cc1,-3
+807,65a,p-cymene,Cc1ccc(C(C)C)cc1,-26
+808,67a,p-cymene,Cc1ccc(C(C)C)cc1,-13
+809,67c,p-cymene,Cc1ccc(C(C)C)cc1,2
+810,82a,p-cymene,Cc1ccc(C(C)C)cc1,-28
+811,85a,p-cymene,Cc1ccc(C(C)C)cc1,-15
+812,85b,p-cymene,Cc1ccc(C(C)C)cc1,4
+813,85f,p-cymene,Cc1ccc(C(C)C)cc1,-3
+814,88a,p-cymene,Cc1ccc(C(C)C)cc1,-21
+815,98a,p-cymene,Cc1ccc(C(C)C)cc1,-21
+816,2a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-6
+817,7a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-16
+818,9a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-8
+819,10a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-22
+820,19a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-20
+821,22a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-3
+822,23a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-5
+823,33b,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-25
+824,35a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-20
+825,43a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-31
+826,43b,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,8
+827,47a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-3
+828,47b,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-48
+829,49b,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-12
+830,59b,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,35
+831,65a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-25
+832,67a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-4
+833,67c,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-9
+834,82a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,225
+835,85a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-15
+836,85b,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-15
+837,85f,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-9
+838,88a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,-25
+839,98a,geranyl acetate,CC(=O)OC/C=C(\C)CCC=C(C)C,69
+840,2a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-6
+841,7a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-12
+842,9a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,4
+843,10a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-24
+844,19a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,56
+845,22a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,59
+846,23a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-13
+847,33b,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-15
+848,35a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,1
+849,43a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-20
+850,43b,a -terpineol,CC1=CCC(C(C)(C)O)CC1,4
+851,47a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,11
+852,47b,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-55
+853,49b,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-11
+854,59b,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-10
+855,65a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-14
+856,67a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,8
+857,67c,a -terpineol,CC1=CCC(C(C)(C)O)CC1,12
+858,82a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-13
+859,85a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-26
+860,85b,a -terpineol,CC1=CCC(C(C)(C)O)CC1,38
+861,85f,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-9
+862,88a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-19
+863,98a,a -terpineol,CC1=CCC(C(C)(C)O)CC1,-1
+864,2a,geraniol,CC(C)=CCC/C(C)=C/CO,-9
+865,7a,geraniol,CC(C)=CCC/C(C)=C/CO,-16
+866,9a,geraniol,CC(C)=CCC/C(C)=C/CO,-4
+867,10a,geraniol,CC(C)=CCC/C(C)=C/CO,-20
+868,19a,geraniol,CC(C)=CCC/C(C)=C/CO,-27
+869,22a,geraniol,CC(C)=CCC/C(C)=C/CO,24
+870,23a,geraniol,CC(C)=CCC/C(C)=C/CO,-15
+871,33b,geraniol,CC(C)=CCC/C(C)=C/CO,-10
+872,35a,geraniol,CC(C)=CCC/C(C)=C/CO,-8
+873,43a,geraniol,CC(C)=CCC/C(C)=C/CO,-37
+874,43b,geraniol,CC(C)=CCC/C(C)=C/CO,4
+875,47a,geraniol,CC(C)=CCC/C(C)=C/CO,0
+876,47b,geraniol,CC(C)=CCC/C(C)=C/CO,-54
+877,49b,geraniol,CC(C)=CCC/C(C)=C/CO,-10
+878,59b,geraniol,CC(C)=CCC/C(C)=C/CO,-1
+879,65a,geraniol,CC(C)=CCC/C(C)=C/CO,-20
+880,67a,geraniol,CC(C)=CCC/C(C)=C/CO,38
+881,67c,geraniol,CC(C)=CCC/C(C)=C/CO,17
+882,82a,geraniol,CC(C)=CCC/C(C)=C/CO,13
+883,85a,geraniol,CC(C)=CCC/C(C)=C/CO,-18
+884,85b,geraniol,CC(C)=CCC/C(C)=C/CO,28
+885,85f,geraniol,CC(C)=CCC/C(C)=C/CO,-6
+886,88a,geraniol,CC(C)=CCC/C(C)=C/CO,-19
+887,98a,geraniol,CC(C)=CCC/C(C)=C/CO,77
+888,2a,nerol,CC(C)=CCC/C(C)=C\CO,0
+889,7a,nerol,CC(C)=CCC/C(C)=C\CO,-7
+890,9a,nerol,CC(C)=CCC/C(C)=C\CO,-1
+891,10a,nerol,CC(C)=CCC/C(C)=C\CO,-26
+892,19a,nerol,CC(C)=CCC/C(C)=C\CO,-7
+893,22a,nerol,CC(C)=CCC/C(C)=C\CO,33
+894,23a,nerol,CC(C)=CCC/C(C)=C\CO,-12
+895,33b,nerol,CC(C)=CCC/C(C)=C\CO,-12
+896,35a,nerol,CC(C)=CCC/C(C)=C\CO,-7
+897,43a,nerol,CC(C)=CCC/C(C)=C\CO,-28
+898,43b,nerol,CC(C)=CCC/C(C)=C\CO,7
+899,47a,nerol,CC(C)=CCC/C(C)=C\CO,-1
+900,47b,nerol,CC(C)=CCC/C(C)=C\CO,-54
+901,49b,nerol,CC(C)=CCC/C(C)=C\CO,-1
+902,59b,nerol,CC(C)=CCC/C(C)=C\CO,-10
+903,65a,nerol,CC(C)=CCC/C(C)=C\CO,-13
+904,67a,nerol,CC(C)=CCC/C(C)=C\CO,3
+905,67c,nerol,CC(C)=CCC/C(C)=C\CO,7
+906,82a,nerol,CC(C)=CCC/C(C)=C\CO,-15
+907,85a,nerol,CC(C)=CCC/C(C)=C\CO,-16
+908,85b,nerol,CC(C)=CCC/C(C)=C\CO,29
+909,85f,nerol,CC(C)=CCC/C(C)=C\CO,-2
+910,88a,nerol,CC(C)=CCC/C(C)=C\CO,-19
+911,98a,nerol,CC(C)=CCC/C(C)=C\CO,53
+912,2a,linalool,C=CC(C)(O)CCC=C(C)C,9
+913,7a,linalool,C=CC(C)(O)CCC=C(C)C,14
+914,9a,linalool,C=CC(C)(O)CCC=C(C)C,3
+915,10a,linalool,C=CC(C)(O)CCC=C(C)C,-28
+916,19a,linalool,C=CC(C)(O)CCC=C(C)C,96
+917,22a,linalool,C=CC(C)(O)CCC=C(C)C,48
+918,23a,linalool,C=CC(C)(O)CCC=C(C)C,-6
+919,33b,linalool,C=CC(C)(O)CCC=C(C)C,4
+920,35a,linalool,C=CC(C)(O)CCC=C(C)C,9
+921,43a,linalool,C=CC(C)(O)CCC=C(C)C,-27
+922,43b,linalool,C=CC(C)(O)CCC=C(C)C,-1
+923,47a,linalool,C=CC(C)(O)CCC=C(C)C,19
+924,47b,linalool,C=CC(C)(O)CCC=C(C)C,-61
+925,49b,linalool,C=CC(C)(O)CCC=C(C)C,-16
+926,59b,linalool,C=CC(C)(O)CCC=C(C)C,-10
+927,65a,linalool,C=CC(C)(O)CCC=C(C)C,-16
+928,67a,linalool,C=CC(C)(O)CCC=C(C)C,73
+929,67c,linalool,C=CC(C)(O)CCC=C(C)C,1
+930,82a,linalool,C=CC(C)(O)CCC=C(C)C,-4
+931,85a,linalool,C=CC(C)(O)CCC=C(C)C,-30
+932,85b,linalool,C=CC(C)(O)CCC=C(C)C,38
+933,85f,linalool,C=CC(C)(O)CCC=C(C)C,-3
+934,88a,linalool,C=CC(C)(O)CCC=C(C)C,-28
+935,98a,linalool,C=CC(C)(O)CCC=C(C)C,128
+936,2a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-5
+937,7a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,4
+938,9a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,3
+939,10a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-24
+940,19a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-11
+941,22a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,21
+942,23a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-15
+943,33b,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-17
+944,35a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-6
+945,43a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-34
+946,43b,b-citronellol,CC(C)=CCC[C@@H](C)CCO,5
+947,47a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-2
+948,47b,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-53
+949,49b,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-13
+950,59b,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-4
+951,65a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-19
+952,67a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-5
+953,67c,b-citronellol,CC(C)=CCC[C@@H](C)CCO,13
+954,82a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-11
+955,85a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-6
+956,85b,b-citronellol,CC(C)=CCC[C@@H](C)CCO,28
+957,85f,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-12
+958,88a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,-19
+959,98a,b-citronellol,CC(C)=CCC[C@@H](C)CCO,38
+960,2a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,22
+961,7a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-31
+962,9a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,76
+963,10a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-13
+964,19a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,62
+965,22a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,21
+966,23a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-1
+967,33b,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-8
+968,35a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-22
+969,43a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-3
+970,43b,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,12
+971,47a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,24
+972,47b,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-56
+973,49b,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-20
+974,59b,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,16
+975,65a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-15
+976,67a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,24
+977,67c,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,16
+978,82a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,11
+979,85a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-5
+980,85b,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,20
+981,85f,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,37
+982,88a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,-22
+983,98a,linalool oxide,C=CC1(C)CCC(C(C)(C)O)O1,24
+984,2a,acetaldehyde,CC=O,13
+985,7a,acetaldehyde,CC=O,148
+986,9a,acetaldehyde,CC=O,92
+987,10a,acetaldehyde,CC=O,11
+988,19a,acetaldehyde,CC=O,-10
+989,22a,acetaldehyde,CC=O,67
+990,23a,acetaldehyde,CC=O,2
+991,33b,acetaldehyde,CC=O,-14
+992,35a,acetaldehyde,CC=O,-13
+993,43a,acetaldehyde,CC=O,-17
+994,43b,acetaldehyde,CC=O,6
+995,47a,acetaldehyde,CC=O,54
+996,47b,acetaldehyde,CC=O,-85
+997,49b,acetaldehyde,CC=O,-9
+998,59b,acetaldehyde,CC=O,60
+999,65a,acetaldehyde,CC=O,-5
+1000,67a,acetaldehyde,CC=O,1
+1001,67c,acetaldehyde,CC=O,41
+1002,82a,acetaldehyde,CC=O,-6
+1003,85a,acetaldehyde,CC=O,21
+1004,85b,acetaldehyde,CC=O,24
+1005,85f,acetaldehyde,CC=O,17
+1006,88a,acetaldehyde,CC=O,-21
+1007,98a,acetaldehyde,CC=O,6
+1008,2a,propanal,CCC=O,10
+1009,7a,propanal,CCC=O,-33
+1010,9a,propanal,CCC=O,3
+1011,10a,propanal,CCC=O,-15
+1012,19a,propanal,CCC=O,-81
+1013,22a,propanal,CCC=O,32
+1014,23a,propanal,CCC=O,-14
+1015,33b,propanal,CCC=O,-22
+1016,35a,propanal,CCC=O,-23
+1017,43a,propanal,CCC=O,-52
+1018,43b,propanal,CCC=O,13
+1019,47a,propanal,CCC=O,11
+1020,47b,propanal,CCC=O,-87
+1021,49b,propanal,CCC=O,-16
+1022,59b,propanal,CCC=O,10
+1023,65a,propanal,CCC=O,-25
+1024,67a,propanal,CCC=O,-6
+1025,67c,propanal,CCC=O,9
+1026,82a,propanal,CCC=O,-31
+1027,85a,propanal,CCC=O,1
+1028,85b,propanal,CCC=O,39
+1029,85f,propanal,CCC=O,1
+1030,88a,propanal,CCC=O,-35
+1031,98a,propanal,CCC=O,-1
+1032,2a,butanal,CCCC=O,35
+1033,7a,butanal,CCCC=O,37
+1034,9a,butanal,CCCC=O,3
+1035,10a,butanal,CCCC=O,-16
+1036,19a,butanal,CCCC=O,-67
+1037,22a,butanal,CCCC=O,49
+1038,23a,butanal,CCCC=O,-15
+1039,33b,butanal,CCCC=O,-25
+1040,35a,butanal,CCCC=O,48
+1041,43a,butanal,CCCC=O,-32
+1042,43b,butanal,CCCC=O,49
+1043,47a,butanal,CCCC=O,19
+1044,47b,butanal,CCCC=O,-73
+1045,49b,butanal,CCCC=O,-15
+1046,59b,butanal,CCCC=O,7
+1047,65a,butanal,CCCC=O,-22
+1048,67a,butanal,CCCC=O,51
+1049,67c,butanal,CCCC=O,15
+1050,82a,butanal,CCCC=O,-9
+1051,85a,butanal,CCCC=O,-9
+1052,85b,butanal,CCCC=O,40
+1053,85f,butanal,CCCC=O,11
+1054,88a,butanal,CCCC=O,-29
+1055,98a,butanal,CCCC=O,14
+1056,2a,pentanal,CCCCC=O,14
+1057,7a,pentanal,CCCCC=O,154
+1058,9a,pentanal,CCCCC=O,21
+1059,10a,pentanal,CCCCC=O,-8
+1060,19a,pentanal,CCCCC=O,-49
+1061,22a,pentanal,CCCCC=O,65
+1062,23a,pentanal,CCCCC=O,-14
+1063,33b,pentanal,CCCCC=O,-22
+1064,35a,pentanal,CCCCC=O,65
+1065,43a,pentanal,CCCCC=O,-34
+1066,43b,pentanal,CCCCC=O,10
+1067,47a,pentanal,CCCCC=O,27
+1068,47b,pentanal,CCCCC=O,-69
+1069,49b,pentanal,CCCCC=O,-16
+1070,59b,pentanal,CCCCC=O,9
+1071,65a,pentanal,CCCCC=O,-17
+1072,67a,pentanal,CCCCC=O,34
+1073,67c,pentanal,CCCCC=O,14
+1074,82a,pentanal,CCCCC=O,-6
+1075,85a,pentanal,CCCCC=O,-16
+1076,85b,pentanal,CCCCC=O,41
+1077,85f,pentanal,CCCCC=O,19
+1078,88a,pentanal,CCCCC=O,-28
+1079,98a,pentanal,CCCCC=O,15
+1080,2a,hexanal,CCCCCC=O,11
+1081,7a,hexanal,CCCCCC=O,160
+1082,9a,hexanal,CCCCCC=O,31
+1083,10a,hexanal,CCCCCC=O,14
+1084,19a,hexanal,CCCCCC=O,-58
+1085,22a,hexanal,CCCCCC=O,135
+1086,23a,hexanal,CCCCCC=O,4
+1087,33b,hexanal,CCCCCC=O,-35
+1088,35a,hexanal,CCCCCC=O,168
+1089,43a,hexanal,CCCCCC=O,-25
+1090,43b,hexanal,CCCCCC=O,42
+1091,47a,hexanal,CCCCCC=O,45
+1092,47b,hexanal,CCCCCC=O,-68
+1093,49b,hexanal,CCCCCC=O,-12
+1094,59b,hexanal,CCCCCC=O,15
+1095,65a,hexanal,CCCCCC=O,-5
+1096,67a,hexanal,CCCCCC=O,18
+1097,67c,hexanal,CCCCCC=O,9
+1098,82a,hexanal,CCCCCC=O,-8
+1099,85a,hexanal,CCCCCC=O,6
+1100,85b,hexanal,CCCCCC=O,211
+1101,85f,hexanal,CCCCCC=O,36
+1102,88a,hexanal,CCCCCC=O,-35
+1103,98a,hexanal,CCCCCC=O,17
+1104,2a,E2-hexenal,CCC/C=C/C=O,9
+1105,7a,E2-hexenal,CCC/C=C/C=O,204
+1106,9a,E2-hexenal,CCC/C=C/C=O,35
+1107,10a,E2-hexenal,CCC/C=C/C=O,-22
+1108,19a,E2-hexenal,CCC/C=C/C=O,29
+1109,22a,E2-hexenal,CCC/C=C/C=O,45
+1110,23a,E2-hexenal,CCC/C=C/C=O,36
+1111,33b,E2-hexenal,CCC/C=C/C=O,-33
+1112,35a,E2-hexenal,CCC/C=C/C=O,210
+1113,43a,E2-hexenal,CCC/C=C/C=O,20
+1114,43b,E2-hexenal,CCC/C=C/C=O,82
+1115,47a,E2-hexenal,CCC/C=C/C=O,36
+1116,47b,E2-hexenal,CCC/C=C/C=O,-29
+1117,49b,E2-hexenal,CCC/C=C/C=O,-2
+1118,59b,E2-hexenal,CCC/C=C/C=O,1
+1119,65a,E2-hexenal,CCC/C=C/C=O,-20
+1120,67a,E2-hexenal,CCC/C=C/C=O,106
+1121,67c,E2-hexenal,CCC/C=C/C=O,41
+1122,82a,E2-hexenal,CCC/C=C/C=O,-22
+1123,85a,E2-hexenal,CCC/C=C/C=O,-3
+1124,85b,E2-hexenal,CCC/C=C/C=O,132
+1125,85f,E2-hexenal,CCC/C=C/C=O,28
+1126,88a,E2-hexenal,CCC/C=C/C=O,-34
+1127,98a,E2-hexenal,CCC/C=C/C=O,16
+1128,2a,furfural,O=Cc1ccco1,3
+1129,7a,furfural,O=Cc1ccco1,159
+1130,9a,furfural,O=Cc1ccco1,90
+1131,10a,furfural,O=Cc1ccco1,20
+1132,19a,furfural,O=Cc1ccco1,-51
+1133,22a,furfural,O=Cc1ccco1,25
+1134,23a,furfural,O=Cc1ccco1,9
+1135,33b,furfural,O=Cc1ccco1,3
+1136,35a,furfural,O=Cc1ccco1,159
+1137,43a,furfural,O=Cc1ccco1,-38
+1138,43b,furfural,O=Cc1ccco1,32
+1139,47a,furfural,O=Cc1ccco1,5
+1140,47b,furfural,O=Cc1ccco1,-66
+1141,49b,furfural,O=Cc1ccco1,-12
+1142,59b,furfural,O=Cc1ccco1,48
+1143,65a,furfural,O=Cc1ccco1,-19
+1144,67a,furfural,O=Cc1ccco1,171
+1145,67c,furfural,O=Cc1ccco1,30
+1146,82a,furfural,O=Cc1ccco1,23
+1147,85a,furfural,O=Cc1ccco1,-16
+1148,85b,furfural,O=Cc1ccco1,48
+1149,85f,furfural,O=Cc1ccco1,52
+1150,88a,furfural,O=Cc1ccco1,-38
+1151,98a,furfural,O=Cc1ccco1,21
+1152,2a,2-propenal,C=CC=O,6
+1153,7a,2-propenal,C=CC=O,14
+1154,9a,2-propenal,C=CC=O,0
+1155,10a,2-propenal,C=CC=O,-21
+1156,19a,2-propenal,C=CC=O,-41
+1157,22a,2-propenal,C=CC=O,28
+1158,23a,2-propenal,C=CC=O,-15
+1159,33b,2-propenal,C=CC=O,-19
+1160,35a,2-propenal,C=CC=O,-26
+1161,43a,2-propenal,C=CC=O,-28
+1162,43b,2-propenal,C=CC=O,9
+1163,47a,2-propenal,C=CC=O,7
+1164,47b,2-propenal,C=CC=O,-63
+1165,49b,2-propenal,C=CC=O,-11
+1166,59b,2-propenal,C=CC=O,17
+1167,65a,2-propenal,C=CC=O,-16
+1168,67a,2-propenal,C=CC=O,10
+1169,67c,2-propenal,C=CC=O,-1
+1170,82a,2-propenal,C=CC=O,-21
+1171,85a,2-propenal,C=CC=O,5
+1172,85b,2-propenal,C=CC=O,23
+1173,85f,2-propenal,C=CC=O,-5
+1174,88a,2-propenal,C=CC=O,-22
+1175,98a,2-propenal,C=CC=O,10
+1176,2a,acetone,CC(C)=O,-7
+1177,7a,acetone,CC(C)=O,-27
+1178,9a,acetone,CC(C)=O,26
+1179,10a,acetone,CC(C)=O,-14
+1180,19a,acetone,CC(C)=O,-54
+1181,22a,acetone,CC(C)=O,34
+1182,23a,acetone,CC(C)=O,-16
+1183,33b,acetone,CC(C)=O,-35
+1184,35a,acetone,CC(C)=O,-9
+1185,43a,acetone,CC(C)=O,-37
+1186,43b,acetone,CC(C)=O,9
+1187,47a,acetone,CC(C)=O,2
+1188,47b,acetone,CC(C)=O,-53
+1189,49b,acetone,CC(C)=O,-11
+1190,59b,acetone,CC(C)=O,128
+1191,65a,acetone,CC(C)=O,-25
+1192,67a,acetone,CC(C)=O,16
+1193,67c,acetone,CC(C)=O,-11
+1194,82a,acetone,CC(C)=O,-20
+1195,85a,acetone,CC(C)=O,-19
+1196,85b,acetone,CC(C)=O,15
+1197,85f,acetone,CC(C)=O,11
+1198,88a,acetone,CC(C)=O,-35
+1199,98a,acetone,CC(C)=O,-13
+1200,2a,2-butanone,CCC(C)=O,0
+1201,7a,2-butanone,CCC(C)=O,-8
+1202,9a,2-butanone,CCC(C)=O,91
+1203,10a,2-butanone,CCC(C)=O,-7
+1204,19a,2-butanone,CCC(C)=O,-45
+1205,22a,2-butanone,CCC(C)=O,80
+1206,23a,2-butanone,CCC(C)=O,-6
+1207,33b,2-butanone,CCC(C)=O,-18
+1208,35a,2-butanone,CCC(C)=O,-4
+1209,43a,2-butanone,CCC(C)=O,-29
+1210,43b,2-butanone,CCC(C)=O,23
+1211,47a,2-butanone,CCC(C)=O,15
+1212,47b,2-butanone,CCC(C)=O,-62
+1213,49b,2-butanone,CCC(C)=O,-5
+1214,59b,2-butanone,CCC(C)=O,142
+1215,65a,2-butanone,CCC(C)=O,-20
+1216,67a,2-butanone,CCC(C)=O,56
+1217,67c,2-butanone,CCC(C)=O,15
+1218,82a,2-butanone,CCC(C)=O,1
+1219,85a,2-butanone,CCC(C)=O,-13
+1220,85b,2-butanone,CCC(C)=O,26
+1221,85f,2-butanone,CCC(C)=O,34
+1222,88a,2-butanone,CCC(C)=O,-40
+1223,98a,2-butanone,CCC(C)=O,-8
+1224,2a,2-pentanone,CCCC(C)=O,22
+1225,7a,2-pentanone,CCCC(C)=O,-15
+1226,9a,2-pentanone,CCCC(C)=O,127
+1227,10a,2-pentanone,CCCC(C)=O,5
+1228,19a,2-pentanone,CCCC(C)=O,-30
+1229,22a,2-pentanone,CCCC(C)=O,144
+1230,23a,2-pentanone,CCCC(C)=O,4
+1231,33b,2-pentanone,CCCC(C)=O,-15
+1232,35a,2-pentanone,CCCC(C)=O,95
+1233,43a,2-pentanone,CCCC(C)=O,-9
+1234,43b,2-pentanone,CCCC(C)=O,73
+1235,47a,2-pentanone,CCCC(C)=O,73
+1236,47b,2-pentanone,CCCC(C)=O,-78
+1237,49b,2-pentanone,CCCC(C)=O,-5
+1238,59b,2-pentanone,CCCC(C)=O,58
+1239,65a,2-pentanone,CCCC(C)=O,-6
+1240,67a,2-pentanone,CCCC(C)=O,59
+1241,67c,2-pentanone,CCCC(C)=O,54
+1242,82a,2-pentanone,CCCC(C)=O,16
+1243,85a,2-pentanone,CCCC(C)=O,-22
+1244,85b,2-pentanone,CCCC(C)=O,102
+1245,85f,2-pentanone,CCCC(C)=O,45
+1246,88a,2-pentanone,CCCC(C)=O,-45
+1247,98a,2-pentanone,CCCC(C)=O,-1
+1248,2a,2-heptanone,CCCCCC(C)=O,31
+1249,7a,2-heptanone,CCCCCC(C)=O,-19
+1250,9a,2-heptanone,CCCCCC(C)=O,103
+1251,10a,2-heptanone,CCCCCC(C)=O,3
+1252,19a,2-heptanone,CCCCCC(C)=O,102
+1253,22a,2-heptanone,CCCCCC(C)=O,107
+1254,23a,2-heptanone,CCCCCC(C)=O,16
+1255,33b,2-heptanone,CCCCCC(C)=O,-25
+1256,35a,2-heptanone,CCCCCC(C)=O,102
+1257,43a,2-heptanone,CCCCCC(C)=O,21
+1258,43b,2-heptanone,CCCCCC(C)=O,69
+1259,47a,2-heptanone,CCCCCC(C)=O,208
+1260,47b,2-heptanone,CCCCCC(C)=O,-57
+1261,49b,2-heptanone,CCCCCC(C)=O,13
+1262,59b,2-heptanone,CCCCCC(C)=O,23
+1263,65a,2-heptanone,CCCCCC(C)=O,17
+1264,67a,2-heptanone,CCCCCC(C)=O,159
+1265,67c,2-heptanone,CCCCCC(C)=O,30
+1266,82a,2-heptanone,CCCCCC(C)=O,16
+1267,85a,2-heptanone,CCCCCC(C)=O,19
+1268,85b,2-heptanone,CCCCCC(C)=O,177
+1269,85f,2-heptanone,CCCCCC(C)=O,33
+1270,88a,2-heptanone,CCCCCC(C)=O,-7
+1271,98a,2-heptanone,CCCCCC(C)=O,177
+1272,2a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,38
+1273,7a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-41
+1274,9a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,55
+1275,10a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-6
+1276,19a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,40
+1277,22a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,81
+1278,23a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,19
+1279,33b,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-36
+1280,35a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-29
+1281,43a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-14
+1282,43b,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,44
+1283,47a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,39
+1284,47b,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-41
+1285,49b,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-13
+1286,59b,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-2
+1287,65a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,31
+1288,67a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,223
+1289,67c,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,10
+1290,82a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,45
+1291,85a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-21
+1292,85b,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,244
+1293,85f,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,27
+1294,88a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,-41
+1295,98a,6-methyl-5-hepten-2-one,CC(=O)CCC=C(C)C,220
+1296,2a,"2,3-butanedione",CC(=O)C(C)=O,-5
+1297,7a,"2,3-butanedione",CC(=O)C(C)=O,-4
+1298,9a,"2,3-butanedione",CC(=O)C(C)=O,57
+1299,10a,"2,3-butanedione",CC(=O)C(C)=O,8
+1300,19a,"2,3-butanedione",CC(=O)C(C)=O,6
+1301,22a,"2,3-butanedione",CC(=O)C(C)=O,44
+1302,23a,"2,3-butanedione",CC(=O)C(C)=O,6
+1303,33b,"2,3-butanedione",CC(=O)C(C)=O,-14
+1304,35a,"2,3-butanedione",CC(=O)C(C)=O,-4
+1305,43a,"2,3-butanedione",CC(=O)C(C)=O,-10
+1306,43b,"2,3-butanedione",CC(=O)C(C)=O,67
+1307,47a,"2,3-butanedione",CC(=O)C(C)=O,24
+1308,47b,"2,3-butanedione",CC(=O)C(C)=O,-40
+1309,49b,"2,3-butanedione",CC(=O)C(C)=O,-2
+1310,59b,"2,3-butanedione",CC(=O)C(C)=O,95
+1311,65a,"2,3-butanedione",CC(=O)C(C)=O,-10
+1312,67a,"2,3-butanedione",CC(=O)C(C)=O,73
+1313,67c,"2,3-butanedione",CC(=O)C(C)=O,36
+1314,82a,"2,3-butanedione",CC(=O)C(C)=O,4
+1315,85a,"2,3-butanedione",CC(=O)C(C)=O,26
+1316,85b,"2,3-butanedione",CC(=O)C(C)=O,58
+1317,85f,"2,3-butanedione",CC(=O)C(C)=O,7
+1318,88a,"2,3-butanedione",CC(=O)C(C)=O,-15
+1319,98a,"2,3-butanedione",CC(=O)C(C)=O,22
+1320,2a,phenethyl alcohol,OCCc1ccccc1,-6
+1321,7a,phenethyl alcohol,OCCc1ccccc1,-14
+1322,9a,phenethyl alcohol,OCCc1ccccc1,14
+1323,10a,phenethyl alcohol,OCCc1ccccc1,-30
+1324,19a,phenethyl alcohol,OCCc1ccccc1,-15
+1325,22a,phenethyl alcohol,OCCc1ccccc1,42
+1326,23a,phenethyl alcohol,OCCc1ccccc1,-11
+1327,33b,phenethyl alcohol,OCCc1ccccc1,4
+1328,35a,phenethyl alcohol,OCCc1ccccc1,103
+1329,43a,phenethyl alcohol,OCCc1ccccc1,7
+1330,43b,phenethyl alcohol,OCCc1ccccc1,4
+1331,47a,phenethyl alcohol,OCCc1ccccc1,8
+1332,47b,phenethyl alcohol,OCCc1ccccc1,-67
+1333,49b,phenethyl alcohol,OCCc1ccccc1,37
+1334,59b,phenethyl alcohol,OCCc1ccccc1,0
+1335,65a,phenethyl alcohol,OCCc1ccccc1,-24
+1336,67a,phenethyl alcohol,OCCc1ccccc1,225
+1337,67c,phenethyl alcohol,OCCc1ccccc1,61
+1338,82a,phenethyl alcohol,OCCc1ccccc1,9
+1339,85a,phenethyl alcohol,OCCc1ccccc1,-11
+1340,85b,phenethyl alcohol,OCCc1ccccc1,7
+1341,85f,phenethyl alcohol,OCCc1ccccc1,1
+1342,88a,phenethyl alcohol,OCCc1ccccc1,-22
+1343,98a,phenethyl alcohol,OCCc1ccccc1,-20
+1344,2a,benzyl alcohol,OCc1ccccc1,-12
+1345,7a,benzyl alcohol,OCc1ccccc1,-12
+1346,9a,benzyl alcohol,OCc1ccccc1,27
+1347,10a,benzyl alcohol,OCc1ccccc1,-19
+1348,19a,benzyl alcohol,OCc1ccccc1,-38
+1349,22a,benzyl alcohol,OCc1ccccc1,36
+1350,23a,benzyl alcohol,OCc1ccccc1,-14
+1351,33b,benzyl alcohol,OCc1ccccc1,9
+1352,35a,benzyl alcohol,OCc1ccccc1,27
+1353,43a,benzyl alcohol,OCc1ccccc1,31
+1354,43b,benzyl alcohol,OCc1ccccc1,-2
+1355,47a,benzyl alcohol,OCc1ccccc1,7
+1356,47b,benzyl alcohol,OCc1ccccc1,-68
+1357,49b,benzyl alcohol,OCc1ccccc1,103
+1358,59b,benzyl alcohol,OCc1ccccc1,12
+1359,65a,benzyl alcohol,OCc1ccccc1,-21
+1360,67a,benzyl alcohol,OCc1ccccc1,105
+1361,67c,benzyl alcohol,OCc1ccccc1,20
+1362,82a,benzyl alcohol,OCc1ccccc1,7
+1363,85a,benzyl alcohol,OCc1ccccc1,-18
+1364,85b,benzyl alcohol,OCc1ccccc1,6
+1365,85f,benzyl alcohol,OCc1ccccc1,18
+1366,88a,benzyl alcohol,OCc1ccccc1,-25
+1367,98a,benzyl alcohol,OCc1ccccc1,-11
+1368,2a,methyl salicylate,COC(=O)c1ccccc1O,-3
+1369,7a,methyl salicylate,COC(=O)c1ccccc1O,-23
+1370,9a,methyl salicylate,COC(=O)c1ccccc1O,10
+1371,10a,methyl salicylate,COC(=O)c1ccccc1O,244
+1372,19a,methyl salicylate,COC(=O)c1ccccc1O,-28
+1373,22a,methyl salicylate,COC(=O)c1ccccc1O,-6
+1374,23a,methyl salicylate,COC(=O)c1ccccc1O,-10
+1375,33b,methyl salicylate,COC(=O)c1ccccc1O,-32
+1376,35a,methyl salicylate,COC(=O)c1ccccc1O,-15
+1377,43a,methyl salicylate,COC(=O)c1ccccc1O,-1
+1378,43b,methyl salicylate,COC(=O)c1ccccc1O,10
+1379,47a,methyl salicylate,COC(=O)c1ccccc1O,-7
+1380,47b,methyl salicylate,COC(=O)c1ccccc1O,-41
+1381,49b,methyl salicylate,COC(=O)c1ccccc1O,40
+1382,59b,methyl salicylate,COC(=O)c1ccccc1O,-6
+1383,65a,methyl salicylate,COC(=O)c1ccccc1O,-31
+1384,67a,methyl salicylate,COC(=O)c1ccccc1O,24
+1385,67c,methyl salicylate,COC(=O)c1ccccc1O,-8
+1386,82a,methyl salicylate,COC(=O)c1ccccc1O,-21
+1387,85a,methyl salicylate,COC(=O)c1ccccc1O,-12
+1388,85b,methyl salicylate,COC(=O)c1ccccc1O,-21
+1389,85f,methyl salicylate,COC(=O)c1ccccc1O,-2
+1390,88a,methyl salicylate,COC(=O)c1ccccc1O,-33
+1391,98a,methyl salicylate,COC(=O)c1ccccc1O,-4
+1392,2a,methyl benzoate,COC(=O)c1ccccc1,-7
+1393,7a,methyl benzoate,COC(=O)c1ccccc1,-44
+1394,9a,methyl benzoate,COC(=O)c1ccccc1,40
+1395,10a,methyl benzoate,COC(=O)c1ccccc1,251
+1396,19a,methyl benzoate,COC(=O)c1ccccc1,-41
+1397,22a,methyl benzoate,COC(=O)c1ccccc1,39
+1398,23a,methyl benzoate,COC(=O)c1ccccc1,-15
+1399,33b,methyl benzoate,COC(=O)c1ccccc1,-37
+1400,35a,methyl benzoate,COC(=O)c1ccccc1,-31
+1401,43a,methyl benzoate,COC(=O)c1ccccc1,-24
+1402,43b,methyl benzoate,COC(=O)c1ccccc1,30
+1403,47a,methyl benzoate,COC(=O)c1ccccc1,37
+1404,47b,methyl benzoate,COC(=O)c1ccccc1,-51
+1405,49b,methyl benzoate,COC(=O)c1ccccc1,11
+1406,59b,methyl benzoate,COC(=O)c1ccccc1,-4
+1407,65a,methyl benzoate,COC(=O)c1ccccc1,-20
+1408,67a,methyl benzoate,COC(=O)c1ccccc1,197
+1409,67c,methyl benzoate,COC(=O)c1ccccc1,4
+1410,82a,methyl benzoate,COC(=O)c1ccccc1,15
+1411,85a,methyl benzoate,COC(=O)c1ccccc1,-10
+1412,85b,methyl benzoate,COC(=O)c1ccccc1,16
+1413,85f,methyl benzoate,COC(=O)c1ccccc1,39
+1414,88a,methyl benzoate,COC(=O)c1ccccc1,-35
+1415,98a,methyl benzoate,COC(=O)c1ccccc1,214
+1416,2a,ethyl benzoate,CCOC(=O)c1ccccc1,-7
+1417,7a,ethyl benzoate,CCOC(=O)c1ccccc1,-37
+1418,9a,ethyl benzoate,CCOC(=O)c1ccccc1,26
+1419,10a,ethyl benzoate,CCOC(=O)c1ccccc1,254
+1420,19a,ethyl benzoate,CCOC(=O)c1ccccc1,-35
+1421,22a,ethyl benzoate,CCOC(=O)c1ccccc1,45
+1422,23a,ethyl benzoate,CCOC(=O)c1ccccc1,-15
+1423,33b,ethyl benzoate,CCOC(=O)c1ccccc1,-28
+1424,35a,ethyl benzoate,CCOC(=O)c1ccccc1,-33
+1425,43a,ethyl benzoate,CCOC(=O)c1ccccc1,-47
+1426,43b,ethyl benzoate,CCOC(=O)c1ccccc1,4
+1427,47a,ethyl benzoate,CCOC(=O)c1ccccc1,26
+1428,47b,ethyl benzoate,CCOC(=O)c1ccccc1,-58
+1429,49b,ethyl benzoate,CCOC(=O)c1ccccc1,-14
+1430,59b,ethyl benzoate,CCOC(=O)c1ccccc1,-7
+1431,65a,ethyl benzoate,CCOC(=O)c1ccccc1,-24
+1432,67a,ethyl benzoate,CCOC(=O)c1ccccc1,187
+1433,67c,ethyl benzoate,CCOC(=O)c1ccccc1,-10
+1434,82a,ethyl benzoate,CCOC(=O)c1ccccc1,-20
+1435,85a,ethyl benzoate,CCOC(=O)c1ccccc1,-28
+1436,85b,ethyl benzoate,CCOC(=O)c1ccccc1,1
+1437,85f,ethyl benzoate,CCOC(=O)c1ccccc1,14
+1438,88a,ethyl benzoate,CCOC(=O)c1ccccc1,-31
+1439,98a,ethyl benzoate,CCOC(=O)c1ccccc1,261
+1440,2a,phenethyl acetate,CC(=O)OCCc1ccccc1,3
+1441,7a,phenethyl acetate,CC(=O)OCCc1ccccc1,-30
+1442,9a,phenethyl acetate,CC(=O)OCCc1ccccc1,15
+1443,10a,phenethyl acetate,CC(=O)OCCc1ccccc1,-26
+1444,19a,phenethyl acetate,CC(=O)OCCc1ccccc1,-22
+1445,22a,phenethyl acetate,CC(=O)OCCc1ccccc1,36
+1446,23a,phenethyl acetate,CC(=O)OCCc1ccccc1,-13
+1447,33b,phenethyl acetate,CC(=O)OCCc1ccccc1,-25
+1448,35a,phenethyl acetate,CC(=O)OCCc1ccccc1,-30
+1449,43a,phenethyl acetate,CC(=O)OCCc1ccccc1,-33
+1450,43b,phenethyl acetate,CC(=O)OCCc1ccccc1,0
+1451,47a,phenethyl acetate,CC(=O)OCCc1ccccc1,23
+1452,47b,phenethyl acetate,CC(=O)OCCc1ccccc1,-62
+1453,49b,phenethyl acetate,CC(=O)OCCc1ccccc1,-1
+1454,59b,phenethyl acetate,CC(=O)OCCc1ccccc1,32
+1455,65a,phenethyl acetate,CC(=O)OCCc1ccccc1,-1
+1456,67a,phenethyl acetate,CC(=O)OCCc1ccccc1,174
+1457,67c,phenethyl acetate,CC(=O)OCCc1ccccc1,-5
+1458,82a,phenethyl acetate,CC(=O)OCCc1ccccc1,3
+1459,85a,phenethyl acetate,CC(=O)OCCc1ccccc1,-22
+1460,85b,phenethyl acetate,CC(=O)OCCc1ccccc1,15
+1461,85f,phenethyl acetate,CC(=O)OCCc1ccccc1,0
+1462,88a,phenethyl acetate,CC(=O)OCCc1ccccc1,-30
+1463,98a,phenethyl acetate,CC(=O)OCCc1ccccc1,12
+1464,2a,benzaldehyde,O=Cc1ccccc1,-3
+1465,7a,benzaldehyde,O=Cc1ccccc1,183
+1466,9a,benzaldehyde,O=Cc1ccccc1,54
+1467,10a,benzaldehyde,O=Cc1ccccc1,109
+1468,19a,benzaldehyde,O=Cc1ccccc1,-44
+1469,22a,benzaldehyde,O=Cc1ccccc1,28
+1470,23a,benzaldehyde,O=Cc1ccccc1,-14
+1471,33b,benzaldehyde,O=Cc1ccccc1,-30
+1472,35a,benzaldehyde,O=Cc1ccccc1,66
+1473,43a,benzaldehyde,O=Cc1ccccc1,15
+1474,43b,benzaldehyde,O=Cc1ccccc1,10
+1475,47a,benzaldehyde,O=Cc1ccccc1,21
+1476,47b,benzaldehyde,O=Cc1ccccc1,-65
+1477,49b,benzaldehyde,O=Cc1ccccc1,93
+1478,59b,benzaldehyde,O=Cc1ccccc1,4
+1479,65a,benzaldehyde,O=Cc1ccccc1,-28
+1480,67a,benzaldehyde,O=Cc1ccccc1,189
+1481,67c,benzaldehyde,O=Cc1ccccc1,0
+1482,82a,benzaldehyde,O=Cc1ccccc1,-26
+1483,85a,benzaldehyde,O=Cc1ccccc1,-7
+1484,85b,benzaldehyde,O=Cc1ccccc1,24
+1485,85f,benzaldehyde,O=Cc1ccccc1,42
+1486,88a,benzaldehyde,O=Cc1ccccc1,-29
+1487,98a,benzaldehyde,O=Cc1ccccc1,18
+1488,2a,phenylacetaldehyde,O=CCc1ccccc1,2
+1489,7a,phenylacetaldehyde,O=CCc1ccccc1,26
+1490,9a,phenylacetaldehyde,O=CCc1ccccc1,11
+1491,10a,phenylacetaldehyde,O=CCc1ccccc1,50
+1492,19a,phenylacetaldehyde,O=CCc1ccccc1,-59
+1493,22a,phenylacetaldehyde,O=CCc1ccccc1,40
+1494,23a,phenylacetaldehyde,O=CCc1ccccc1,-8
+1495,33b,phenylacetaldehyde,O=CCc1ccccc1,-18
+1496,35a,phenylacetaldehyde,O=CCc1ccccc1,-34
+1497,43a,phenylacetaldehyde,O=CCc1ccccc1,-27
+1498,43b,phenylacetaldehyde,O=CCc1ccccc1,6
+1499,47a,phenylacetaldehyde,O=CCc1ccccc1,26
+1500,47b,phenylacetaldehyde,O=CCc1ccccc1,-64
+1501,49b,phenylacetaldehyde,O=CCc1ccccc1,71
+1502,59b,phenylacetaldehyde,O=CCc1ccccc1,5
+1503,65a,phenylacetaldehyde,O=CCc1ccccc1,-15
+1504,67a,phenylacetaldehyde,O=CCc1ccccc1,142
+1505,67c,phenylacetaldehyde,O=CCc1ccccc1,11
+1506,82a,phenylacetaldehyde,O=CCc1ccccc1,-7
+1507,85a,phenylacetaldehyde,O=CCc1ccccc1,-4
+1508,85b,phenylacetaldehyde,O=CCc1ccccc1,26
+1509,85f,phenylacetaldehyde,O=CCc1ccccc1,13
+1510,88a,phenylacetaldehyde,O=CCc1ccccc1,-26
+1511,98a,phenylacetaldehyde,O=CCc1ccccc1,15
+1512,2a,acetophenone,CC(=O)c1ccccc1,-11
+1513,7a,acetophenone,CC(=O)c1ccccc1,-7
+1514,9a,acetophenone,CC(=O)c1ccccc1,59
+1515,10a,acetophenone,CC(=O)c1ccccc1,240
+1516,19a,acetophenone,CC(=O)c1ccccc1,-24
+1517,22a,acetophenone,CC(=O)c1ccccc1,28
+1518,23a,acetophenone,CC(=O)c1ccccc1,-15
+1519,33b,acetophenone,CC(=O)c1ccccc1,-41
+1520,35a,acetophenone,CC(=O)c1ccccc1,-7
+1521,43a,acetophenone,CC(=O)c1ccccc1,16
+1522,43b,acetophenone,CC(=O)c1ccccc1,8
+1523,47a,acetophenone,CC(=O)c1ccccc1,37
+1524,47b,acetophenone,CC(=O)c1ccccc1,-53
+1525,49b,acetophenone,CC(=O)c1ccccc1,71
+1526,59b,acetophenone,CC(=O)c1ccccc1,3
+1527,65a,acetophenone,CC(=O)c1ccccc1,-6
+1528,67a,acetophenone,CC(=O)c1ccccc1,173
+1529,67c,acetophenone,CC(=O)c1ccccc1,29
+1530,82a,acetophenone,CC(=O)c1ccccc1,-32
+1531,85a,acetophenone,CC(=O)c1ccccc1,-39
+1532,85b,acetophenone,CC(=O)c1ccccc1,9
+1533,85f,acetophenone,CC(=O)c1ccccc1,77
+1534,88a,acetophenone,CC(=O)c1ccccc1,-38
+1535,98a,acetophenone,CC(=O)c1ccccc1,17
+1536,2a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-12
+1537,7a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-23
+1538,9a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-5
+1539,10a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-21
+1540,19a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-50
+1541,22a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,8
+1542,23a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-10
+1543,33b,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-22
+1544,35a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-27
+1545,43a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-40
+1546,43b,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,0
+1547,47a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-2
+1548,47b,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-48
+1549,49b,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-5
+1550,59b,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-4
+1551,65a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-16
+1552,67a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,64
+1553,67c,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-7
+1554,82a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-17
+1555,85a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-21
+1556,85b,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,22
+1557,85f,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-18
+1558,88a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-22
+1559,98a,ethyl cinnamate,CCOC(=O)/C=C/c1ccccc1,-5
+1560,2a,2-methylphenol,Cc1ccccc1O,-19
+1561,7a,2-methylphenol,Cc1ccccc1O,-44
+1562,9a,2-methylphenol,Cc1ccccc1O,33
+1563,10a,2-methylphenol,Cc1ccccc1O,-31
+1564,19a,2-methylphenol,Cc1ccccc1O,-45
+1565,22a,2-methylphenol,Cc1ccccc1O,5
+1566,23a,2-methylphenol,Cc1ccccc1O,-17
+1567,33b,2-methylphenol,Cc1ccccc1O,-41
+1568,35a,2-methylphenol,Cc1ccccc1O,-29
+1569,43a,2-methylphenol,Cc1ccccc1O,56
+1570,43b,2-methylphenol,Cc1ccccc1O,33
+1571,47a,2-methylphenol,Cc1ccccc1O,-12
+1572,47b,2-methylphenol,Cc1ccccc1O,-74
+1573,49b,2-methylphenol,Cc1ccccc1O,242
+1574,59b,2-methylphenol,Cc1ccccc1O,-9
+1575,65a,2-methylphenol,Cc1ccccc1O,-36
+1576,67a,2-methylphenol,Cc1ccccc1O,46
+1577,67c,2-methylphenol,Cc1ccccc1O,-4
+1578,82a,2-methylphenol,Cc1ccccc1O,-30
+1579,85a,2-methylphenol,Cc1ccccc1O,-28
+1580,85b,2-methylphenol,Cc1ccccc1O,14
+1581,85f,2-methylphenol,Cc1ccccc1O,24
+1582,88a,2-methylphenol,Cc1ccccc1O,-40
+1583,98a,2-methylphenol,Cc1ccccc1O,-33
+1584,2a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-9
+1585,7a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-27
+1586,9a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,11
+1587,10a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-12
+1588,19a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-39
+1589,22a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,3
+1590,23a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-18
+1591,33b,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-28
+1592,35a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-20
+1593,43a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-26
+1594,43b,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,1
+1595,47a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-3
+1596,47b,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-52
+1597,49b,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-10
+1598,59b,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,4
+1599,65a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-26
+1600,67a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-7
+1601,67c,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,25
+1602,82a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-23
+1603,85a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-20
+1604,85b,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,26
+1605,85f,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,7
+1606,88a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-27
+1607,98a,4-ethyl guaiacol,CCc1ccc(O)c(OC)c1,-11
+1608,2a,eugenol,C=CCc1ccc(O)c(OC)c1,-4
+1609,7a,eugenol,C=CCc1ccc(O)c(OC)c1,-27
+1610,9a,eugenol,C=CCc1ccc(O)c(OC)c1,7
+1611,10a,eugenol,C=CCc1ccc(O)c(OC)c1,50
+1612,19a,eugenol,C=CCc1ccc(O)c(OC)c1,-45
+1613,22a,eugenol,C=CCc1ccc(O)c(OC)c1,3
+1614,23a,eugenol,C=CCc1ccc(O)c(OC)c1,-8
+1615,33b,eugenol,C=CCc1ccc(O)c(OC)c1,-31
+1616,35a,eugenol,C=CCc1ccc(O)c(OC)c1,-24
+1617,43a,eugenol,C=CCc1ccc(O)c(OC)c1,-35
+1618,43b,eugenol,C=CCc1ccc(O)c(OC)c1,8
+1619,47a,eugenol,C=CCc1ccc(O)c(OC)c1,-1
+1620,47b,eugenol,C=CCc1ccc(O)c(OC)c1,-51
+1621,49b,eugenol,C=CCc1ccc(O)c(OC)c1,-14
+1622,59b,eugenol,C=CCc1ccc(O)c(OC)c1,19
+1623,65a,eugenol,C=CCc1ccc(O)c(OC)c1,-25
+1624,67a,eugenol,C=CCc1ccc(O)c(OC)c1,-4
+1625,67c,eugenol,C=CCc1ccc(O)c(OC)c1,-9
+1626,82a,eugenol,C=CCc1ccc(O)c(OC)c1,-17
+1627,85a,eugenol,C=CCc1ccc(O)c(OC)c1,-18
+1628,85b,eugenol,C=CCc1ccc(O)c(OC)c1,21
+1629,85f,eugenol,C=CCc1ccc(O)c(OC)c1,5
+1630,88a,eugenol,C=CCc1ccc(O)c(OC)c1,-29
+1631,98a,eugenol,C=CCc1ccc(O)c(OC)c1,38
+1632,2a,methanol,CO,2
+1633,7a,methanol,CO,5
+1634,9a,methanol,CO,22
+1635,10a,methanol,CO,-9
+1636,19a,methanol,CO,-45
+1637,22a,methanol,CO,51
+1638,23a,methanol,CO,-12
+1639,33b,methanol,CO,10
+1640,35a,methanol,CO,21
+1641,43a,methanol,CO,-23
+1642,43b,methanol,CO,12
+1643,47a,methanol,CO,12
+1644,47b,methanol,CO,-68
+1645,49b,methanol,CO,1
+1646,59b,methanol,CO,16
+1647,65a,methanol,CO,-15
+1648,67a,methanol,CO,-8
+1649,67c,methanol,CO,14
+1650,82a,methanol,CO,-13
+1651,85a,methanol,CO,0
+1652,85b,methanol,CO,4
+1653,85f,methanol,CO,-1
+1654,88a,methanol,CO,-34
+1655,98a,methanol,CO,-7
+1656,2a,ethanol,CCO,-4
+1657,7a,ethanol,CCO,16
+1658,9a,ethanol,CCO,18
+1659,10a,ethanol,CCO,-2
+1660,19a,ethanol,CCO,-41
+1661,22a,ethanol,CCO,51
+1662,23a,ethanol,CCO,-3
+1663,33b,ethanol,CCO,11
+1664,35a,ethanol,CCO,17
+1665,43a,ethanol,CCO,-28
+1666,43b,ethanol,CCO,11
+1667,47a,ethanol,CCO,8
+1668,47b,ethanol,CCO,-69
+1669,49b,ethanol,CCO,-7
+1670,59b,ethanol,CCO,11
+1671,65a,ethanol,CCO,-16
+1672,67a,ethanol,CCO,-7
+1673,67c,ethanol,CCO,20
+1674,82a,ethanol,CCO,0
+1675,85a,ethanol,CCO,3
+1676,85b,ethanol,CCO,14
+1677,85f,ethanol,CCO,-5
+1678,88a,ethanol,CCO,-38
+1679,98a,ethanol,CCO,-9
+1680,2a,1-propanol,CCCO,25
+1681,7a,1-propanol,CCCO,163
+1682,9a,1-propanol,CCCO,49
+1683,10a,1-propanol,CCCO,-18
+1684,19a,1-propanol,CCCO,-19
+1685,22a,1-propanol,CCCO,54
+1686,23a,1-propanol,CCCO,-4
+1687,33b,1-propanol,CCCO,2
+1688,35a,1-propanol,CCCO,38
+1689,43a,1-propanol,CCCO,-34
+1690,43b,1-propanol,CCCO,31
+1691,47a,1-propanol,CCCO,15
+1692,47b,1-propanol,CCCO,-65
+1693,49b,1-propanol,CCCO,-7
+1694,59b,1-propanol,CCCO,10
+1695,65a,1-propanol,CCCO,-23
+1696,67a,1-propanol,CCCO,5
+1697,67c,1-propanol,CCCO,42
+1698,82a,1-propanol,CCCO,1
+1699,85a,1-propanol,CCCO,-14
+1700,85b,1-propanol,CCCO,34
+1701,85f,1-propanol,CCCO,15
+1702,88a,1-propanol,CCCO,-32
+1703,98a,1-propanol,CCCO,-21
+1704,2a,1-butanol,CCCCO,37
+1705,7a,1-butanol,CCCCO,178
+1706,9a,1-butanol,CCCCO,100
+1707,10a,1-butanol,CCCCO,-19
+1708,19a,1-butanol,CCCCO,20
+1709,22a,1-butanol,CCCCO,116
+1710,23a,1-butanol,CCCCO,32
+1711,33b,1-butanol,CCCCO,14
+1712,35a,1-butanol,CCCCO,182
+1713,43a,1-butanol,CCCCO,-22
+1714,43b,1-butanol,CCCCO,71
+1715,47a,1-butanol,CCCCO,23
+1716,47b,1-butanol,CCCCO,-72
+1717,49b,1-butanol,CCCCO,18
+1718,59b,1-butanol,CCCCO,42
+1719,65a,1-butanol,CCCCO,-20
+1720,67a,1-butanol,CCCCO,54
+1721,67c,1-butanol,CCCCO,66
+1722,82a,1-butanol,CCCCO,22
+1723,85a,1-butanol,CCCCO,-12
+1724,85b,1-butanol,CCCCO,31
+1725,85f,1-butanol,CCCCO,21
+1726,88a,1-butanol,CCCCO,-26
+1727,98a,1-butanol,CCCCO,-19
+1728,2a,1-pentanol,CCCCCO,27
+1729,7a,1-pentanol,CCCCCO,149
+1730,9a,1-pentanol,CCCCCO,157
+1731,10a,1-pentanol,CCCCCO,-3
+1732,19a,1-pentanol,CCCCCO,55
+1733,22a,1-pentanol,CCCCCO,175
+1734,23a,1-pentanol,CCCCCO,64
+1735,33b,1-pentanol,CCCCCO,17
+1736,35a,1-pentanol,CCCCCO,171
+1737,43a,1-pentanol,CCCCCO,56
+1738,43b,1-pentanol,CCCCCO,107
+1739,47a,1-pentanol,CCCCCO,61
+1740,47b,1-pentanol,CCCCCO,-78
+1741,49b,1-pentanol,CCCCCO,36
+1742,59b,1-pentanol,CCCCCO,53
+1743,65a,1-pentanol,CCCCCO,-17
+1744,67a,1-pentanol,CCCCCO,137
+1745,67c,1-pentanol,CCCCCO,120
+1746,82a,1-pentanol,CCCCCO,39
+1747,85a,1-pentanol,CCCCCO,33
+1748,85b,1-pentanol,CCCCCO,156
+1749,85f,1-pentanol,CCCCCO,49
+1750,88a,1-pentanol,CCCCCO,-18
+1751,98a,1-pentanol,CCCCCO,63
+1752,2a,1-hexanol,CCCCCCO,32
+1753,7a,1-hexanol,CCCCCCO,79
+1754,9a,1-hexanol,CCCCCCO,99
+1755,10a,1-hexanol,CCCCCCO,-4
+1756,19a,1-hexanol,CCCCCCO,117
+1757,22a,1-hexanol,CCCCCCO,59
+1758,23a,1-hexanol,CCCCCCO,42
+1759,33b,1-hexanol,CCCCCCO,-24
+1760,35a,1-hexanol,CCCCCCO,220
+1761,43a,1-hexanol,CCCCCCO,112
+1762,43b,1-hexanol,CCCCCCO,71
+1763,47a,1-hexanol,CCCCCCO,57
+1764,47b,1-hexanol,CCCCCCO,-82
+1765,49b,1-hexanol,CCCCCCO,23
+1766,59b,1-hexanol,CCCCCCO,33
+1767,65a,1-hexanol,CCCCCCO,-11
+1768,67a,1-hexanol,CCCCCCO,162
+1769,67c,1-hexanol,CCCCCCO,103
+1770,82a,1-hexanol,CCCCCCO,42
+1771,85a,1-hexanol,CCCCCCO,123
+1772,85b,1-hexanol,CCCCCCO,170
+1773,85f,1-hexanol,CCCCCCO,57
+1774,88a,1-hexanol,CCCCCCO,-10
+1775,98a,1-hexanol,CCCCCCO,146
+1776,2a,1-octanol,CCCCCCCCO,-7
+1777,7a,1-octanol,CCCCCCCCO,-35
+1778,9a,1-octanol,CCCCCCCCO,17
+1779,10a,1-octanol,CCCCCCCCO,-32
+1780,19a,1-octanol,CCCCCCCCO,63
+1781,22a,1-octanol,CCCCCCCCO,49
+1782,23a,1-octanol,CCCCCCCCO,-8
+1783,33b,1-octanol,CCCCCCCCO,-22
+1784,35a,1-octanol,CCCCCCCCO,205
+1785,43a,1-octanol,CCCCCCCCO,-34
+1786,43b,1-octanol,CCCCCCCCO,26
+1787,47a,1-octanol,CCCCCCCCO,6
+1788,47b,1-octanol,CCCCCCCCO,-79
+1789,49b,1-octanol,CCCCCCCCO,-14
+1790,59b,1-octanol,CCCCCCCCO,-9
+1791,65a,1-octanol,CCCCCCCCO,-22
+1792,67a,1-octanol,CCCCCCCCO,33
+1793,67c,1-octanol,CCCCCCCCO,5
+1794,82a,1-octanol,CCCCCCCCO,19
+1795,85a,1-octanol,CCCCCCCCO,-10
+1796,85b,1-octanol,CCCCCCCCO,43
+1797,85f,1-octanol,CCCCCCCCO,3
+1798,88a,1-octanol,CCCCCCCCO,-46
+1799,98a,1-octanol,CCCCCCCCO,12
+1800,2a,2-pentanol,CCCC(C)O,30
+1801,7a,2-pentanol,CCCC(C)O,61
+1802,9a,2-pentanol,CCCC(C)O,224
+1803,10a,2-pentanol,CCCC(C)O,3
+1804,19a,2-pentanol,CCCC(C)O,45
+1805,22a,2-pentanol,CCCC(C)O,109
+1806,23a,2-pentanol,CCCC(C)O,32
+1807,33b,2-pentanol,CCCC(C)O,20
+1808,35a,2-pentanol,CCCC(C)O,145
+1809,43a,2-pentanol,CCCC(C)O,75
+1810,43b,2-pentanol,CCCC(C)O,166
+1811,47a,2-pentanol,CCCC(C)O,76
+1812,47b,2-pentanol,CCCC(C)O,-80
+1813,49b,2-pentanol,CCCC(C)O,24
+1814,59b,2-pentanol,CCCC(C)O,37
+1815,65a,2-pentanol,CCCC(C)O,-10
+1816,67a,2-pentanol,CCCC(C)O,22
+1817,67c,2-pentanol,CCCC(C)O,92
+1818,82a,2-pentanol,CCCC(C)O,44
+1819,85a,2-pentanol,CCCC(C)O,31
+1820,85b,2-pentanol,CCCC(C)O,131
+1821,85f,2-pentanol,CCCC(C)O,51
+1822,88a,2-pentanol,CCCC(C)O,-21
+1823,98a,2-pentanol,CCCC(C)O,69
+1824,2a,3-methylbutanol,CC(C)CCO,22
+1825,7a,3-methylbutanol,CC(C)CCO,140
+1826,9a,3-methylbutanol,CC(C)CCO,94
+1827,10a,3-methylbutanol,CC(C)CCO,-20
+1828,19a,3-methylbutanol,CC(C)CCO,49
+1829,22a,3-methylbutanol,CC(C)CCO,100
+1830,23a,3-methylbutanol,CC(C)CCO,24
+1831,33b,3-methylbutanol,CC(C)CCO,8
+1832,35a,3-methylbutanol,CC(C)CCO,205
+1833,43a,3-methylbutanol,CC(C)CCO,33
+1834,43b,3-methylbutanol,CC(C)CCO,47
+1835,47a,3-methylbutanol,CC(C)CCO,23
+1836,47b,3-methylbutanol,CC(C)CCO,-80
+1837,49b,3-methylbutanol,CC(C)CCO,12
+1838,59b,3-methylbutanol,CC(C)CCO,23
+1839,65a,3-methylbutanol,CC(C)CCO,-19
+1840,67a,3-methylbutanol,CC(C)CCO,56
+1841,67c,3-methylbutanol,CC(C)CCO,75
+1842,82a,3-methylbutanol,CC(C)CCO,42
+1843,85a,3-methylbutanol,CC(C)CCO,-29
+1844,85b,3-methylbutanol,CC(C)CCO,11
+1845,85f,3-methylbutanol,CC(C)CCO,34
+1846,88a,3-methylbutanol,CC(C)CCO,-22
+1847,98a,3-methylbutanol,CC(C)CCO,2
+1848,2a,3-methyl-2-buten-1-ol,CC(C)=CCO,28
+1849,7a,3-methyl-2-buten-1-ol,CC(C)=CCO,179
+1850,9a,3-methyl-2-buten-1-ol,CC(C)=CCO,56
+1851,10a,3-methyl-2-buten-1-ol,CC(C)=CCO,-19
+1852,19a,3-methyl-2-buten-1-ol,CC(C)=CCO,29
+1853,22a,3-methyl-2-buten-1-ol,CC(C)=CCO,97
+1854,23a,3-methyl-2-buten-1-ol,CC(C)=CCO,16
+1855,33b,3-methyl-2-buten-1-ol,CC(C)=CCO,16
+1856,35a,3-methyl-2-buten-1-ol,CC(C)=CCO,159
+1857,43a,3-methyl-2-buten-1-ol,CC(C)=CCO,9
+1858,43b,3-methyl-2-buten-1-ol,CC(C)=CCO,51
+1859,47a,3-methyl-2-buten-1-ol,CC(C)=CCO,18
+1860,47b,3-methyl-2-buten-1-ol,CC(C)=CCO,-72
+1861,49b,3-methyl-2-buten-1-ol,CC(C)=CCO,27
+1862,59b,3-methyl-2-buten-1-ol,CC(C)=CCO,24
+1863,65a,3-methyl-2-buten-1-ol,CC(C)=CCO,-14
+1864,67a,3-methyl-2-buten-1-ol,CC(C)=CCO,204
+1865,67c,3-methyl-2-buten-1-ol,CC(C)=CCO,89
+1866,82a,3-methyl-2-buten-1-ol,CC(C)=CCO,26
+1867,85a,3-methyl-2-buten-1-ol,CC(C)=CCO,-3
+1868,85b,3-methyl-2-buten-1-ol,CC(C)=CCO,12
+1869,85f,3-methyl-2-buten-1-ol,CC(C)=CCO,30
+1870,88a,3-methyl-2-buten-1-ol,CC(C)=CCO,-19
+1871,98a,3-methyl-2-buten-1-ol,CC(C)=CCO,182
+1872,2a,1-penten-3-ol,C=CC(O)CC,26
+1873,7a,1-penten-3-ol,C=CC(O)CC,107
+1874,9a,1-penten-3-ol,C=CC(O)CC,206
+1875,10a,1-penten-3-ol,C=CC(O)CC,-21
+1876,19a,1-penten-3-ol,C=CC(O)CC,35
+1877,22a,1-penten-3-ol,C=CC(O)CC,54
+1878,23a,1-penten-3-ol,C=CC(O)CC,20
+1879,33b,1-penten-3-ol,C=CC(O)CC,19
+1880,35a,1-penten-3-ol,C=CC(O)CC,20
+1881,43a,1-penten-3-ol,C=CC(O)CC,37
+1882,43b,1-penten-3-ol,C=CC(O)CC,101
+1883,47a,1-penten-3-ol,C=CC(O)CC,38
+1884,47b,1-penten-3-ol,C=CC(O)CC,-82
+1885,49b,1-penten-3-ol,C=CC(O)CC,24
+1886,59b,1-penten-3-ol,C=CC(O)CC,37
+1887,65a,1-penten-3-ol,C=CC(O)CC,-19
+1888,67a,1-penten-3-ol,C=CC(O)CC,-3
+1889,67c,1-penten-3-ol,C=CC(O)CC,103
+1890,82a,1-penten-3-ol,C=CC(O)CC,29
+1891,85a,1-penten-3-ol,C=CC(O)CC,6
+1892,85b,1-penten-3-ol,C=CC(O)CC,8
+1893,85f,1-penten-3-ol,C=CC(O)CC,33
+1894,88a,1-penten-3-ol,C=CC(O)CC,-32
+1895,98a,1-penten-3-ol,C=CC(O)CC,-18
+1896,2a,1-octen-3-ol,C=CC(O)CCCCC,19
+1897,7a,1-octen-3-ol,C=CC(O)CCCCC,-8
+1898,9a,1-octen-3-ol,C=CC(O)CCCCC,51
+1899,10a,1-octen-3-ol,C=CC(O)CCCCC,-20
+1900,19a,1-octen-3-ol,C=CC(O)CCCCC,120
+1901,22a,1-octen-3-ol,C=CC(O)CCCCC,117
+1902,23a,1-octen-3-ol,C=CC(O)CCCCC,10
+1903,33b,1-octen-3-ol,C=CC(O)CCCCC,-42
+1904,35a,1-octen-3-ol,C=CC(O)CCCCC,124
+1905,43a,1-octen-3-ol,C=CC(O)CCCCC,79
+1906,43b,1-octen-3-ol,C=CC(O)CCCCC,42
+1907,47a,1-octen-3-ol,C=CC(O)CCCCC,89
+1908,47b,1-octen-3-ol,C=CC(O)CCCCC,-77
+1909,49b,1-octen-3-ol,C=CC(O)CCCCC,7
+1910,59b,1-octen-3-ol,C=CC(O)CCCCC,13
+1911,65a,1-octen-3-ol,C=CC(O)CCCCC,-2
+1912,67a,1-octen-3-ol,C=CC(O)CCCCC,153
+1913,67c,1-octen-3-ol,C=CC(O)CCCCC,18
+1914,82a,1-octen-3-ol,C=CC(O)CCCCC,18
+1915,85a,1-octen-3-ol,C=CC(O)CCCCC,26
+1916,85b,1-octen-3-ol,C=CC(O)CCCCC,167
+1917,85f,1-octen-3-ol,C=CC(O)CCCCC,24
+1918,88a,1-octen-3-ol,C=CC(O)CCCCC,-42
+1919,98a,1-octen-3-ol,C=CC(O)CCCCC,185
+1920,2a,E2-hexenol,CCC/C=C/CO,27
+1921,7a,E2-hexenol,CCC/C=C/CO,163
+1922,9a,E2-hexenol,CCC/C=C/CO,107
+1923,10a,E2-hexenol,CCC/C=C/CO,-22
+1924,19a,E2-hexenol,CCC/C=C/CO,50
+1925,22a,E2-hexenol,CCC/C=C/CO,83
+1926,23a,E2-hexenol,CCC/C=C/CO,32
+1927,33b,E2-hexenol,CCC/C=C/CO,-4
+1928,35a,E2-hexenol,CCC/C=C/CO,206
+1929,43a,E2-hexenol,CCC/C=C/CO,11
+1930,43b,E2-hexenol,CCC/C=C/CO,87
+1931,47a,E2-hexenol,CCC/C=C/CO,30
+1932,47b,E2-hexenol,CCC/C=C/CO,-80
+1933,49b,E2-hexenol,CCC/C=C/CO,33
+1934,59b,E2-hexenol,CCC/C=C/CO,18
+1935,65a,E2-hexenol,CCC/C=C/CO,-14
+1936,67a,E2-hexenol,CCC/C=C/CO,98
+1937,67c,E2-hexenol,CCC/C=C/CO,136
+1938,82a,E2-hexenol,CCC/C=C/CO,0
+1939,85a,E2-hexenol,CCC/C=C/CO,54
+1940,85b,E2-hexenol,CCC/C=C/CO,241
+1941,85f,E2-hexenol,CCC/C=C/CO,56
+1942,88a,E2-hexenol,CCC/C=C/CO,-34
+1943,98a,E2-hexenol,CCC/C=C/CO,202
+1944,2a,Z2-hexenol,CCC/C=C\CO,26
+1945,7a,Z2-hexenol,CCC/C=C\CO,134
+1946,9a,Z2-hexenol,CCC/C=C\CO,85
+1947,10a,Z2-hexenol,CCC/C=C\CO,-29
+1948,19a,Z2-hexenol,CCC/C=C\CO,56
+1949,22a,Z2-hexenol,CCC/C=C\CO,107
+1950,23a,Z2-hexenol,CCC/C=C\CO,46
+1951,33b,Z2-hexenol,CCC/C=C\CO,-4
+1952,35a,Z2-hexenol,CCC/C=C\CO,185
+1953,43a,Z2-hexenol,CCC/C=C\CO,55
+1954,43b,Z2-hexenol,CCC/C=C\CO,171
+1955,47a,Z2-hexenol,CCC/C=C\CO,29
+1956,47b,Z2-hexenol,CCC/C=C\CO,-81
+1957,49b,Z2-hexenol,CCC/C=C\CO,12
+1958,59b,Z2-hexenol,CCC/C=C\CO,24
+1959,65a,Z2-hexenol,CCC/C=C\CO,-24
+1960,67a,Z2-hexenol,CCC/C=C\CO,94
+1961,67c,Z2-hexenol,CCC/C=C\CO,93
+1962,82a,Z2-hexenol,CCC/C=C\CO,21
+1963,85a,Z2-hexenol,CCC/C=C\CO,-5
+1964,85b,Z2-hexenol,CCC/C=C\CO,136
+1965,85f,Z2-hexenol,CCC/C=C\CO,43
+1966,88a,Z2-hexenol,CCC/C=C\CO,-38
+1967,98a,Z2-hexenol,CCC/C=C\CO,80
+1968,2a,E3-hexenol,CC/C=C/CCO,37
+1969,7a,E3-hexenol,CC/C=C/CCO,137
+1970,9a,E3-hexenol,CC/C=C/CCO,195
+1971,10a,E3-hexenol,CC/C=C/CCO,-1
+1972,19a,E3-hexenol,CC/C=C/CCO,45
+1973,22a,E3-hexenol,CC/C=C/CCO,78
+1974,23a,E3-hexenol,CC/C=C/CCO,31
+1975,33b,E3-hexenol,CC/C=C/CCO,4
+1976,35a,E3-hexenol,CC/C=C/CCO,196
+1977,43a,E3-hexenol,CC/C=C/CCO,23
+1978,43b,E3-hexenol,CC/C=C/CCO,53
+1979,47a,E3-hexenol,CC/C=C/CCO,27
+1980,47b,E3-hexenol,CC/C=C/CCO,-81
+1981,49b,E3-hexenol,CC/C=C/CCO,21
+1982,59b,E3-hexenol,CC/C=C/CCO,30
+1983,65a,E3-hexenol,CC/C=C/CCO,-11
+1984,67a,E3-hexenol,CC/C=C/CCO,149
+1985,67c,E3-hexenol,CC/C=C/CCO,96
+1986,82a,E3-hexenol,CC/C=C/CCO,18
+1987,85a,E3-hexenol,CC/C=C/CCO,135
+1988,85b,E3-hexenol,CC/C=C/CCO,228
+1989,85f,E3-hexenol,CC/C=C/CCO,64
+1990,88a,E3-hexenol,CC/C=C/CCO,-43
+1991,98a,E3-hexenol,CC/C=C/CCO,125
+1992,2a,Z3-hexenol,CC/C=C\CCO,21
+1993,7a,Z3-hexenol,CC/C=C\CCO,133
+1994,9a,Z3-hexenol,CC/C=C\CCO,151
+1995,10a,Z3-hexenol,CC/C=C\CCO,-19
+1996,19a,Z3-hexenol,CC/C=C\CCO,55
+1997,22a,Z3-hexenol,CC/C=C\CCO,77
+1998,23a,Z3-hexenol,CC/C=C\CCO,27
+1999,33b,Z3-hexenol,CC/C=C\CCO,5
+2000,35a,Z3-hexenol,CC/C=C\CCO,187
+2001,43a,Z3-hexenol,CC/C=C\CCO,77
+2002,43b,Z3-hexenol,CC/C=C\CCO,77
+2003,47a,Z3-hexenol,CC/C=C\CCO,51
+2004,47b,Z3-hexenol,CC/C=C\CCO,-76
+2005,49b,Z3-hexenol,CC/C=C\CCO,29
+2006,59b,Z3-hexenol,CC/C=C\CCO,40
+2007,65a,Z3-hexenol,CC/C=C\CCO,-24
+2008,67a,Z3-hexenol,CC/C=C\CCO,105
+2009,67c,Z3-hexenol,CC/C=C\CCO,105
+2010,82a,Z3-hexenol,CC/C=C\CCO,18
+2011,85a,Z3-hexenol,CC/C=C\CCO,73
+2012,85b,Z3-hexenol,CC/C=C\CCO,182
+2013,85f,Z3-hexenol,CC/C=C\CCO,48
+2014,88a,Z3-hexenol,CC/C=C\CCO,-42
+2015,98a,Z3-hexenol,CC/C=C\CCO,126
+2016,2a,glycerol,OCC(O)CO,-6
+2017,7a,glycerol,OCC(O)CO,-19
+2018,9a,glycerol,OCC(O)CO,5
+2019,10a,glycerol,OCC(O)CO,-22
+2020,19a,glycerol,OCC(O)CO,-50
+2021,22a,glycerol,OCC(O)CO,0
+2022,23a,glycerol,OCC(O)CO,-16
+2023,33b,glycerol,OCC(O)CO,-10
+2024,35a,glycerol,OCC(O)CO,-21
+2025,43a,glycerol,OCC(O)CO,-39
+2026,43b,glycerol,OCC(O)CO,3
+2027,47a,glycerol,OCC(O)CO,1
+2028,47b,glycerol,OCC(O)CO,-48
+2029,49b,glycerol,OCC(O)CO,-8
+2030,59b,glycerol,OCC(O)CO,-6
+2031,65a,glycerol,OCC(O)CO,-21
+2032,67a,glycerol,OCC(O)CO,-13
+2033,67c,glycerol,OCC(O)CO,-7
+2034,82a,glycerol,OCC(O)CO,-20
+2035,85a,glycerol,OCC(O)CO,-13
+2036,85b,glycerol,OCC(O)CO,-14
+2037,85f,glycerol,OCC(O)CO,-5
+2038,88a,glycerol,OCC(O)CO,-18
+2039,98a,glycerol,OCC(O)CO,-14
+2040,2a,"2,3-butanediol",CC(O)C(C)O,-2
+2041,7a,"2,3-butanediol",CC(O)C(C)O,-32
+2042,9a,"2,3-butanediol",CC(O)C(C)O,244
+2043,10a,"2,3-butanediol",CC(O)C(C)O,-19
+2044,19a,"2,3-butanediol",CC(O)C(C)O,-48
+2045,22a,"2,3-butanediol",CC(O)C(C)O,46
+2046,23a,"2,3-butanediol",CC(O)C(C)O,-13
+2047,33b,"2,3-butanediol",CC(O)C(C)O,11
+2048,35a,"2,3-butanediol",CC(O)C(C)O,-13
+2049,43a,"2,3-butanediol",CC(O)C(C)O,-32
+2050,43b,"2,3-butanediol",CC(O)C(C)O,108
+2051,47a,"2,3-butanediol",CC(O)C(C)O,1
+2052,47b,"2,3-butanediol",CC(O)C(C)O,-58
+2053,49b,"2,3-butanediol",CC(O)C(C)O,-13
+2054,59b,"2,3-butanediol",CC(O)C(C)O,8
+2055,65a,"2,3-butanediol",CC(O)C(C)O,-24
+2056,67a,"2,3-butanediol",CC(O)C(C)O,2
+2057,67c,"2,3-butanediol",CC(O)C(C)O,29
+2058,82a,"2,3-butanediol",CC(O)C(C)O,8
+2059,85a,"2,3-butanediol",CC(O)C(C)O,-1
+2060,85b,"2,3-butanediol",CC(O)C(C)O,3
+2061,85f,"2,3-butanediol",CC(O)C(C)O,2
+2062,88a,"2,3-butanediol",CC(O)C(C)O,-26
+2063,98a,"2,3-butanediol",CC(O)C(C)O,-4
+2064,2a,methyl acetate,COC(C)=O,-3
+2065,7a,methyl acetate,COC(C)=O,-23
+2066,9a,methyl acetate,COC(C)=O,21
+2067,10a,methyl acetate,COC(C)=O,-5
+2068,19a,methyl acetate,COC(C)=O,-42
+2069,22a,methyl acetate,COC(C)=O,50
+2070,23a,methyl acetate,COC(C)=O,-7
+2071,33b,methyl acetate,COC(C)=O,-10
+2072,35a,methyl acetate,COC(C)=O,-23
+2073,43a,methyl acetate,COC(C)=O,-33
+2074,43b,methyl acetate,COC(C)=O,20
+2075,47a,methyl acetate,COC(C)=O,24
+2076,47b,methyl acetate,COC(C)=O,-68
+2077,49b,methyl acetate,COC(C)=O,-13
+2078,59b,methyl acetate,COC(C)=O,267
+2079,65a,methyl acetate,COC(C)=O,-21
+2080,67a,methyl acetate,COC(C)=O,-4
+2081,67c,methyl acetate,COC(C)=O,1
+2082,82a,methyl acetate,COC(C)=O,-1
+2083,85a,methyl acetate,COC(C)=O,-24
+2084,85b,methyl acetate,COC(C)=O,16
+2085,85f,methyl acetate,COC(C)=O,5
+2086,88a,methyl acetate,COC(C)=O,-12
+2087,98a,methyl acetate,COC(C)=O,-8
+2088,2a,ethyl acetate,CCOC(C)=O,-11
+2089,7a,ethyl acetate,CCOC(C)=O,-11
+2090,9a,ethyl acetate,CCOC(C)=O,34
+2091,10a,ethyl acetate,CCOC(C)=O,-8
+2092,19a,ethyl acetate,CCOC(C)=O,-22
+2093,22a,ethyl acetate,CCOC(C)=O,49
+2094,23a,ethyl acetate,CCOC(C)=O,-7
+2095,33b,ethyl acetate,CCOC(C)=O,-15
+2096,35a,ethyl acetate,CCOC(C)=O,1
+2097,43a,ethyl acetate,CCOC(C)=O,-13
+2098,43b,ethyl acetate,CCOC(C)=O,130
+2099,47a,ethyl acetate,CCOC(C)=O,85
+2100,47b,ethyl acetate,CCOC(C)=O,-54
+2101,49b,ethyl acetate,CCOC(C)=O,7
+2102,59b,ethyl acetate,CCOC(C)=O,175
+2103,65a,ethyl acetate,CCOC(C)=O,-18
+2104,67a,ethyl acetate,CCOC(C)=O,32
+2105,67c,ethyl acetate,CCOC(C)=O,23
+2106,82a,ethyl acetate,CCOC(C)=O,1
+2107,85a,ethyl acetate,CCOC(C)=O,51
+2108,85b,ethyl acetate,CCOC(C)=O,5
+2109,85f,ethyl acetate,CCOC(C)=O,5
+2110,88a,ethyl acetate,CCOC(C)=O,-21
+2111,98a,ethyl acetate,CCOC(C)=O,11
+2112,2a,propyl acetate,CCCOC(C)=O,23
+2113,7a,propyl acetate,CCCOC(C)=O,-21
+2114,9a,propyl acetate,CCCOC(C)=O,158
+2115,10a,propyl acetate,CCCOC(C)=O,53
+2116,19a,propyl acetate,CCCOC(C)=O,-30
+2117,22a,propyl acetate,CCCOC(C)=O,194
+2118,23a,propyl acetate,CCCOC(C)=O,3
+2119,33b,propyl acetate,CCCOC(C)=O,-12
+2120,35a,propyl acetate,CCCOC(C)=O,85
+2121,43a,propyl acetate,CCCOC(C)=O,-9
+2122,43b,propyl acetate,CCCOC(C)=O,172
+2123,47a,propyl acetate,CCCOC(C)=O,213
+2124,47b,propyl acetate,CCCOC(C)=O,-81
+2125,49b,propyl acetate,CCCOC(C)=O,3
+2126,59b,propyl acetate,CCCOC(C)=O,64
+2127,65a,propyl acetate,CCCOC(C)=O,-16
+2128,67a,propyl acetate,CCCOC(C)=O,64
+2129,67c,propyl acetate,CCCOC(C)=O,57
+2130,82a,propyl acetate,CCCOC(C)=O,-1
+2131,85a,propyl acetate,CCCOC(C)=O,-27
+2132,85b,propyl acetate,CCCOC(C)=O,150
+2133,85f,propyl acetate,CCCOC(C)=O,41
+2134,88a,propyl acetate,CCCOC(C)=O,-15
+2135,98a,propyl acetate,CCCOC(C)=O,142
+2136,2a,butyl acetate,CCCCOC(C)=O,43
+2137,7a,butyl acetate,CCCCOC(C)=O,-36
+2138,9a,butyl acetate,CCCCOC(C)=O,148
+2139,10a,butyl acetate,CCCCOC(C)=O,114
+2140,19a,butyl acetate,CCCCOC(C)=O,2
+2141,22a,butyl acetate,CCCCOC(C)=O,208
+2142,23a,butyl acetate,CCCCOC(C)=O,20
+2143,33b,butyl acetate,CCCCOC(C)=O,-13
+2144,35a,butyl acetate,CCCCOC(C)=O,46
+2145,43a,butyl acetate,CCCCOC(C)=O,-1
+2146,43b,butyl acetate,CCCCOC(C)=O,136
+2147,47a,butyl acetate,CCCCOC(C)=O,204
+2148,47b,butyl acetate,CCCCOC(C)=O,-85
+2149,49b,butyl acetate,CCCCOC(C)=O,11
+2150,59b,butyl acetate,CCCCOC(C)=O,46
+2151,65a,butyl acetate,CCCCOC(C)=O,5
+2152,67a,butyl acetate,CCCCOC(C)=O,153
+2153,67c,butyl acetate,CCCCOC(C)=O,39
+2154,82a,butyl acetate,CCCCOC(C)=O,20
+2155,85a,butyl acetate,CCCCOC(C)=O,-25
+2156,85b,butyl acetate,CCCCOC(C)=O,236
+2157,85f,butyl acetate,CCCCOC(C)=O,49
+2158,88a,butyl acetate,CCCCOC(C)=O,-26
+2159,98a,butyl acetate,CCCCOC(C)=O,215
+2160,2a,pentyl acetate,CCCCCOC(C)=O,27
+2161,7a,pentyl acetate,CCCCCOC(C)=O,-21
+2162,9a,pentyl acetate,CCCCCOC(C)=O,82
+2163,10a,pentyl acetate,CCCCCOC(C)=O,-15
+2164,19a,pentyl acetate,CCCCCOC(C)=O,101
+2165,22a,pentyl acetate,CCCCCOC(C)=O,154
+2166,23a,pentyl acetate,CCCCCOC(C)=O,11
+2167,33b,pentyl acetate,CCCCCOC(C)=O,-37
+2168,35a,pentyl acetate,CCCCCOC(C)=O,174
+2169,43a,pentyl acetate,CCCCCOC(C)=O,-9
+2170,43b,pentyl acetate,CCCCCOC(C)=O,87
+2171,47a,pentyl acetate,CCCCCOC(C)=O,240
+2172,47b,pentyl acetate,CCCCCOC(C)=O,-71
+2173,49b,pentyl acetate,CCCCCOC(C)=O,0
+2174,59b,pentyl acetate,CCCCCOC(C)=O,63
+2175,65a,pentyl acetate,CCCCCOC(C)=O,16
+2176,67a,pentyl acetate,CCCCCOC(C)=O,205
+2177,67c,pentyl acetate,CCCCCOC(C)=O,11
+2178,82a,pentyl acetate,CCCCCOC(C)=O,5
+2179,85a,pentyl acetate,CCCCCOC(C)=O,16
+2180,85b,pentyl acetate,CCCCCOC(C)=O,177
+2181,85f,pentyl acetate,CCCCCOC(C)=O,28
+2182,88a,pentyl acetate,CCCCCOC(C)=O,-17
+2183,98a,pentyl acetate,CCCCCOC(C)=O,179
+2184,2a,hexyl acetate,CCCCCCOC(C)=O,21
+2185,7a,hexyl acetate,CCCCCCOC(C)=O,-36
+2186,9a,hexyl acetate,CCCCCCOC(C)=O,41
+2187,10a,hexyl acetate,CCCCCCOC(C)=O,-33
+2188,19a,hexyl acetate,CCCCCCOC(C)=O,21
+2189,22a,hexyl acetate,CCCCCCOC(C)=O,168
+2190,23a,hexyl acetate,CCCCCCOC(C)=O,-7
+2191,33b,hexyl acetate,CCCCCCOC(C)=O,-14
+2192,35a,hexyl acetate,CCCCCCOC(C)=O,189
+2193,43a,hexyl acetate,CCCCCCOC(C)=O,-24
+2194,43b,hexyl acetate,CCCCCCOC(C)=O,14
+2195,47a,hexyl acetate,CCCCCCOC(C)=O,200
+2196,47b,hexyl acetate,CCCCCCOC(C)=O,-84
+2197,49b,hexyl acetate,CCCCCCOC(C)=O,-11
+2198,59b,hexyl acetate,CCCCCCOC(C)=O,37
+2199,65a,hexyl acetate,CCCCCCOC(C)=O,24
+2200,67a,hexyl acetate,CCCCCCOC(C)=O,39
+2201,67c,hexyl acetate,CCCCCCOC(C)=O,-4
+2202,82a,hexyl acetate,CCCCCCOC(C)=O,8
+2203,85a,hexyl acetate,CCCCCCOC(C)=O,-23
+2204,85b,hexyl acetate,CCCCCCOC(C)=O,21
+2205,85f,hexyl acetate,CCCCCCOC(C)=O,-5
+2206,88a,hexyl acetate,CCCCCCOC(C)=O,-23
+2207,98a,hexyl acetate,CCCCCCOC(C)=O,66
+2208,2a,isobutyl acetate,CC(=O)OCC(C)C,23
+2209,7a,isobutyl acetate,CC(=O)OCC(C)C,21
+2210,9a,isobutyl acetate,CC(=O)OCC(C)C,169
+2211,10a,isobutyl acetate,CC(=O)OCC(C)C,198
+2212,19a,isobutyl acetate,CC(=O)OCC(C)C,19
+2213,22a,isobutyl acetate,CC(=O)OCC(C)C,247
+2214,23a,isobutyl acetate,CC(=O)OCC(C)C,0
+2215,33b,isobutyl acetate,CC(=O)OCC(C)C,-10
+2216,35a,isobutyl acetate,CC(=O)OCC(C)C,9
+2217,43a,isobutyl acetate,CC(=O)OCC(C)C,4
+2218,43b,isobutyl acetate,CC(=O)OCC(C)C,175
+2219,47a,isobutyl acetate,CC(=O)OCC(C)C,182
+2220,47b,isobutyl acetate,CC(=O)OCC(C)C,-75
+2221,49b,isobutyl acetate,CC(=O)OCC(C)C,-11
+2222,59b,isobutyl acetate,CC(=O)OCC(C)C,42
+2223,65a,isobutyl acetate,CC(=O)OCC(C)C,-14
+2224,67a,isobutyl acetate,CC(=O)OCC(C)C,20
+2225,67c,isobutyl acetate,CC(=O)OCC(C)C,67
+2226,82a,isobutyl acetate,CC(=O)OCC(C)C,13
+2227,85a,isobutyl acetate,CC(=O)OCC(C)C,-37
+2228,85b,isobutyl acetate,CC(=O)OCC(C)C,120
+2229,85f,isobutyl acetate,CC(=O)OCC(C)C,32
+2230,88a,isobutyl acetate,CC(=O)OCC(C)C,-19
+2231,98a,isobutyl acetate,CC(=O)OCC(C)C,196
+2232,2a,isopentyl acetate,CC(=O)OCCC(C)C,57
+2233,7a,isopentyl acetate,CC(=O)OCCC(C)C,-50
+2234,9a,isopentyl acetate,CC(=O)OCCC(C)C,136
+2235,10a,isopentyl acetate,CC(=O)OCCC(C)C,194
+2236,19a,isopentyl acetate,CC(=O)OCCC(C)C,52
+2237,22a,isopentyl acetate,CC(=O)OCCC(C)C,228
+2238,23a,isopentyl acetate,CC(=O)OCCC(C)C,12
+2239,33b,isopentyl acetate,CC(=O)OCCC(C)C,-19
+2240,35a,isopentyl acetate,CC(=O)OCCC(C)C,5
+2241,43a,isopentyl acetate,CC(=O)OCCC(C)C,-4
+2242,43b,isopentyl acetate,CC(=O)OCCC(C)C,94
+2243,47a,isopentyl acetate,CC(=O)OCCC(C)C,121
+2244,47b,isopentyl acetate,CC(=O)OCCC(C)C,-85
+2245,49b,isopentyl acetate,CC(=O)OCCC(C)C,3
+2246,59b,isopentyl acetate,CC(=O)OCCC(C)C,44
+2247,65a,isopentyl acetate,CC(=O)OCCC(C)C,-8
+2248,67a,isopentyl acetate,CC(=O)OCCC(C)C,118
+2249,67c,isopentyl acetate,CC(=O)OCCC(C)C,42
+2250,82a,isopentyl acetate,CC(=O)OCCC(C)C,23
+2251,85a,isopentyl acetate,CC(=O)OCCC(C)C,-30
+2252,85b,isopentyl acetate,CC(=O)OCCC(C)C,218
+2253,85f,isopentyl acetate,CC(=O)OCCC(C)C,20
+2254,88a,isopentyl acetate,CC(=O)OCCC(C)C,-27
+2255,98a,isopentyl acetate,CC(=O)OCCC(C)C,236
+2256,2a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,14
+2257,7a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,187
+2258,9a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,27
+2259,10a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,-18
+2260,19a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,8
+2261,22a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,190
+2262,23a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,-5
+2263,33b,E2-hexenyl acetate,CCC/C=C/COC(C)=O,-12
+2264,35a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,210
+2265,43a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,-38
+2266,43b,E2-hexenyl acetate,CCC/C=C/COC(C)=O,5
+2267,47a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,58
+2268,47b,E2-hexenyl acetate,CCC/C=C/COC(C)=O,-79
+2269,49b,E2-hexenyl acetate,CCC/C=C/COC(C)=O,-2
+2270,59b,E2-hexenyl acetate,CCC/C=C/COC(C)=O,43
+2271,65a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,18
+2272,67a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,62
+2273,67c,E2-hexenyl acetate,CCC/C=C/COC(C)=O,6
+2274,82a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,12
+2275,85a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,-14
+2276,85b,E2-hexenyl acetate,CCC/C=C/COC(C)=O,34
+2277,85f,E2-hexenyl acetate,CCC/C=C/COC(C)=O,4
+2278,88a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,-28
+2279,98a,E2-hexenyl acetate,CCC/C=C/COC(C)=O,191
+2280,2a,methyl butyrate,CCCC(=O)OC,17
+2281,7a,methyl butyrate,CCCC(=O)OC,-18
+2282,9a,methyl butyrate,CCCC(=O)OC,140
+2283,10a,methyl butyrate,CCCC(=O)OC,29
+2284,19a,methyl butyrate,CCCC(=O)OC,-35
+2285,22a,methyl butyrate,CCCC(=O)OC,216
+2286,23a,methyl butyrate,CCCC(=O)OC,-7
+2287,33b,methyl butyrate,CCCC(=O)OC,-6
+2288,35a,methyl butyrate,CCCC(=O)OC,85
+2289,43a,methyl butyrate,CCCC(=O)OC,-11
+2290,43b,methyl butyrate,CCCC(=O)OC,172
+2291,47a,methyl butyrate,CCCC(=O)OC,147
+2292,47b,methyl butyrate,CCCC(=O)OC,-72
+2293,49b,methyl butyrate,CCCC(=O)OC,12
+2294,59b,methyl butyrate,CCCC(=O)OC,134
+2295,65a,methyl butyrate,CCCC(=O)OC,-15
+2296,67a,methyl butyrate,CCCC(=O)OC,104
+2297,67c,methyl butyrate,CCCC(=O)OC,69
+2298,82a,methyl butyrate,CCCC(=O)OC,9
+2299,85a,methyl butyrate,CCCC(=O)OC,-11
+2300,85b,methyl butyrate,CCCC(=O)OC,65
+2301,85f,methyl butyrate,CCCC(=O)OC,23
+2302,88a,methyl butyrate,CCCC(=O)OC,-18
+2303,98a,methyl butyrate,CCCC(=O)OC,57
+2304,2a,ethyl butyrate,CCCC(=O)OCC,4
+2305,7a,ethyl butyrate,CCCC(=O)OCC,-16
+2306,9a,ethyl butyrate,CCCC(=O)OCC,118
+2307,10a,ethyl butyrate,CCCC(=O)OCC,15
+2308,19a,ethyl butyrate,CCCC(=O)OCC,44
+2309,22a,ethyl butyrate,CCCC(=O)OCC,189
+2310,23a,ethyl butyrate,CCCC(=O)OCC,6
+2311,33b,ethyl butyrate,CCCC(=O)OCC,12
+2312,35a,ethyl butyrate,CCCC(=O)OCC,104
+2313,43a,ethyl butyrate,CCCC(=O)OCC,1
+2314,43b,ethyl butyrate,CCCC(=O)OCC,197
+2315,47a,ethyl butyrate,CCCC(=O)OCC,73
+2316,47b,ethyl butyrate,CCCC(=O)OCC,-63
+2317,49b,ethyl butyrate,CCCC(=O)OCC,-11
+2318,59b,ethyl butyrate,CCCC(=O)OCC,37
+2319,65a,ethyl butyrate,CCCC(=O)OCC,-26
+2320,67a,ethyl butyrate,CCCC(=O)OCC,156
+2321,67c,ethyl butyrate,CCCC(=O)OCC,106
+2322,82a,ethyl butyrate,CCCC(=O)OCC,11
+2323,85a,ethyl butyrate,CCCC(=O)OCC,111
+2324,85b,ethyl butyrate,CCCC(=O)OCC,89
+2325,85f,ethyl butyrate,CCCC(=O)OCC,19
+2326,88a,ethyl butyrate,CCCC(=O)OCC,-35
+2327,98a,ethyl butyrate,CCCC(=O)OCC,69
+2328,2a,hexyl butyrate,CCCCCCOC(=O)CCC,-4
+2329,7a,hexyl butyrate,CCCCCCOC(=O)CCC,-21
+2330,9a,hexyl butyrate,CCCCCCOC(=O)CCC,-1
+2331,10a,hexyl butyrate,CCCCCCOC(=O)CCC,-15
+2332,19a,hexyl butyrate,CCCCCCOC(=O)CCC,-23
+2333,22a,hexyl butyrate,CCCCCCOC(=O)CCC,35
+2334,23a,hexyl butyrate,CCCCCCOC(=O)CCC,-8
+2335,33b,hexyl butyrate,CCCCCCOC(=O)CCC,-21
+2336,35a,hexyl butyrate,CCCCCCOC(=O)CCC,208
+2337,43a,hexyl butyrate,CCCCCCOC(=O)CCC,-29
+2338,43b,hexyl butyrate,CCCCCCOC(=O)CCC,5
+2339,47a,hexyl butyrate,CCCCCCOC(=O)CCC,16
+2340,47b,hexyl butyrate,CCCCCCOC(=O)CCC,-64
+2341,49b,hexyl butyrate,CCCCCCOC(=O)CCC,-8
+2342,59b,hexyl butyrate,CCCCCCOC(=O)CCC,0
+2343,65a,hexyl butyrate,CCCCCCOC(=O)CCC,-10
+2344,67a,hexyl butyrate,CCCCCCOC(=O)CCC,51
+2345,67c,hexyl butyrate,CCCCCCOC(=O)CCC,0
+2346,82a,hexyl butyrate,CCCCCCOC(=O)CCC,-6
+2347,85a,hexyl butyrate,CCCCCCOC(=O)CCC,26
+2348,85b,hexyl butyrate,CCCCCCOC(=O)CCC,84
+2349,85f,hexyl butyrate,CCCCCCOC(=O)CCC,-6
+2350,88a,hexyl butyrate,CCCCCCOC(=O)CCC,-33
+2351,98a,hexyl butyrate,CCCCCCOC(=O)CCC,16
+2352,2a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,45
+2353,7a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,-44
+2354,9a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,201
+2355,10a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,54
+2356,19a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,1
+2357,22a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,134
+2358,23a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,25
+2359,33b,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,-25
+2360,35a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,70
+2361,43a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,14
+2362,43b,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,144
+2363,47a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,75
+2364,47b,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,-82
+2365,49b,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,34
+2366,59b,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,33
+2367,65a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,21
+2368,67a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,85
+2369,67c,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,83
+2370,82a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,-11
+2371,85a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,196
+2372,85b,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,222
+2373,85f,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,65
+2374,88a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,-48
+2375,98a,ethyl 3-hydroxybutyrate,CCOC(=O)CC(C)O,176
+2376,2a,ethyl propionate,CCOC(=O)CC,13
+2377,7a,ethyl propionate,CCOC(=O)CC,68
+2378,9a,ethyl propionate,CCOC(=O)CC,55
+2379,10a,ethyl propionate,CCOC(=O)CC,24
+2380,19a,ethyl propionate,CCOC(=O)CC,-42
+2381,22a,ethyl propionate,CCOC(=O)CC,184
+2382,23a,ethyl propionate,CCOC(=O)CC,-14
+2383,33b,ethyl propionate,CCOC(=O)CC,56
+2384,35a,ethyl propionate,CCOC(=O)CC,-16
+2385,43a,ethyl propionate,CCOC(=O)CC,-20
+2386,43b,ethyl propionate,CCOC(=O)CC,166
+2387,47a,ethyl propionate,CCOC(=O)CC,54
+2388,47b,ethyl propionate,CCOC(=O)CC,-70
+2389,49b,ethyl propionate,CCOC(=O)CC,-13
+2390,59b,ethyl propionate,CCOC(=O)CC,97
+2391,65a,ethyl propionate,CCOC(=O)CC,-14
+2392,67a,ethyl propionate,CCOC(=O)CC,0
+2393,67c,ethyl propionate,CCOC(=O)CC,41
+2394,82a,ethyl propionate,CCOC(=O)CC,2
+2395,85a,ethyl propionate,CCOC(=O)CC,30
+2396,85b,ethyl propionate,CCOC(=O)CC,44
+2397,85f,ethyl propionate,CCOC(=O)CC,19
+2398,88a,ethyl propionate,CCOC(=O)CC,-31
+2399,98a,ethyl propionate,CCOC(=O)CC,29
+2400,2a,ethyl methanoate,CCOC=O,-5
+2401,7a,ethyl methanoate,CCOC=O,91
+2402,9a,ethyl methanoate,CCOC=O,21
+2403,10a,ethyl methanoate,CCOC=O,-11
+2404,19a,ethyl methanoate,CCOC=O,-46
+2405,22a,ethyl methanoate,CCOC=O,9
+2406,23a,ethyl methanoate,CCOC=O,-14
+2407,33b,ethyl methanoate,CCOC=O,-25
+2408,35a,ethyl methanoate,CCOC=O,-28
+2409,43a,ethyl methanoate,CCOC=O,-35
+2410,43b,ethyl methanoate,CCOC=O,7
+2411,47a,ethyl methanoate,CCOC=O,-4
+2412,47b,ethyl methanoate,CCOC=O,-58
+2413,49b,ethyl methanoate,CCOC=O,-5
+2414,59b,ethyl methanoate,CCOC=O,25
+2415,65a,ethyl methanoate,CCOC=O,-15
+2416,67a,ethyl methanoate,CCOC=O,-13
+2417,67c,ethyl methanoate,CCOC=O,-5
+2418,82a,ethyl methanoate,CCOC=O,-18
+2419,85a,ethyl methanoate,CCOC=O,-13
+2420,85b,ethyl methanoate,CCOC=O,9
+2421,85f,ethyl methanoate,CCOC=O,1
+2422,88a,ethyl methanoate,CCOC=O,-31
+2423,98a,ethyl methanoate,CCOC=O,4
+2424,2a,methyl hexanoate,CCCCCC(=O)OC,31
+2425,7a,methyl hexanoate,CCCCCC(=O)OC,23
+2426,9a,methyl hexanoate,CCCCCC(=O)OC,50
+2427,10a,methyl hexanoate,CCCCCC(=O)OC,3
+2428,19a,methyl hexanoate,CCCCCC(=O)OC,7
+2429,22a,methyl hexanoate,CCCCCC(=O)OC,252
+2430,23a,methyl hexanoate,CCCCCC(=O)OC,0
+2431,33b,methyl hexanoate,CCCCCC(=O)OC,-41
+2432,35a,methyl hexanoate,CCCCCC(=O)OC,-27
+2433,43a,methyl hexanoate,CCCCCC(=O)OC,-18
+2434,43b,methyl hexanoate,CCCCCC(=O)OC,56
+2435,47a,methyl hexanoate,CCCCCC(=O)OC,209
+2436,47b,methyl hexanoate,CCCCCC(=O)OC,-80
+2437,49b,methyl hexanoate,CCCCCC(=O)OC,4
+2438,59b,methyl hexanoate,CCCCCC(=O)OC,0
+2439,65a,methyl hexanoate,CCCCCC(=O)OC,1
+2440,67a,methyl hexanoate,CCCCCC(=O)OC,76
+2441,67c,methyl hexanoate,CCCCCC(=O)OC,15
+2442,82a,methyl hexanoate,CCCCCC(=O)OC,2
+2443,85a,methyl hexanoate,CCCCCC(=O)OC,-30
+2444,85b,methyl hexanoate,CCCCCC(=O)OC,215
+2445,85f,methyl hexanoate,CCCCCC(=O)OC,26
+2446,88a,methyl hexanoate,CCCCCC(=O)OC,-53
+2447,98a,methyl hexanoate,CCCCCC(=O)OC,176
+2448,2a,ethyl hexanoate,CCCCCC(=O)OCC,14
+2449,7a,ethyl hexanoate,CCCCCC(=O)OCC,-30
+2450,9a,ethyl hexanoate,CCCCCC(=O)OCC,17
+2451,10a,ethyl hexanoate,CCCCCC(=O)OCC,-28
+2452,19a,ethyl hexanoate,CCCCCC(=O)OCC,13
+2453,22a,ethyl hexanoate,CCCCCC(=O)OCC,220
+2454,23a,ethyl hexanoate,CCCCCC(=O)OCC,4
+2455,33b,ethyl hexanoate,CCCCCC(=O)OCC,-25
+2456,35a,ethyl hexanoate,CCCCCC(=O)OCC,-38
+2457,43a,ethyl hexanoate,CCCCCC(=O)OCC,-15
+2458,43b,ethyl hexanoate,CCCCCC(=O)OCC,2
+2459,47a,ethyl hexanoate,CCCCCC(=O)OCC,137
+2460,47b,ethyl hexanoate,CCCCCC(=O)OCC,-78
+2461,49b,ethyl hexanoate,CCCCCC(=O)OCC,-10
+2462,59b,ethyl hexanoate,CCCCCC(=O)OCC,-10
+2463,65a,ethyl hexanoate,CCCCCC(=O)OCC,-11
+2464,67a,ethyl hexanoate,CCCCCC(=O)OCC,132
+2465,67c,ethyl hexanoate,CCCCCC(=O)OCC,-9
+2466,82a,ethyl hexanoate,CCCCCC(=O)OCC,-6
+2467,85a,ethyl hexanoate,CCCCCC(=O)OCC,-36
+2468,85b,ethyl hexanoate,CCCCCC(=O)OCC,76
+2469,85f,ethyl hexanoate,CCCCCC(=O)OCC,3
+2470,88a,ethyl hexanoate,CCCCCC(=O)OCC,-37
+2471,98a,ethyl hexanoate,CCCCCC(=O)OCC,43
+2472,2a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-7
+2473,7a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-21
+2474,9a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-6
+2475,10a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-15
+2476,19a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-54
+2477,22a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,27
+2478,23a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-13
+2479,33b,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-24
+2480,35a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,109
+2481,43a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-35
+2482,43b,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-3
+2483,47a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-2
+2484,47b,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-43
+2485,49b,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-9
+2486,59b,hexyl hexanoate,CCCCCCOC(=O)CCCCC,5
+2487,65a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-20
+2488,67a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-14
+2489,67c,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-10
+2490,82a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-19
+2491,85a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-9
+2492,85b,hexyl hexanoate,CCCCCCOC(=O)CCCCC,4
+2493,85f,hexyl hexanoate,CCCCCCOC(=O)CCCCC,2
+2494,88a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-23
+2495,98a,hexyl hexanoate,CCCCCCOC(=O)CCCCC,-7
+2496,2a,methyl octanoate,CCCCCCCC(=O)OC,-7
+2497,7a,methyl octanoate,CCCCCCCC(=O)OC,-24
+2498,9a,methyl octanoate,CCCCCCCC(=O)OC,1
+2499,10a,methyl octanoate,CCCCCCCC(=O)OC,-27
+2500,19a,methyl octanoate,CCCCCCCC(=O)OC,-29
+2501,22a,methyl octanoate,CCCCCCCC(=O)OC,233
+2502,23a,methyl octanoate,CCCCCCCC(=O)OC,-12
+2503,33b,methyl octanoate,CCCCCCCC(=O)OC,-22
+2504,35a,methyl octanoate,CCCCCCCC(=O)OC,-7
+2505,43a,methyl octanoate,CCCCCCCC(=O)OC,-34
+2506,43b,methyl octanoate,CCCCCCCC(=O)OC,2
+2507,47a,methyl octanoate,CCCCCCCC(=O)OC,57
+2508,47b,methyl octanoate,CCCCCCCC(=O)OC,-73
+2509,49b,methyl octanoate,CCCCCCCC(=O)OC,-4
+2510,59b,methyl octanoate,CCCCCCCC(=O)OC,-10
+2511,65a,methyl octanoate,CCCCCCCC(=O)OC,4
+2512,67a,methyl octanoate,CCCCCCCC(=O)OC,-18
+2513,67c,methyl octanoate,CCCCCCCC(=O)OC,-4
+2514,82a,methyl octanoate,CCCCCCCC(=O)OC,0
+2515,85a,methyl octanoate,CCCCCCCC(=O)OC,-26
+2516,85b,methyl octanoate,CCCCCCCC(=O)OC,49
+2517,85f,methyl octanoate,CCCCCCCC(=O)OC,-6
+2518,88a,methyl octanoate,CCCCCCCC(=O)OC,-34
+2519,98a,methyl octanoate,CCCCCCCC(=O)OC,11
+2520,2a,ethyl octanoate,CCCCCCCC(=O)OCC,-7
+2521,7a,ethyl octanoate,CCCCCCCC(=O)OCC,-24
+2522,9a,ethyl octanoate,CCCCCCCC(=O)OCC,-1
+2523,10a,ethyl octanoate,CCCCCCCC(=O)OCC,-28
+2524,19a,ethyl octanoate,CCCCCCCC(=O)OCC,-37
+2525,22a,ethyl octanoate,CCCCCCCC(=O)OCC,91
+2526,23a,ethyl octanoate,CCCCCCCC(=O)OCC,-13
+2527,33b,ethyl octanoate,CCCCCCCC(=O)OCC,-29
+2528,35a,ethyl octanoate,CCCCCCCC(=O)OCC,-29
+2529,43a,ethyl octanoate,CCCCCCCC(=O)OCC,-33
+2530,43b,ethyl octanoate,CCCCCCCC(=O)OCC,1
+2531,47a,ethyl octanoate,CCCCCCCC(=O)OCC,17
+2532,47b,ethyl octanoate,CCCCCCCC(=O)OCC,-54
+2533,49b,ethyl octanoate,CCCCCCCC(=O)OCC,-14
+2534,59b,ethyl octanoate,CCCCCCCC(=O)OCC,-4
+2535,65a,ethyl octanoate,CCCCCCCC(=O)OCC,-11
+2536,67a,ethyl octanoate,CCCCCCCC(=O)OCC,-21
+2537,67c,ethyl octanoate,CCCCCCCC(=O)OCC,-5
+2538,82a,ethyl octanoate,CCCCCCCC(=O)OCC,-11
+2539,85a,ethyl octanoate,CCCCCCCC(=O)OCC,-22
+2540,85b,ethyl octanoate,CCCCCCCC(=O)OCC,26
+2541,85f,ethyl octanoate,CCCCCCCC(=O)OCC,-6
+2542,88a,ethyl octanoate,CCCCCCCC(=O)OCC,-31
+2543,98a,ethyl octanoate,CCCCCCCC(=O)OCC,10
+2544,2a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-3
+2545,7a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-29
+2546,9a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-1
+2547,10a,ethyl decanoate,CCCCCCCCCC(=O)OCC,29
+2548,19a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-46
+2549,22a,ethyl decanoate,CCCCCCCCCC(=O)OCC,2
+2550,23a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-10
+2551,33b,ethyl decanoate,CCCCCCCCCC(=O)OCC,-24
+2552,35a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-27
+2553,43a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-29
+2554,43b,ethyl decanoate,CCCCCCCCCC(=O)OCC,5
+2555,47a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-4
+2556,47b,ethyl decanoate,CCCCCCCCCC(=O)OCC,-50
+2557,49b,ethyl decanoate,CCCCCCCCCC(=O)OCC,-10
+2558,59b,ethyl decanoate,CCCCCCCCCC(=O)OCC,1
+2559,65a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-22
+2560,67a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-18
+2561,67c,ethyl decanoate,CCCCCCCCCC(=O)OCC,-9
+2562,82a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-20
+2563,85a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-34
+2564,85b,ethyl decanoate,CCCCCCCCCC(=O)OCC,15
+2565,85f,ethyl decanoate,CCCCCCCCCC(=O)OCC,-9
+2566,88a,ethyl decanoate,CCCCCCCCCC(=O)OCC,-31
+2567,98a,ethyl decanoate,CCCCCCCCCC(=O)OCC,0
+2568,2a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,3
+2569,7a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-19
+2570,9a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,100
+2571,10a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,132
+2572,19a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-20
+2573,22a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,206
+2574,23a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,0
+2575,33b,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-29
+2576,35a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-3
+2577,43a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-43
+2578,43b,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,189
+2579,47a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,43
+2580,47b,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-80
+2581,49b,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-5
+2582,59b,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-9
+2583,65a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-16
+2584,67a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,93
+2585,67c,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,28
+2586,82a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,0
+2587,85a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,77
+2588,85b,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,67
+2589,85f,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,17
+2590,88a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,-35
+2591,98a,ethyl trans-2-butenoate,C/C=C/C(=O)OCC,231
+2592,2a,ethyl lactate,CCOC(=O)C(C)O,31
+2593,7a,ethyl lactate,CCOC(=O)C(C)O,14
+2594,9a,ethyl lactate,CCOC(=O)C(C)O,72
+2595,10a,ethyl lactate,CCOC(=O)C(C)O,17
+2596,19a,ethyl lactate,CCOC(=O)C(C)O,-5
+2597,22a,ethyl lactate,CCOC(=O)C(C)O,66
+2598,23a,ethyl lactate,CCOC(=O)C(C)O,2
+2599,33b,ethyl lactate,CCOC(=O)C(C)O,-23
+2600,35a,ethyl lactate,CCOC(=O)C(C)O,-12
+2601,43a,ethyl lactate,CCOC(=O)C(C)O,-14
+2602,43b,ethyl lactate,CCOC(=O)C(C)O,91
+2603,47a,ethyl lactate,CCOC(=O)C(C)O,28
+2604,47b,ethyl lactate,CCOC(=O)C(C)O,-75
+2605,49b,ethyl lactate,CCOC(=O)C(C)O,26
+2606,59b,ethyl lactate,CCOC(=O)C(C)O,131
+2607,65a,ethyl lactate,CCOC(=O)C(C)O,13
+2608,67a,ethyl lactate,CCOC(=O)C(C)O,28
+2609,67c,ethyl lactate,CCOC(=O)C(C)O,282
+2610,82a,ethyl lactate,CCOC(=O)C(C)O,26
+2611,85a,ethyl lactate,CCOC(=O)C(C)O,25
+2612,85b,ethyl lactate,CCOC(=O)C(C)O,64
+2613,85f,ethyl lactate,CCOC(=O)C(C)O,70
+2614,88a,ethyl lactate,CCOC(=O)C(C)O,-33
+2615,98a,ethyl lactate,CCOC(=O)C(C)O,54
+2616,2a,diethyl succinate,CCOC(=O)CCC(=O)OCC,8
+2617,7a,diethyl succinate,CCOC(=O)CCC(=O)OCC,-28
+2618,9a,diethyl succinate,CCOC(=O)CCC(=O)OCC,18
+2619,10a,diethyl succinate,CCOC(=O)CCC(=O)OCC,-27
+2620,19a,diethyl succinate,CCOC(=O)CCC(=O)OCC,-5
+2621,22a,diethyl succinate,CCOC(=O)CCC(=O)OCC,201
+2622,23a,diethyl succinate,CCOC(=O)CCC(=O)OCC,17
+2623,33b,diethyl succinate,CCOC(=O)CCC(=O)OCC,-33
+2624,35a,diethyl succinate,CCOC(=O)CCC(=O)OCC,-37
+2625,43a,diethyl succinate,CCOC(=O)CCC(=O)OCC,-29
+2626,43b,diethyl succinate,CCOC(=O)CCC(=O)OCC,2
+2627,47a,diethyl succinate,CCOC(=O)CCC(=O)OCC,35
+2628,47b,diethyl succinate,CCOC(=O)CCC(=O)OCC,-63
+2629,49b,diethyl succinate,CCOC(=O)CCC(=O)OCC,-11
+2630,59b,diethyl succinate,CCOC(=O)CCC(=O)OCC,-11
+2631,65a,diethyl succinate,CCOC(=O)CCC(=O)OCC,-13
+2632,67a,diethyl succinate,CCOC(=O)CCC(=O)OCC,164
+2633,67c,diethyl succinate,CCOC(=O)CCC(=O)OCC,1
+2634,82a,diethyl succinate,CCOC(=O)CCC(=O)OCC,16
+2635,85a,diethyl succinate,CCOC(=O)CCC(=O)OCC,-26
+2636,85b,diethyl succinate,CCOC(=O)CCC(=O)OCC,22
+2637,85f,diethyl succinate,CCOC(=O)CCC(=O)OCC,5
+2638,88a,diethyl succinate,CCOC(=O)CCC(=O)OCC,-21
+2639,98a,diethyl succinate,CCOC(=O)CCC(=O)OCC,-8
