@@ -6,6 +6,7 @@ data/HallemCarlson/featurized_mols
 data/HallemCarlson/featurized_proteins
 data/M2OR/featurized_mols
 data/M2OR/featurized_proteins
+presentations/~*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
