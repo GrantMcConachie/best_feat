@@ -151,9 +151,7 @@ def run_lr(dataset, embs, regressor='r'):
     scores_per_protein = []
     for protein in proteins:
         smiles = df['SMILES'][df['Protein sequence'] == protein]
-        output = zscore(
-            np.array(df['output'][df['Protein sequence'] == protein])
-        )
+        output = np.array(df['output'][df['Protein sequence'] == protein])
         embeddings = np.array([embs[i] for i in smiles])
 
         # defining regressor
@@ -173,6 +171,7 @@ def run_lr(dataset, embs, regressor='r'):
             clf = GridSearchCV(
                 reg,
                 param_grid=param_grid,
+                n_jobs=-1
             )
             clf.fit(embeddings[train_index], output[train_index])
             best_model = clf.best_estimator_
@@ -201,6 +200,7 @@ def run_lr(dataset, embs, regressor='r'):
             clf = GridSearchCV(
                 reg,
                 param_grid=param_grid,
+                n_jobs=-1
             )
             clf.fit(scaf_emb[train_index], scaf_out[train_index])
             best_model = clf.best_estimator_
@@ -253,7 +253,7 @@ def plot_results(results, dataset, regressor, ylabel='r2'):
         print('scaf std:', np.std(scaf_protein_scores), '\n')
 
     # plot for scaffold and random shuffled
-    for i, (nn, p) in enumerate([
+    for j, (nn, p) in enumerate([
         (emb_scores_NN_scaf, emb_scores_P_scaf),
         (emb_scores_NN_shuf, emb_scores_P_shuf)
     ]):
@@ -291,7 +291,7 @@ def plot_results(results, dataset, regressor, ylabel='r2'):
         axs[1].set_xticks(range(len(emb_names_NN)))
         axs[1].set_xticklabels(emb_names_NN)
 
-        if i == 0:
+        if j == 0:
             title = " scaffold split"
         else:
             title = " shuffle split"
@@ -379,7 +379,7 @@ def main(datasets, regressor='r'):
 
 if __name__ == '__main__':
     datasets = [
-        # 'data/Davis/davis.csv',
-        'data/HallemCarlson/hc_with_prot_seq.csv'
+        'data/Davis/davis_z.csv',
+        'data/HallemCarlson/hc_with_prot_seq_z.csv'
     ]
     main(datasets)

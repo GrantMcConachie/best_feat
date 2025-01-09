@@ -52,10 +52,26 @@ def generate_embeddings(dataset, mol_emb_type):
     _, _, batch_tokens = batch_converter(prots)
     batch_lens = (batch_tokens != alphabet.padding_idx).sum(1)
 
+    # chunking into size 10 batches for cpu
+    split_batch_tokens = torch.tensor_split(
+        batch_tokens,
+        len(batch_tokens) // 10,
+        dim=0
+    )
+    split_batch_lens = torch.tensor_split(
+        batch_lens,
+        len(batch_tokens) // 10,
+    )
+
     # Extract per-residue representations
-    with torch.no_grad():
-        results = model(batch_tokens, repr_layers=[33], return_contacts=True)
-    token_representations = results["representations"][33]
+    for (tok, lens) in zip(split_batch_tokens, split_batch_lens):
+        with torch.no_grad():
+            results = model(
+                tok,
+                repr_layers=[33],
+                return_contacts=True
+            )
+        token_representations = results["representations"][33]
 
     # Generate per-sequence representations via averaging
     sequence_representations = []
@@ -200,7 +216,7 @@ def main(dataset):
 
 if __name__ == '__main__':
     datasets = [
-        'data/HallemCarlson/hc_with_prot_seq.csv',
-        # 'data/Davis/davis.csv'
+        'data/Davis/davis.csv',
+        'data/HallemCarlson/hc_with_prot_seq_z.csv',
     ]
     main(datasets)
