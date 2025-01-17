@@ -151,7 +151,9 @@ def run_lr(dataset, embs, regressor='r'):
     scores_per_protein = []
     for protein in proteins:
         smiles = df['SMILES'][df['Protein sequence'] == protein]
-        output = np.array(df['output'][df['Protein sequence'] == protein])
+        output = zscore(
+            np.array(df['output'][df['Protein sequence'] == protein])
+        )
         embeddings = np.array([embs[i] for i in smiles])
 
         # defining regressor
@@ -364,7 +366,7 @@ def main(datasets, regressor='r'):
     emb_types = get_embedding_types()
     for dataset in datasets:
         emb_scores = []
-        for emb_type in tqdm(emb_types):
+        for emb_type in tqdm(emb_types, desc=f'{dataset}'):
             embs = generate_embeddings(dataset, emb_type)
             embs = clean_embeddings(embs)
             embs = reduce_embs(embs)
@@ -379,7 +381,8 @@ def main(datasets, regressor='r'):
 
 if __name__ == '__main__':
     datasets = [
-        'data/Davis/davis_z.csv',
-        'data/HallemCarlson/hc_with_prot_seq_z.csv'
+        # 'data/Davis/davis.csv',
+        # 'data/HallemCarlson/hc_with_prot_seq.csv',
+        'data/CareyCarlson/CC_reformat.csv'
     ]
     main(datasets)
