@@ -1,0 +1,330 @@
+﻿Protein,odorant,SMILES,output,Protein sequence
+ab1D,(E)2-hexen-1-ol,CCC/C=C/CO,0,ab1D
+ab2A,(E)2-hexen-1-ol,CCC/C=C/CO,0,ab2A
+ab2B,(E)2-hexen-1-ol,CCC/C=C/CO,1,ab2B
+ab3A,(E)2-hexen-1-ol,CCC/C=C/CO,0,ab3A
+ab3B,(E)2-hexen-1-ol,CCC/C=C/CO,0,ab3B
+ab5B,(E)2-hexen-1-ol,CCC/C=C/CO,0,ab5B
+ab6A,(E)2-hexen-1-ol,CCC/C=C/CO,1,ab6A
+ab1D,(E)2-hexenal,CCC/C=C/C=O,0,ab1D
+ab2A,(E)2-hexenal,CCC/C=C/C=O,0,ab2A
+ab2B,(E)2-hexenal,CCC/C=C/C=O,0,ab2B
+ab3A,(E)2-hexenal,CCC/C=C/C=O,0,ab3A
+ab3B,(E)2-hexenal,CCC/C=C/C=O,n/a,ab3B
+ab5B,(E)2-hexenal,CCC/C=C/C=O,0,ab5B
+ab6A,(E)2-hexenal,CCC/C=C/C=O,1,ab6A
+ab1D,(E)2-hexenyl acetate,CCC/C=C/COC(=O)C,0,ab1D
+ab2A,(E)2-hexenyl acetate,CCC/C=C/COC(=O)C,0,ab2A
+ab2B,(E)2-hexenyl acetate,CCC/C=C/COC(=O)C,0,ab2B
+ab3A,(E)2-hexenyl acetate,CCC/C=C/COC(=O)C,1,ab3A
+ab3B,(E)2-hexenyl acetate,CCC/C=C/COC(=O)C,0,ab3B
+ab5B,(E)2-hexenyl acetate,CCC/C=C/COC(=O)C,1,ab5B
+ab6A,(E)2-hexenyl acetate,CCC/C=C/COC(=O)C,1,ab6A
+ab1D,(E)2-octenal,CCCCC/C=C/C=O,0,ab1D
+ab2A,(E)2-octenal,CCCCC/C=C/C=O,0,ab2A
+ab2B,(E)2-octenal,CCCCC/C=C/C=O,0,ab2B
+ab3A,(E)2-octenal,CCCCC/C=C/C=O,n/a,ab3A
+ab3B,(E)2-octenal,CCCCC/C=C/C=O,0,ab3B
+ab5B,(E)2-octenal,CCCCC/C=C/C=O,0,ab5B
+ab6A,(E)2-octenal,CCCCC/C=C/C=O,1,ab6A
+ab1D,(R)-(+)-limonene,CC1=CC[C@@H](CC1)C(=C)C,0,ab1D
+ab2A,(R)-(+)-limonene,CC1=CC[C@@H](CC1)C(=C)C,0,ab2A
+ab2B,(R)-(+)-limonene,CC1=CC[C@@H](CC1)C(=C)C,0,ab2B
+ab3A,(R)-(+)-limonene,CC1=CC[C@@H](CC1)C(=C)C,0,ab3A
+ab3B,(R)-(+)-limonene,CC1=CC[C@@H](CC1)C(=C)C,0,ab3B
+ab5B,(R)-(+)-limonene,CC1=CC[C@@H](CC1)C(=C)C,0,ab5B
+ab6A,(R)-(+)-limonene,CC1=CC[C@@H](CC1)C(=C)C,0,ab6A
+ab1D,"1,4-cineole",CC(C)C12CCC(O1)(CC2)C,0,ab1D
+ab2A,"1,4-cineole",CC(C)C12CCC(O1)(CC2)C,0,ab2A
+ab2B,"1,4-cineole",CC(C)C12CCC(O1)(CC2)C,0,ab2B
+ab3A,"1,4-cineole",CC(C)C12CCC(O1)(CC2)C,0,ab3A
+ab3B,"1,4-cineole",CC(C)C12CCC(O1)(CC2)C,0,ab3B
+ab5B,"1,4-cineole",CC(C)C12CCC(O1)(CC2)C,0,ab5B
+ab6A,"1,4-cineole",CC(C)C12CCC(O1)(CC2)C,0,ab6A
+ab1D,"1,4-diaminobutane",C(CCN)CN,0,ab1D
+ab2A,"1,4-diaminobutane",C(CCN)CN,0,ab2A
+ab2B,"1,4-diaminobutane",C(CCN)CN,0,ab2B
+ab3A,"1,4-diaminobutane",C(CCN)CN,0,ab3A
+ab3B,"1,4-diaminobutane",C(CCN)CN,0,ab3B
+ab5B,"1,4-diaminobutane",C(CCN)CN,n/a,ab5B
+ab6A,"1,4-diaminobutane",C(CCN)CN,0,ab6A
+ab1D,1-octen-3-ol,CCCCCC(C=C)O,0,ab1D
+ab2A,1-octen-3-ol,CCCCCC(C=C)O,0,ab2A
+ab2B,1-octen-3-ol,CCCCCC(C=C)O,n/a,ab2B
+ab3A,1-octen-3-ol,CCCCCC(C=C)O,1,ab3A
+ab3B,1-octen-3-ol,CCCCCC(C=C)O,1,ab3B
+ab5B,1-octen-3-ol,CCCCCC(C=C)O,n/a,ab5B
+ab6A,1-octen-3-ol,CCCCCC(C=C)O,1,ab6A
+ab1D,1-propanethiol,CCCS,0,ab1D
+ab2A,1-propanethiol,CCCS,0,ab2A
+ab2B,1-propanethiol,CCCS,0,ab2B
+ab3A,1-propanethiol,CCCS,0,ab3A
+ab3B,1-propanethiol,CCCS,n/a,ab3B
+ab5B,1-propanethiol,CCCS,0,ab5B
+ab6A,1-propanethiol,CCCS,0,ab6A
+ab1D,"2,3-butanedione",CC(=O)C(=O)C,0,ab1D
+ab2A,"2,3-butanedione",CC(=O)C(=O)C,1,ab2A
+ab2B,"2,3-butanedione",CC(=O)C(=O)C,0,ab2B
+ab3A,"2,3-butanedione",CC(=O)C(=O)C,n/a,ab3A
+ab3B,"2,3-butanedione",CC(=O)C(=O)C,1,ab3B
+ab5B,"2,3-butanedione",CC(=O)C(=O)C,0,ab5B
+ab6A,"2,3-butanedione",CC(=O)C(=O)C,1,ab6A
+ab1D,2-heptanone,CCCCCC(=O)C,0,ab1D
+ab2A,2-heptanone,CCCCCC(=O)C,0,ab2A
+ab2B,2-heptanone,CCCCCC(=O)C,0,ab2B
+ab3A,2-heptanone,CCCCCC(=O)C,1,ab3A
+ab3B,2-heptanone,CCCCCC(=O)C,1,ab3B
+ab5B,2-heptanone,CCCCCC(=O)C,1,ab5B
+ab6A,2-heptanone,CCCCCC(=O)C,1,ab6A
+ab1D,2-isobutyl-3-methoxy-pyrazine,CC(C)CC1=NC=CN=C1OC,0,ab1D
+ab2A,2-isobutyl-3-methoxy-pyrazine,CC(C)CC1=NC=CN=C1OC,0,ab2A
+ab2B,2-isobutyl-3-methoxy-pyrazine,CC(C)CC1=NC=CN=C1OC,0,ab2B
+ab3A,2-isobutyl-3-methoxy-pyrazine,CC(C)CC1=NC=CN=C1OC,0,ab3A
+ab3B,2-isobutyl-3-methoxy-pyrazine,CC(C)CC1=NC=CN=C1OC,0,ab3B
+ab5B,2-isobutyl-3-methoxy-pyrazine,CC(C)CC1=NC=CN=C1OC,0,ab5B
+ab6A,2-isobutyl-3-methoxy-pyrazine,CC(C)CC1=NC=CN=C1OC,0,ab6A
+ab1D,3-(methylthio)-1-propanol,CSCCCO,0,ab1D
+ab2A,3-(methylthio)-1-propanol,CSCCCO,0,ab2A
+ab2B,3-(methylthio)-1-propanol,CSCCCO,0,ab2B
+ab3A,3-(methylthio)-1-propanol,CSCCCO,0,ab3A
+ab3B,3-(methylthio)-1-propanol,CSCCCO,0,ab3B
+ab5B,3-(methylthio)-1-propanol,CSCCCO,1,ab5B
+ab6A,3-(methylthio)-1-propanol,CSCCCO,0,ab6A
+ab1D,3-octanol,CCCCCC(CC)O,0,ab1D
+ab2A,3-octanol,CCCCCC(CC)O,0,ab2A
+ab2B,3-octanol,CCCCCC(CC)O,0,ab2B
+ab3A,3-octanol,CCCCCC(CC)O,1,ab3A
+ab3B,3-octanol,CCCCCC(CC)O,1,ab3B
+ab5B,3-octanol,CCCCCC(CC)O,1,ab5B
+ab6A,3-octanol,CCCCCC(CC)O,1,ab6A
+ab1D,4-isopropylbenzaldehyde,CC(C)C1=CC=C(C=C1)C=O,0,ab1D
+ab2A,4-isopropylbenzaldehyde,CC(C)C1=CC=C(C=C1)C=O,0,ab2A
+ab2B,4-isopropylbenzaldehyde,CC(C)C1=CC=C(C=C1)C=O,0,ab2B
+ab3A,4-isopropylbenzaldehyde,CC(C)C1=CC=C(C=C1)C=O,0,ab3A
+ab3B,4-isopropylbenzaldehyde,CC(C)C1=CC=C(C=C1)C=O,0,ab3B
+ab5B,4-isopropylbenzaldehyde,CC(C)C1=CC=C(C=C1)C=O,0,ab5B
+ab6A,4-isopropylbenzaldehyde,CC(C)C1=CC=C(C=C1)C=O,0,ab6A
+ab1D,4-methylcyclohexanol,CC1CCC(CC1)O,0,ab1D
+ab2A,4-methylcyclohexanol,CC1CCC(CC1)O,0,ab2A
+ab2B,4-methylcyclohexanol,CC1CCC(CC1)O,0,ab2B
+ab3A,4-methylcyclohexanol,CC1CCC(CC1)O,n/a,ab3A
+ab3B,4-methylcyclohexanol,CC1CCC(CC1)O,0,ab3B
+ab5B,4-methylcyclohexanol,CC1CCC(CC1)O,0,ab5B
+ab6A,4-methylcyclohexanol,CC1CCC(CC1)O,0,ab6A
+ab1D,4-methylphenol,CC1=CC=C(C=C1)O,n/a,ab1D
+ab2A,4-methylphenol,CC1=CC=C(C=C1)O,0,ab2A
+ab2B,4-methylphenol,CC1=CC=C(C=C1)O,0,ab2B
+ab3A,4-methylphenol,CC1=CC=C(C=C1)O,0,ab3A
+ab3B,4-methylphenol,CC1=CC=C(C=C1)O,n/a,ab3B
+ab5B,4-methylphenol,CC1=CC=C(C=C1)O,0,ab5B
+ab6A,4-methylphenol,CC1=CC=C(C=C1)O,0,ab6A
+ab1D,Acetophenone,CC(=O)C1=CC=CC=C1,1,ab1D
+ab2A,Acetophenone,CC(=O)C1=CC=CC=C1,0,ab2A
+ab2B,Acetophenone,CC(=O)C1=CC=CC=C1,0,ab2B
+ab3A,Acetophenone,CC(=O)C1=CC=CC=C1,0,ab3A
+ab3B,Acetophenone,CC(=O)C1=CC=CC=C1,0,ab3B
+ab5B,Acetophenone,CC(=O)C1=CC=CC=C1,0,ab5B
+ab6A,Acetophenone,CC(=O)C1=CC=CC=C1,0,ab6A
+ab1D,alpha-pinene,CC1=CCC2CC1C2(C)C,0,ab1D
+ab2A,alpha-pinene,CC1=CCC2CC1C2(C)C,0,ab2A
+ab2B,alpha-pinene,CC1=CCC2CC1C2(C)C,0,ab2B
+ab3A,alpha-pinene,CC1=CCC2CC1C2(C)C,0,ab3A
+ab3B,alpha-pinene,CC1=CCC2CC1C2(C)C,0,ab3B
+ab5B,alpha-pinene,CC1=CCC2CC1C2(C)C,0,ab5B
+ab6A,alpha-pinene,CC1=CCC2CC1C2(C)C,0,ab6A
+ab1D,Ammonia,N,0,ab1D
+ab2A,Ammonia,N,0,ab2A
+ab2B,Ammonia,N,0,ab2B
+ab3A,Ammonia,N,0,ab3A
+ab3B,Ammonia,N,0,ab3B
+ab5B,Ammonia,N,0,ab5B
+ab6A,Ammonia,N,0,ab6A
+ab1D,beta-citronellol,CC(CCC=C(C)C)CCO�,0,ab1D
+ab2A,beta-citronellol,CC(CCC=C(C)C)CCO�,0,ab2A
+ab2B,beta-citronellol,CC(CCC=C(C)C)CCO�,0,ab2B
+ab3A,beta-citronellol,CC(CCC=C(C)C)CCO�,0,ab3A
+ab3B,beta-citronellol,CC(CCC=C(C)C)CCO�,0,ab3B
+ab5B,beta-citronellol,CC(CCC=C(C)C)CCO�,0,ab5B
+ab6A,beta-citronellol,CC(CCC=C(C)C)CCO�,1,ab6A
+ab1D,Benzaldehyde,C1=CC=C(C=C1)C=O,1,ab1D
+ab2A,Benzaldehyde,C1=CC=C(C=C1)C=O,0,ab2A
+ab2B,Benzaldehyde,C1=CC=C(C=C1)C=O,0,ab2B
+ab3A,Benzaldehyde,C1=CC=C(C=C1)C=O,0,ab3A
+ab3B,Benzaldehyde,C1=CC=C(C=C1)C=O,0,ab3B
+ab5B,Benzaldehyde,C1=CC=C(C=C1)C=O,0,ab5B
+ab6A,Benzaldehyde,C1=CC=C(C=C1)C=O,0,ab6A
+ab1D,Butanoic acid,CCCC(=O)O,0,ab1D
+ab2A,Butanoic acid,CCCC(=O)O,0,ab2A
+ab2B,Butanoic acid,CCCC(=O)O,0,ab2B
+ab3A,Butanoic acid,CCCC(=O)O,n/a,ab3A
+ab3B,Butanoic acid,CCCC(=O)O,0,ab3B
+ab5B,Butanoic acid,CCCC(=O)O,0,ab5B
+ab6A,Butanoic acid,CCCC(=O)O,1,ab6A
+ab1D,Butanol,CCCCO,0,ab1D
+ab2A,Butanol,CCCCO,0,ab2A
+ab2B,Butanol,CCCCO,0,ab2B
+ab3A,Butanol,CCCCO,n/a,ab3A
+ab3B,Butanol,CCCCO,0,ab3B
+ab5B,Butanol,CCCCO,0,ab5B
+ab6A,Butanol,CCCCO,0,ab6A
+ab1D,Carbon dioxide,C(=O)=O,0,ab1D
+ab2A,Carbon dioxide,C(=O)=O,0,ab2A
+ab2B,Carbon dioxide,C(=O)=O,0,ab2B
+ab3A,Carbon dioxide,C(=O)=O,0,ab3A
+ab3B,Carbon dioxide,C(=O)=O,0,ab3B
+ab5B,Carbon dioxide,C(=O)=O,0,ab5B
+ab6A,Carbon dioxide,C(=O)=O,0,ab6A
+ab1D,cis -vaccenyl acetate,CCCCCC/C=C\CCCCCCCCCCOC(=O)C,0,ab1D
+ab2A,cis -vaccenyl acetate,CCCCCC/C=C\CCCCCCCCCCOC(=O)C,0,ab2A
+ab2B,cis -vaccenyl acetate,CCCCCC/C=C\CCCCCCCCCCOC(=O)C,0,ab2B
+ab3A,cis -vaccenyl acetate,CCCCCC/C=C\CCCCCCCCCCOC(=O)C,n/a,ab3A
+ab3B,cis -vaccenyl acetate,CCCCCC/C=C\CCCCCCCCCCOC(=O)C,0,ab3B
+ab5B,cis -vaccenyl acetate,CCCCCC/C=C\CCCCCCCCCCOC(=O)C,0,ab5B
+ab6A,cis -vaccenyl acetate,CCCCCC/C=C\CCCCCCCCCCOC(=O)C,0,ab6A
+ab1D,Cyclohexanone,C1CCC(=O)CC1,0,ab1D
+ab2A,Cyclohexanone,C1CCC(=O)CC1,0,ab2A
+ab2B,Cyclohexanone,C1CCC(=O)CC1,0,ab2B
+ab3A,Cyclohexanone,C1CCC(=O)CC1,0,ab3A
+ab3B,Cyclohexanone,C1CCC(=O)CC1,0,ab3B
+ab5B,Cyclohexanone,C1CCC(=O)CC1,0,ab5B
+ab6A,Cyclohexanone,C1CCC(=O)CC1,0,ab6A
+ab1D,Dipropyldisulphide,CCCSSCCC,0,ab1D
+ab2A,Dipropyldisulphide,CCCSSCCC,0,ab2A
+ab2B,Dipropyldisulphide,CCCSSCCC,0,ab2B
+ab3A,Dipropyldisulphide,CCCSSCCC,0,ab3A
+ab3B,Dipropyldisulphide,CCCSSCCC,0,ab3B
+ab5B,Dipropyldisulphide,CCCSSCCC,0,ab5B
+ab6A,Dipropyldisulphide,CCCSSCCC,0,ab6A
+ab1D,Ethanolamine,C(CO)N,0,ab1D
+ab2A,Ethanolamine,C(CO)N,0,ab2A
+ab2B,Ethanolamine,C(CO)N,0,ab2B
+ab3A,Ethanolamine,C(CO)N,0,ab3A
+ab3B,Ethanolamine,C(CO)N,0,ab3B
+ab5B,Ethanolamine,C(CO)N,0,ab5B
+ab6A,Ethanolamine,C(CO)N,0,ab6A
+ab1D,Ethyl 2-methylbutanoate,CCC(C)C(=O)OCC,0,ab1D
+ab2A,Ethyl 2-methylbutanoate,CCC(C)C(=O)OCC,0,ab2A
+ab2B,Ethyl 2-methylbutanoate,CCC(C)C(=O)OCC,1,ab2B
+ab3A,Ethyl 2-methylbutanoate,CCC(C)C(=O)OCC,1,ab3A
+ab3B,Ethyl 2-methylbutanoate,CCC(C)C(=O)OCC,0,ab3B
+ab5B,Ethyl 2-methylbutanoate,CCC(C)C(=O)OCC,0,ab5B
+ab6A,Ethyl 2-methylbutanoate,CCC(C)C(=O)OCC,0,ab6A
+ab1D,Ethyl acetate,CCOC(=O)C,0,ab1D
+ab2A,Ethyl acetate,CCOC(=O)C,1,ab2A
+ab2B,Ethyl acetate,CCOC(=O)C,0,ab2B
+ab3A,Ethyl acetate,CCOC(=O)C,n/a,ab3A
+ab3B,Ethyl acetate,CCOC(=O)C,0,ab3B
+ab5B,Ethyl acetate,CCOC(=O)C,0,ab5B
+ab6A,Ethyl acetate,CCOC(=O)C,0,ab6A
+ab1D,Ethyl butanoate,CCCC(=O)OCC,0,ab1D
+ab2A,Ethyl butanoate,CCCC(=O)OCC,n/a,ab2A
+ab2B,Ethyl butanoate,CCCC(=O)OCC,1,ab2B
+ab3A,Ethyl butanoate,CCCC(=O)OCC,1,ab3A
+ab3B,Ethyl butanoate,CCCC(=O)OCC,0,ab3B
+ab5B,Ethyl butanoate,CCCC(=O)OCC,0,ab5B
+ab6A,Ethyl butanoate,CCCC(=O)OCC,0,ab6A
+ab1D,Ethyl propionate,CCC(=O)OCC,0,ab1D
+ab2A,Ethyl propionate,CCC(=O)OCC,1,ab2A
+ab2B,Ethyl propionate,CCC(=O)OCC,n/a,ab2B
+ab3A,Ethyl propionate,CCC(=O)OCC,1,ab3A
+ab3B,Ethyl propionate,CCC(=O)OCC,0,ab3B
+ab5B,Ethyl propionate,CCC(=O)OCC,0,ab5B
+ab6A,Ethyl propionate,CCC(=O)OCC,0,ab6A
+ab1D,Eugenol methyl ether,COC1=C(C=C(C=C1)CC=C)OC,0,ab1D
+ab2A,Eugenol methyl ether,COC1=C(C=C(C=C1)CC=C)OC,0,ab2A
+ab2B,Eugenol methyl ether,COC1=C(C=C(C=C1)CC=C)OC,0,ab2B
+ab3A,Eugenol methyl ether,COC1=C(C=C(C=C1)CC=C)OC,0,ab3A
+ab3B,Eugenol methyl ether,COC1=C(C=C(C=C1)CC=C)OC,0,ab3B
+ab5B,Eugenol methyl ether,COC1=C(C=C(C=C1)CC=C)OC,0,ab5B
+ab6A,Eugenol methyl ether,COC1=C(C=C(C=C1)CC=C)OC,0,ab6A
+ab1D,Geranyl acetate,CC(=CCC/C(=C/COC(=O)C)/C)C,0,ab1D
+ab2A,Geranyl acetate,CC(=CCC/C(=C/COC(=O)C)/C)C,0,ab2A
+ab2B,Geranyl acetate,CC(=CCC/C(=C/COC(=O)C)/C)C,0,ab2B
+ab3A,Geranyl acetate,CC(=CCC/C(=C/COC(=O)C)/C)C,0,ab3A
+ab3B,Geranyl acetate,CC(=CCC/C(=C/COC(=O)C)/C)C,n/a,ab3B
+ab5B,Geranyl acetate,CC(=CCC/C(=C/COC(=O)C)/C)C,0,ab5B
+ab6A,Geranyl acetate,CC(=CCC/C(=C/COC(=O)C)/C)C,n/a,ab6A
+ab1D,gamma-valerolactone,CC1CCC(=O)O1,1,ab1D
+ab2A,gamma-valerolactone,CC1CCC(=O)O1,0,ab2A
+ab2B,gamma-valerolactone,CC1CCC(=O)O1,1,ab2B
+ab3A,gamma-valerolactone,CC1CCC(=O)O1,1,ab3A
+ab3B,gamma-valerolactone,CC1CCC(=O)O1,0,ab3B
+ab5B,gamma-valerolactone,CC1CCC(=O)O1,0,ab5B
+ab6A,gamma-valerolactone,CC1CCC(=O)O1,1,ab6A
+ab1D,Hexanol,CCCCCCO,0,ab1D
+ab2A,Hexanol,CCCCCCO,0,ab2A
+ab2B,Hexanol,CCCCCCO,1,ab2B
+ab3A,Hexanol,CCCCCCO,n/a,ab3A
+ab3B,Hexanol,CCCCCCO,1,ab3B
+ab5B,Hexanol,CCCCCCO,0,ab5B
+ab6A,Hexanol,CCCCCCO,1,ab6A
+ab1D,Indole,C1=CC=C2C(=C1)C=CN2,0,ab1D
+ab2A,Indole,C1=CC=C2C(=C1)C=CN2,0,ab2A
+ab2B,Indole,C1=CC=C2C(=C1)C=CN2,0,ab2B
+ab3A,Indole,C1=CC=C2C(=C1)C=CN2,0,ab3A
+ab3B,Indole,C1=CC=C2C(=C1)C=CN2,0,ab3B
+ab5B,Indole,C1=CC=C2C(=C1)C=CN2,0,ab5B
+ab6A,Indole,C1=CC=C2C(=C1)C=CN2,0,ab6A
+ab1D,Iso-amyl acetate,CC(C)CCOC(=O)C,1,ab1D
+ab2A,Iso-amyl acetate,CC(C)CCOC(=O)C,0,ab2A
+ab2B,Iso-amyl acetate,CC(C)CCOC(=O)C,0,ab2B
+ab3A,Iso-amyl acetate,CC(C)CCOC(=O)C,1,ab3A
+ab3B,Iso-amyl acetate,CC(C)CCOC(=O)C,0,ab3B
+ab5B,Iso-amyl acetate,CC(C)CCOC(=O)C,1,ab5B
+ab6A,Iso-amyl acetate,CC(C)CCOC(=O)C,n/a,ab6A
+ab1D,Iso-amyl alcohol,CC(C)CCO,0,ab1D
+ab2A,Iso-amyl alcohol,CC(C)CCO,0,ab2A
+ab2B,Iso-amyl alcohol,CC(C)CCO,0,ab2B
+ab3A,Iso-amyl alcohol,CC(C)CCO,n/a,ab3A
+ab3B,Iso-amyl alcohol,CC(C)CCO,0,ab3B
+ab5B,Iso-amyl alcohol,CC(C)CCO,0,ab5B
+ab6A,Iso-amyl alcohol,CC(C)CCO,0,ab6A
+ab1D,Linalool,CC(=CCCC(C)(C=C)O)C,0,ab1D
+ab2A,Linalool,CC(=CCCC(C)(C=C)O)C,0,ab2A
+ab2B,Linalool,CC(=CCCC(C)(C=C)O)C,0,ab2B
+ab3A,Linalool,CC(=CCCC(C)(C=C)O)C,0,ab3A
+ab3B,Linalool,CC(=CCCC(C)(C=C)O)C,0,ab3B
+ab5B,Linalool,CC(=CCCC(C)(C=C)O)C,0,ab5B
+ab6A,Linalool,CC(=CCCC(C)(C=C)O)C,n/a,ab6A
+ab1D,Methyl salicylate,COC(=O)C1=CC=CC=C1O,1,ab1D
+ab2A,Methyl salicylate,COC(=O)C1=CC=CC=C1O,0,ab2A
+ab2B,Methyl salicylate,COC(=O)C1=CC=CC=C1O,0,ab2B
+ab3A,Methyl salicylate,COC(=O)C1=CC=CC=C1O,0,ab3A
+ab3B,Methyl salicylate,COC(=O)C1=CC=CC=C1O,0,ab3B
+ab5B,Methyl salicylate,COC(=O)C1=CC=CC=C1O,0,ab5B
+ab6A,Methyl salicylate,COC(=O)C1=CC=CC=C1O,0,ab6A
+ab1D,Nonanal,CCCCCCCCC=O,0,ab1D
+ab2A,Nonanal,CCCCCCCCC=O,0,ab2A
+ab2B,Nonanal,CCCCCCCCC=O,0,ab2B
+ab3A,Nonanal,CCCCCCCCC=O,0,ab3A
+ab3B,Nonanal,CCCCCCCCC=O,0,ab3B
+ab5B,Nonanal,CCCCCCCCC=O,0,ab5B
+ab6A,Nonanal,CCCCCCCCC=O,0,ab6A
+ab1D,Pentyl acetate,CCCCCOC(=O)C,0,ab1D
+ab2A,Pentyl acetate,CCCCCOC(=O)C,n/a,ab2A
+ab2B,Pentyl acetate,CCCCCOC(=O)C,0,ab2B
+ab3A,Pentyl acetate,CCCCCOC(=O)C,1,ab3A
+ab3B,Pentyl acetate,CCCCCOC(=O)C,n/a,ab3B
+ab5B,Pentyl acetate,CCCCCOC(=O)C,1,ab5B
+ab6A,Pentyl acetate,CCCCCOC(=O)C,1,ab6A
+ab1D,Phenylacetaldehyde,C1=CC=C(C=C1)CC=O,1,ab1D
+ab2A,Phenylacetaldehyde,C1=CC=C(C=C1)CC=O,0,ab2A
+ab2B,Phenylacetaldehyde,C1=CC=C(C=C1)CC=O,0,ab2B
+ab3A,Phenylacetaldehyde,C1=CC=C(C=C1)CC=O,0,ab3A
+ab3B,Phenylacetaldehyde,C1=CC=C(C=C1)CC=O,0,ab3B
+ab5B,Phenylacetaldehyde ,C1=CC=C(C=C1)CC=O,0,ab5B
+ab6A,Phenylacetaldehyde,C1=CC=C(C=C1)CC=O,0,ab6A
+ab1D,Propanone,CC(=O)C,0,ab1D
+ab2A,Propanone,CC(=O)C,1,ab2A
+ab2B,Propanone,CC(=O)C,0,ab2B
+ab3A,Propanone,CC(=O)C,0,ab3A
+ab3B,Propanone,CC(=O)C,0,ab3B
+ab5B,Propanone,CC(=O)C,0,ab5B
+ab6A,Propanone,CC(=O)C,n/a,ab6A
+ab1D,Pyrrolidine,C1CCNC1,0,ab1D
+ab2A,Pyrrolidine,C1CCNC1,0,ab2A
+ab2B,Pyrrolidine,C1CCNC1,0,ab2B
+ab3A,Pyrrolidine,C1CCNC1,0,ab3A
+ab3B,Pyrrolidine,C1CCNC1,n/a,ab3B
+ab5B,Pyrrolidine,C1CCNC1,0,ab5B
+ab6A,Pyrrolidine,C1CCNC1,n/a,ab6A

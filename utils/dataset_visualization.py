@@ -27,7 +27,7 @@ def protein_tuning_curves(dataset, data, n_proteins=27):
         n_proteins (int) - number of proteins to plot
     """
     # find unique proteins
-    unique_proteins = list(set(data['Protein']))
+    unique_proteins = list(set(data['Protein sequence']))
 
     # histogram of their responses
     for i, prot in enumerate(unique_proteins):
@@ -40,7 +40,7 @@ def protein_tuning_curves(dataset, data, n_proteins=27):
             fig.supylabel('count')
             fig.suptitle(dataset)
 
-        responses = data['output'][data['Protein'] == prot]
+        responses = data['output'][data['Protein sequence'] == prot]
         ax = fig.add_subplot(3, 3, (i % 9) + 1)
         ax.hist(responses, edgecolor='k', color='#cc6666')
         if len(prot) > 5:
@@ -76,4 +76,5 @@ if __name__ == '__main__':
     hc = 'data/HallemCarlson/hc_data_reformat.csv'
     davis = 'data/Davis/davis.csv'
     m2or = 'data/M2OR/pairs_ec50.csv'
-    main(m2or)
+    cc = 'data/CareyCarlson/CC_reformat.csv'
+    main(cc)
