@@ -13,7 +13,8 @@ import pickle as pkl
 from tqdm import tqdm
 from scipy.stats import zscore
 import matplotlib.pyplot as plt
-from sklearn.linear_model import Ridge, Lasso
+from sklearn.metrics import matthews_corrcoef
+from sklearn.linear_model import Ridge, Lasso, LogisticRegression
 from sklearn.model_selection import ShuffleSplit, GridSearchCV, KFold
 
 import esm
@@ -92,6 +93,22 @@ def generate_embeddings(dataset, mol_emb_type):
     return (mol_embs, feat_dict)
 
 
+def save_splits(dataset, df, train_index, test_index, split_num, type):
+    """
+    Saves the splits as csv files
+    """
+    # creating save file
+    save_fp = os.path.dirname(dataset) + f'/{type}_splits/'
+    if not os.path.exists(save_fp):
+        os.makedirs(save_fp)
+
+    # saving dfs
+    train_df = df.iloc[train_index]
+    test_df = df.iloc[test_index]
+    train_df.to_csv(save_fp + f'train_{split_num}.csv', index=False)
+    test_df.to_csv(save_fp + f'test_{split_num}.csv', index=False)
+
+
 def cdhit_split(df, x, y, dataset):
     """
     splits data based on protein similarity
@@ -148,23 +165,28 @@ def run_regression(dataset, mol_emb, prot_emb, regressor='r'):
 
     # convert to numpy
     x = np.array(x)
-    y = zscore(np.array(y))
-
-    # defining regressor
-    if regressor == 'r':
-        reg = Ridge()
-    elif regressor == 'l':
-        reg = Lasso()
+    y = np.array(y)
 
     # parameters to sweep over
     param_grid = {
         'alpha': np.logspace(-10, 10, num=21)
     }
 
+    # defining regressor
+    if dataset == 'data/M2OR/pairs_ec50.csv':
+        reg = LogisticRegression()
+        param_grid = {
+            'C': np.logspace(-10, 10, num=21)
+        }
+    elif regressor == 'r':
+        reg = Ridge()
+    elif regressor == 'l':
+        reg = Lasso()
+
     # random splits of the data
     rs = ShuffleSplit(n_splits=5, test_size=0.2, random_state=seed)
     rand_shuf_scores = []
-    for train_index, test_index in rs.split(y):
+    for i, (train_index, test_index) in enumerate(rs.split(y)):
         clf = GridSearchCV(
             reg,
             param_grid=param_grid,
@@ -172,13 +194,22 @@ def run_regression(dataset, mol_emb, prot_emb, regressor='r'):
         clf.fit(x[train_index], y[train_index])
         best_model = clf.best_estimator_
         best_model.fit(x[train_index], y[train_index])
-        r2 = best_model.score(x[test_index], y[test_index])
-        rand_shuf_scores.append(r2)
+        save_splits(dataset, df, train_index, test_index, i, 'rand')
+
+        # using mcc if m2or
+        if dataset == 'data/M2OR/pairs_ec50.csv':
+            preds = best_model.predict(x[test_index])
+            score = matthews_corrcoef(y[test_index], preds)
+
+        else:
+            score = best_model.score(x[test_index], y[test_index])
+
+        rand_shuf_scores.append(score)
 
     # cdhit splits of the data
     x, y = cdhit_split(df, x, y, dataset=dataset)
     cdhit_scores = []
-    for train_index, test_index in KFold(n_splits=5, shuffle=False).split(y):
+    for i, (train_index, test_index) in enumerate(KFold(n_splits=5, shuffle=False).split(y)):
         clf = GridSearchCV(
             reg,
             param_grid=param_grid,
@@ -186,8 +217,17 @@ def run_regression(dataset, mol_emb, prot_emb, regressor='r'):
         clf.fit(x[train_index], y[train_index])
         best_model = clf.best_estimator_
         best_model.fit(x[train_index], y[train_index])
-        r2 = best_model.score(x[test_index], y[test_index])
-        cdhit_scores.append(r2)
+        save_splits(dataset, df, train_index, test_index, i, 'cdhit')
+
+        # using mcc if m2or
+        if dataset == 'data/M2OR/pairs_ec50.csv':
+            preds = best_model.predict(x[test_index])
+            score_cd = matthews_corrcoef(y[test_index], preds)
+
+        else:
+            score_cd = best_model.score(x[test_index], y[test_index])
+
+        cdhit_scores.append(score_cd)
 
     return (rand_shuf_scores, cdhit_scores)
 
@@ -272,6 +312,16 @@ def main(dataset):
         for emb_type in tqdm(emb_types_mol):
             mol_emb, prot_emb = generate_embeddings(dataset, emb_type)
             mol_emb = r.clean_embeddings(mol_emb)
+
+            # zscore mordred
+            if emb_type == ('base', 'MordredDescriptors'):
+                cleaned = np.array(list(mol_emb.values()))
+                cleaned_z = zscore(cleaned)
+                for i, (key, value) in enumerate(mol_emb.items()):
+                    mol_emb[key] = cleaned_z[i]
+
+                mol_emb = r.clean_embeddings(mol_emb)
+
             mol_emb = r.reduce_embs(mol_emb)  # idk about this
             shuf_scores, cdhit_scores = run_regression(
                 dataset,
@@ -286,7 +336,9 @@ def main(dataset):
 
 if __name__ == '__main__':
     datasets = [
-        'data/Davis/davis.csv',
-        # 'data/HallemCarlson/hc_with_prot_seq.csv',
+        # 'data/Davis/davis_z.csv',
+        # 'data/HallemCarlson/hc_with_prot_seq_z.csv',
+        # 'data/M2OR/pairs_ec50.csv',
+        'data/CareyCarlson/CC_reformat_z.csv',
     ]
     main(datasets)
