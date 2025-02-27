@@ -396,6 +396,16 @@ def main(datasets, regressor='r'):
         for emb_type in tqdm(emb_types, desc=f'{dataset}'):
             embs = generate_embeddings(dataset, emb_type)
             embs = clean_embeddings(embs)
+
+            # zscore mordred
+            if emb_type == ('base', 'MordredDescriptors'):
+                cleaned = np.array(list(embs.values()))
+                cleaned_z = zscore(cleaned)
+                for i, (key, value) in enumerate(embs.items()):
+                    embs[key] = cleaned_z[i]
+
+                embs = clean_embeddings(embs)
+
             embs = reduce_embs(embs)
             scores = run_lr(dataset, embs, regressor=regressor)
             emb_scores.append((emb_type, scores))
@@ -408,9 +418,9 @@ def main(datasets, regressor='r'):
 
 if __name__ == '__main__':
     datasets = [
-        # 'data/M2OR/pairs_ec50.csv'
-        # 'data/Davis/davis.csv',
-        # 'data/HallemCarlson/hc_with_prot_seq.csv',
-        'data/CareyCarlson/CC_reformat.csv'
+        # 'data/M2OR/pairs_ec50.csv',
+        # 'data/Davis/davis_z.csv',
+        'data/HallemCarlson/hc_with_prot_seq_z.csv',
+        # 'data/CareyCarlson/CC_reformat_z.csv'
     ]
     main(datasets)
