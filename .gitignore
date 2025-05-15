@@ -9,6 +9,7 @@ data/M2OR/featurized_proteins
 data/CareyCarlson/featurized_mols
 data/CareyCarlson/featurized_proteins
 presentations/~*
+scratch.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
