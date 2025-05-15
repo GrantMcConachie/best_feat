@@ -1,2 +1,14 @@
 # best_feat
-A handful of scripts that attempt to find the best featurizer for molecules for a handful of tasks.
+Code for "Multimodal Foundation Models Improve Odorant
+Receptor Pair Prediction"
+
+# Installation
+```
+conda env create -f environment.yml
+conda activate best_feat
+pip install -e .
+```
+
+# scripts
+`./model/molecule_model.py` - contains the MO model. <br>
+`./model/combo_model.py` - contains the MPL model.

@@ -1,4 +1,4 @@
-name: molfeat
+name: best_feat
 channels:
   - conda-forge
 dependencies:

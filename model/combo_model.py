@@ -73,8 +73,6 @@ def generate_embeddings(dataset, mol_emb_type):
                 return_contacts=True
             )
         token_representations = results["representations"][33]
-        print(token_representations)
-        return None
 
     # Generate per-sequence representations via averaging
     sequence_representations = []
