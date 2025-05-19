@@ -23,7 +23,7 @@ import torch
 import model.molecule_model as r
 
 
-def generate_embeddings(dataset, mol_emb_type):
+def generate_embeddings(dataset, mol_emb_type=('base', 'CATS')):
     """
     generates molecular and protein embeddings
     """
